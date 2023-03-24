@@ -1,8 +1,7 @@
 ---
-title: Opposites
-permalink: /notes/:slug
-category: notes
-tag:
+title: "Opposites"
+tags:
+draft: true
 ---
 
 In my epic “oops this is supposed to be 5k words now it’s 50k words and basically a two-part novel” Untamed fic, I’ve been stumped on the end of chapter one for at least… six months now. 

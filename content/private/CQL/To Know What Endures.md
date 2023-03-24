@@ -1,8 +1,7 @@
 ---
-title: To Know What Endures
-permalink: /notes/:slug
-category: notes
+title: "To Know What Endures"
 tag:
+draft: true
 ---
 
 [[CQL/Chapter 1 - Cloud Recesses]]

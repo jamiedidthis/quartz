@@ -3,6 +3,7 @@ title: "Chapter 1 - Cloud Recesses"
 tags: 
  - cql
  - fic
+draft: true
 ---
 
 > *Peace: to accept what must be,<br>
