@@ -1,16 +1,16 @@
-name: Jacky Zhao
-enableToc: true
+name: Jamie Harris
+enableToc: false
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
@@ -18,12 +18,13 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  a collection of living documents -- a blog, portfolio, and notebook all rolled into one.
 page_title:
-  "🪴 Quartz 3.3"
+  "Field notes"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: IG
+    link: https://instagram.com/jamiemadethis
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/jamiedidthis
+favicon: 
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>">

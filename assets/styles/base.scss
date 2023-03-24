@@ -1,14 +1,16 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
+  --font-body: "Source Serif Pro";
+  --font-header: "Source Serif Pro";
+  --font-sans: "Work Sans";
   --font-mono: "Fira Code"
 }
 
 // typography
 html {
   scroll-behavior: smooth;
+  font-size: 18px;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
       direction: rtl;
@@ -21,7 +23,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 25vw;
   margin: 0 auto;
   max-width: 1000px;
   @media all and (max-width: 1200px) {
@@ -42,7 +44,7 @@ body {
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
-  font-weight: revert;
+  font-weight: 600;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 
@@ -54,7 +56,7 @@ h1, h2, h3, h4, h5, h6, thead {
 .hanchor {
   font-family: var(--font-header);
   opacity: 0.8;
-  transition: color 0.3s ease;
+  transition: color 0.5s ease;
   color: var(--dark);
 }
 
@@ -67,8 +69,24 @@ p, ul, text, a, tr, td, li, ol, ul {
   padding: revert;
 }
 
+ul {
+  & > li::marker {
+    color: var(--secondary);
+  }
+}
+
+ol {
+  & > li::marker {
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    font-weight: 600;
+    color: var(--dark);
+  }
+}
+
 tbody, li, p {
-  line-height: 1.5em;
+  line-height: 1.6rem;
+  font-size: 1rem;
 }
 
 .mainTOC {
@@ -139,15 +157,25 @@ p > img + em {
   transform: translateY(-1em);
 }
 
+.small, .epigraph { 
+  font-family: var(--font-sans);
+  font-size: 0.8em;
+  color: var(--gray);
+  opacity: 0.6;
+}
+
 sup {
   line-height: 0
 }
 
 blockquote {
-  margin-left: 0;
+  margin: 2em 1em;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
-  transition: border-color 0.2s ease;
+  transition: border-color 0.5s ease;
+  &:hover { 
+    border-left: 3px solid var(--tertiary);
+  }
 }
 
 .footnotes p {
@@ -182,13 +210,15 @@ blockquote {
 
 article {
   & > h1 {
-    margin-top: 2em;
+    margin: 2em 0 0.2em 0;
     font-size: 2em;
   }
 
   & > .meta {
     margin: 0 0 1em 0;
     opacity: 0.7;
+    font-family: var(--font-mono);
+    font-size: 0.8em;
   }
 
   & a {
@@ -196,14 +226,14 @@ article {
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
-      padding: 0 0.1em;
-      margin: auto -0.1em;
-      border-radius: 3px;
+      color: var(--gray);
+      border-bottom: 2px solid var(--secondary);
+      &:hover {
+        border-bottom: 2px solid var(--tertiary);
+      }
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent;
       }
     }
   }
@@ -236,9 +266,13 @@ article {
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
+    font-family: var(--font-mono);
+    font-weight: 400;
+    font-size: 0.72em;
+    text-transform: lowercase;
     &::before {
       content: "#";
-      margin-right: 0.3em;
+      margin-right: 0.2em;
       color: var(--outlinegray);
     }
   }
@@ -247,17 +281,33 @@ article {
 .backlinks a {
   font-weight: 600;
   font-size: 0.9rem;
+  text-decoration: none;
+  color: var(--gray);
+  border-bottom: 2px solid var(--secondary);
+  &:hover {
+      border-bottom: 2px solid var(--tertiary);
+   }
 }
 
 sup > a {
   text-decoration: none;
-  padding: 0 0.1em 0 0.2em;
+  padding: 0 0.1em;
+  font-family: var(--font-mono);
+  font-size: 0.85em;
 }
 
 #page-title {
   margin: 0;
   & > a {
     font-family: var(--font-header);
+    font-size: .7em;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--gray);
+    border-bottom: 2px solid var(--secondary);
+    &:hover {
+        border-bottom: 2px solid var(--tertiary);
+    }
   }
 }
 
@@ -265,10 +315,12 @@ a {
   font-size: 1em;
   font-weight: 700;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.5s ease;
   color: var(--secondary);
+  border-bottom: none;
   &:hover {
     color: var(--tertiary) !important;
+    border-bottom: 2px solid var(--tertiary);
   }
 }
 
@@ -301,11 +353,22 @@ footer {
 }
 
 hr {
-  width: 100%;
-  margin: 2em auto;
-  height: 1px;
   border: none;
-  background-color: var(--outlinegray);
+  border-top: 2px solid var(--secondary);
+  color: var(--dark);
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+  width: 60%;
+  margin: 4em auto;
+  &::after {
+    background: var(--light);
+    content: '/ / /';
+    padding: 0 14px;
+    position: relative;
+    top: -10px;
+    font-weight: 600;
+  }
 }
 
 .page-end {
@@ -329,19 +392,17 @@ hr {
 
       & > li {
         margin: 0.5em 0;
-        padding: 0.25em 1em;
-        border: var(--outlinegray) 1px solid;
-        border-radius: 5px
       }
     }
   }
 
   & #graph-container {
-    border: var(--outlinegray) 1px solid;
     border-radius: 5px;
     box-sizing: border-box;
     min-height: 250px;
     margin: 0.5em 0;
+    border: 2px solid var(--lightgray);
+    background-color: var(--light);
 
     & > svg {
       margin-bottom: -5px;
@@ -384,6 +445,7 @@ header {
     & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
+      font-size: 1em;
     }
   }
 
@@ -450,7 +512,7 @@ header {
 
     & > #results-container {
       & .result-card {
-        padding: 1em;
+        padding: 1.5em;
         cursor: pointer;
         transition: background 0.2s ease;
         border: 1px solid var(--outlinegray);
@@ -459,8 +521,8 @@ header {
 
         // normalize button props
         font-family: inherit;
-        font-size: 100%;
-        line-height: 1.15;
+        font-size: 80%;
+        line-height: 1.6;
         margin: 0;
         overflow: visible;
         text-transform: none;
@@ -485,6 +547,7 @@ header {
 
         & > h3, & > p {
           margin: 0;
+          font-size: 1.2em
         }
       }
     }
@@ -492,7 +555,8 @@ header {
 }
 
 .search-highlight {
-  background-color: #afbfc966;
+  background-color: var(--highlighted);
+  color: var(--dark);
   padding: 0.05em 0.2em;
   border-radius: 3px;
 }
@@ -567,7 +631,7 @@ header {
   border: 1px solid var(--outlinegray);
   border-radius: 5px;
   pointer-events: none;
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  transition: opacity 0.5s ease, transform 0.5s ease;
   user-select: none;
   overflow-wrap: anywhere;
   box-shadow: 6px 6px 36px 0 rgba(0,0,0,0.25);
@@ -580,7 +644,7 @@ header {
     opacity: 1;
     visibility: visible;
     display: inline-block;
-    animation: dropin 0.2s ease;
+    animation: dropin 0.5s ease;
   }
 
   & > h3 {
@@ -601,7 +665,8 @@ header {
   }
 
   & > p, & > a {
-    font-size: 1rem;
+    font-size: 0.8rem;
+    line-height: 1.5em;
     font-weight: 400;
     user-select: none;
   }
@@ -615,11 +680,12 @@ header {
   }
 
   li a {
-    padding: 0 1em;
+    margin: 0 1em;
   }
 }
 
 mark {
   background-color: var(--highlighted);
-  color: var(--gray);
+  color: var(--dark);
+  border-radius: 3px;
 }
