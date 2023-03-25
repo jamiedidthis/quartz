@@ -8,7 +8,7 @@ Jonas Salk, the mid-20th-century virologist, coined the question-turned-maxim, �
 > 
 > Salk, [Are We Being Good Ancestors?](https://www.jstor.org/stable/45064193), 1992
 
-[[Robert Macfarlane]] says the myriad crises of the so-called and apocalyptic era of the [[Anthropocene]] asks this question more than ever.
+[[Robert Macfarlane]] says the myriad crises of the so-called and apocalyptic era of the [[notes/anthropocene]] asks this question more than ever.
 
 > What is the history of things to come? What will be our future fossils? As we have amplified our ability to shape the world, so we become more responsible for the long afterlives of that shaping. The Anthropocene asks of us the question memorably posed by the immunologist Jonas Salk: ‘Are we being good ancestors?’
 > 

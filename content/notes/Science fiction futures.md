@@ -1,5 +1,7 @@
 ---
 title: "Science fiction futures"
+tags:
+ - fresh takes
 ---
 
 Visionary science fiction and fantasy is a way to practice the future.
@@ -10,7 +12,7 @@ Visionary science fiction and fantasy is a way to practice the future.
 > 
 > [[adrienne maree brown]], *[[Emergent Strategy]]*
 
-This is not a utpotian ideal or ==a radical proposition==, but something that has happened before: 
+This is not a utopian ideal or ==a radical proposition==, but something that has happened before: 
 
 > During the Cold War, while much of American literature was basically suburban white boys talking about their dicks, science fiction did a lot of the real cultural work.
 > 
@@ -22,7 +24,7 @@ Or as [[adrienne maree brown]] says, “showing Black and white people sitting a
 > 
 > [[adrienne maree brown]], [[Walidah Imarisha]], *[[Octavia’s Brood]]*
 
-Science fiction and fantasy are also the perfect genre to explore the “contaminations” of queerness and “monstrosity,” both of which will have to be part of a sustainable future. We want [[A messy plurality]], not [[notes/Purity and supremacy|purity and supremacy]].
+Science fiction and fantasy are also the perfect genre to explore the “contaminations” of queerness and “monstrosity,” both of which will have to be part of a sustainable future. We want [[notes/a messy plurality]], not [[notes/purity and supremacy|purity and supremacy]].
 
 > The most consistent vision of such symbiogenetic re-worldings can be found in the work of Donna Haraway, who continually seeks ways to imagine “worlds we might yet live in” amid the techno-convulsions of late capitalism. Steadily refusing the twin temptations of pure beginning and total apocalypse (“the world has always been in the middle of things”), Haraway’s worlders are always already hybrid and contaminated: natural-cultural concatenations who affirm that “there can be an elsewhere, not as utopian fantasy or relativist escape, but an elsewhere born out of the hard (and sometimes joyful) work of getting on together in a [[kin group]].”
 > 

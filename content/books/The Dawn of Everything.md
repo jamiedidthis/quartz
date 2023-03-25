@@ -33,10 +33,10 @@ A lot of the negative reviews seem to want a new level of certainty, backed up b
 Stray notes: 
 - Adopting either Hobbes or Rousseau as an origin myth is like having a Garden of Eden, there was once some “original state” more natural than the rest. A false premise, a false binary.
 * “Inequality” is almost a fatalistic acceptance, some condition that can only be tweaked instead of ended (kings or governments can be overthrown, a vague notion cannot).
-* This different view of the past is basically [[Science fiction futures|science fictional behavior]].
+* This different view of the past is basically [[notes/science fiction futures|science fictional behavior]].
 * Seasonal variations of social structure (reminds me of seasonal gender in [[The Left Hand of Darkness]]
 * Schismogenesis
-* Also seasonal flooding with flood retreat farming, cf. [[Seasonal time]],
+* Also seasonal flooding with flood retreat farming, cf. [[notes/seasonal time]],
 * When we tell these stories of losses of primordial innocence, women get written out of the picture, cf. [[The Carrier Bag Theory of Fiction]].
 * History’s first city dwellers did not always leave a harsh footprint on the environment, or on each other
 * I was keeping an eye out for Alfred Kroeber’s work (it’s there, first referenced on page 199, the 378!), but they do me one further and cite [[Ursula K. Le Guin|Le Guin]] herself, specifically ‘The Ones Who Walk Away from Omelas’. 

@@ -9,4 +9,4 @@ Capitalism as an economic system cannot solve the climate crisis. Relying on pro
 > [[Mary-Jane Rubenstein|Rubenstein]], *[[Pantheologies]]*, p. 129
 
 
-It’s not an inborn part of human nature to destroy the planet, but a cultural one, and cultural ideas can change. Our imagination has been too limited in thinking about alternates. [[Science fiction futures]] can help us imagine what it’s like to be [[notes/Are we being good ancestors?|good ancestors]].
+It’s not an inborn part of human nature to destroy the planet, but a cultural one, and cultural ideas can change. Our imagination has been too limited in thinking about alternates. [[notes/science fiction futures]] can help us imagine what it’s like to be [[notes/good ancestors|good ancestors]].

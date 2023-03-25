@@ -9,7 +9,7 @@ Deep time, coined by [[John McPhee]] in [[Basin and Range]], is a concept of geo
 > [[John McPhee|McPhee]], *[[Basin and Range]]*, p. 29
 
 
-It decenters the human, and forces us to ask [[notes/Are we being good ancestors?]]
+It decenters the human, and forces us to ask [[notes/good ancestors]]
 
 > Seen in deep time—viewed even in the relatively shallow time since the last glaciation—the notion of human dominance over the planet seems greedy, delusory.
 > 

@@ -10,7 +10,7 @@
 // typography
 html {
   scroll-behavior: smooth;
-  font-size: 18px;
+  font-size: 17px;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
       direction: rtl;
@@ -30,7 +30,6 @@ html {
     padding: 25px 5vw;
   }
 }
-
 
 body {
   margin: 0;
@@ -210,7 +209,7 @@ blockquote {
 
 article {
   & > h1 {
-    margin: 2em 0 0.2em 0;
+    margin: 2em 0 0 0;
     font-size: 2em;
   }
 
@@ -227,9 +226,9 @@ article {
     &.internal-link {
       text-decoration: none;
       color: var(--gray);
-      border-bottom: 2px solid var(--secondary);
+      border-bottom: 0.13em solid var(--secondary);
       &:hover {
-        border-bottom: 2px solid var(--tertiary);
+        border-bottom: 0.13em solid var(--tertiary);
       }
 
       &.broken {
@@ -248,7 +247,7 @@ article {
   padding-left: 0;
 
   & .meta {
-    margin: 1.5em 0;
+    padding: 1em 0;
     & > h1 {
       margin: 0;
     }
@@ -265,11 +264,10 @@ article {
   & > li > a {
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
-    padding: 0.2em 0.5em;
+    padding: 0.1em 0.4em;
     font-family: var(--font-mono);
     font-weight: 400;
-    font-size: 0.72em;
-    text-transform: lowercase;
+    font-size: 0.75em;
     &::before {
       content: "#";
       margin-right: 0.2em;
@@ -278,14 +276,20 @@ article {
   }
 }
 
+.columns { 
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+  margin: 2em 0;
+}
+
 .backlinks a {
   font-weight: 600;
-  font-size: 0.9rem;
   text-decoration: none;
   color: var(--gray);
-  border-bottom: 2px solid var(--secondary);
+  border-bottom: 0.13em solid var(--secondary);
   &:hover {
-      border-bottom: 2px solid var(--tertiary);
+      border-bottom: 0.13em solid var(--tertiary);
    }
 }
 
@@ -304,9 +308,9 @@ sup > a {
     font-weight: 700;
     text-decoration: none;
     color: var(--gray);
-    border-bottom: 2px solid var(--secondary);
+    border-bottom: 0.13em solid var(--secondary);
     &:hover {
-        border-bottom: 2px solid var(--tertiary);
+        border-bottom: 0.13em solid var(--tertiary);
     }
   }
 }
@@ -320,7 +324,7 @@ a {
   border-bottom: none;
   &:hover {
     color: var(--tertiary) !important;
-    border-bottom: 2px solid var(--tertiary);
+    border-bottom: 0.13em solid var(--tertiary);
   }
 }
 
@@ -366,7 +370,7 @@ hr {
     content: '/ / /';
     padding: 0 14px;
     position: relative;
-    top: -10px;
+    top: -8px;
     font-weight: 600;
   }
 }
@@ -545,9 +549,15 @@ header {
           border-bottom: 1px solid var(--outlinegray);
         }
 
-        & > h3, & > p {
+        & > h3 {
           margin: 0;
-          font-size: 1.2em
+          font-size: 1.4em;
+        }
+
+        & > p {
+          margin: 0;
+          font-size: 1.2em;
+          line-height: 1.6em;
         }
       }
     }
@@ -589,7 +599,7 @@ header {
     & p {
       margin: 0;
       padding-right: 1em;
-      flex-basis: 6em;
+      flex-basis: 5em;
     }
   }
 
@@ -601,6 +611,8 @@ header {
 
   & .meta {
     opacity: 0.6;
+    font-family: var(--font-mono);
+    font-size: .8em;
   }
 }
 

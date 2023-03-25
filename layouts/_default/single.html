@@ -9,11 +9,11 @@
     {{partial "header.html" .}}
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
-      <ul class="tags" style="margin: 0 0 2em 0;">
+      <ul class="tags" style="margin: 0 0 1em 0;">
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">
           {{if (eq $.Site.Language.Lang "en")}}
-            {{ .LinkTitle | humanize }}
+            {{ .LinkTitle | lower }}
           {{else}}
             {{ .LinkTitle }}
           {{end}}
