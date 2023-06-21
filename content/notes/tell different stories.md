@@ -1,10 +1,10 @@
 ---
 title: "Tell different stories"
 tags: 
- - story
+ - stories
 ---
 
-We often forget that our storytelling is rooted in millennia of *oral tradition*. Collaborative, mutable, fluid, living narrative beings that changed to suit different ecosystems and social scenarios. 
+We often forget that our storytelling is rooted in millennia of oral tradition. Collaborative, mutable, fluid, living narratives that changed to suit different ecosystems and social scenarios. 
 
 Written tales are more “permanent,” but they have a harder time evolving. So we’ve traded (a false sense of) permanence for the complex and evolving narrative lifeforms.
 

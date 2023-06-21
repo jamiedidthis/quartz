@@ -26,10 +26,7 @@
     {{ end }}
   {{ end }}
 
-  <title>
-    {{ if .Title }}{{ .Title }}{{ else }}{{ $data.page_title | default $.Site.Data.config.page_title }}{{
-    end }}
-  </title>
+  <title>{{ if .IsHome }}Field Notes{{ else }}{{ if .Page.Title }}{{ .Page.Title }} | {{ ( index $.Site.Data $config ).page_title | default $.Site.Data.config.page_title }}{{ end }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- HTML Favicon -->
@@ -75,7 +72,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
-  <script async src="{{$popover.Permalink}}"></script>
+  <script defer src="{{$popover.Permalink}}"></script>
 
   <!-- Optional scripts -->
   {{ if $data.enableCodeBlockTitle | default $.Site.Data.config.enableCallouts }}

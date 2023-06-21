@@ -1,22 +1,14 @@
 ---
-layout: book
-category: books
-permalink: /books/:slug
 title: "Staying with the Trouble"
 subtitle: "Making Kin in the Chthulucene"
-author: "Donna Haraway"
-publisher: "Duke University Press"
-publish: 2016-08-25
-total: 304
-genre: Social Science
-series:
-order:
-tag: 
- - "Liberation + Emergence"
- - "Nature + Cosmos"
- - "Storytelling + Mythmaking"
-cover: staying-with-the-trouble.jpg
-
+authors: 
+- Donna Haraway
+publishers:
+ - Duke University Press
+publish: 2016
+tags: 
+ - nonfic
+ - nature
 ---
 
 Drawing from the Greek roots khthon (earth) and kainos ([[notes/concepts of time|time]]), Haraway coins Chthulucene as an alternative to the monikers [[notes/anthropocene]] or Capitalocene as labels for these turbulent times. 
@@ -27,4 +19,4 @@ She proposes a radically different worldview, once that is based in [[notes/scie
 
 She references, among others, Ursula K. LeGuin (The Author of the Acacia Seeds) and Octavia Butler (Parable of the Sower) for their visionary exploration of narrative and biological sympoiesis. Whatever the future holds, the human and nonhuman are inextricably linked in tentacular practices, and will require sym-poiesis, or making-with, rather than auto-poiesis, or self-making.
 
-Learning to stay with the trouble of living and dying together on a damaged earth will prove more conducive to the kind of thinking that would provide the means to building more livable futures. [[Staying with the Trouble]]
+Learning to stay with the trouble of living and dying together on a damaged earth will prove more conducive to the kind of thinking that would provide the means to building more livable futures. [[books/staying with the trouble]]

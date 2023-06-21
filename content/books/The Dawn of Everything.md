@@ -1,22 +1,15 @@
 ---
-layout: book
-category: books
-permalink: /books/:slug
 title: "The Dawn of Everything"
 subtitle: "A New History of Humanity"
-author: "David Graeber"
-coauthor: "David Wengrow"
-publisher: "Farrar, Straus and Giroux"
-publish: 2021-11-09
-total: 692
-genre: Social Science
-series:
-order:
-tag:
- - "History + Culture"
- - "Storytelling + Mythmaking"
-cover: the-dawn-of-everything.jpg
-
+authors: 
+ - David Graeber
+ - David Wengrow
+publishers:
+ - Farrar, Straus and Giroux
+publish: 2021
+tags:
+ - nonfic
+ - history
 ---
 
 Reading nonfiction like fiction
@@ -34,9 +27,9 @@ Stray notes:
 - Adopting either Hobbes or Rousseau as an origin myth is like having a Garden of Eden, there was once some “original state” more natural than the rest. A false premise, a false binary.
 * “Inequality” is almost a fatalistic acceptance, some condition that can only be tweaked instead of ended (kings or governments can be overthrown, a vague notion cannot).
 * This different view of the past is basically [[notes/science fiction futures|science fictional behavior]].
-* Seasonal variations of social structure (reminds me of seasonal gender in [[The Left Hand of Darkness]]
+* Seasonal variations of social structure (reminds me of seasonal gender in [[books/the left hand of darkness]]
 * Schismogenesis
 * Also seasonal flooding with flood retreat farming, cf. [[notes/seasonal time]],
-* When we tell these stories of losses of primordial innocence, women get written out of the picture, cf. [[The Carrier Bag Theory of Fiction]].
+* When we tell these stories of losses of primordial innocence, women get written out of the picture, cf. [[notes/carrier bag theory of fiction]].
 * History’s first city dwellers did not always leave a harsh footprint on the environment, or on each other
 * I was keeping an eye out for Alfred Kroeber’s work (it’s there, first referenced on page 199, the 378!), but they do me one further and cite [[Ursula K. Le Guin|Le Guin]] herself, specifically ‘The Ones Who Walk Away from Omelas’. 

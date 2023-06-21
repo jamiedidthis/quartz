@@ -7,7 +7,7 @@ ignoreFiles = [
     "/content/private/*",
 ]
 summaryLength = 20
-paginate = 10
+paginate = 12
 enableGitInfo = true
 
 [markup]
@@ -31,3 +31,11 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+        hardWraps = true
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
+  author = 'authors'
+  publisher = 'publishers'

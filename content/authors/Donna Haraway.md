@@ -1,4 +1,0 @@
----
-title: "Donna Haraway"
----
-

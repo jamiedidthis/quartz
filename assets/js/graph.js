@@ -168,7 +168,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .style("cursor", "pointer")
     .on("click", (_, d) => {
       // SPA navigation
-      const targ = `${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`
+      const targ = `${baseUrl}/${decodeURI(d.id).replace(/\s+/g, '-')}/`
       window.Million.navigate(new URL(targ), ".singlePage")
       plausible("Link Click", {
         props: {

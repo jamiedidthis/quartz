@@ -18,13 +18,8 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  a collection of living documents -- a blog, portfolio, and notebook all rolled into one.
+  a collection of living documents -- a blog, library, and notebook all rolled into one.
 page_title:
   "Field notes"
-links:
-  - link_name: IG
-    link: https://instagram.com/jamiemadethis
-  - link_name: GitHub
-    link: https://github.com/jamiedidthis
 favicon: 
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>">

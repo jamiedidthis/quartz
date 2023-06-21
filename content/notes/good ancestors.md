@@ -12,12 +12,12 @@ Jonas Salk, the mid-20th-century virologist, coined the question-turned-maxim, �
 
 > What is the history of things to come? What will be our future fossils? As we have amplified our ability to shape the world, so we become more responsible for the long afterlives of that shaping. The Anthropocene asks of us the question memorably posed by the immunologist Jonas Salk: ‘Are we being good ancestors?’
 > 
-> [[Robert Macfarlane|Macfarlane]], *[[Underland]]*, p. 77
+> [[Robert Macfarlane|Macfarlane]], *[[books/underland]]*, p. 77
 
-In [[The Good Ancestor]], philosopher Roman Krznaric agrees that this is the question of our time, and calls us to confront “our pathological short-termism.”
+In [[books/the good ancestor]], philosopher Roman Krznaric agrees that this is the question of our time, and calls us to confront “our pathological short-termism.”
 
-[[adrienne maree brown]] echoes this thought in her brilliant [[Emergent Strategy]], as a call to action:
+[[adrienne maree brown]] echoes this thought in her brilliant [[books/emergent strategy]], as a call to action:
 
 > Yes, resist the onslaught of oppression, but measure our success not just by what we stop, but by how many of us feel, and can say: I am living a life I don’t regret, a life that will resonate with my ancestors and with as many generations forward as I can imagine. I am attending to the crises of my time with my best self, I am of communities that are doing our collective best to honor our ancestors and all humans to come. 
 > 
-> [[adrienne maree brown|Brown]], *[[Emergent Strategy]]*
+> [[adrienne maree brown|Brown]], *[[books/emergent strategy]]*

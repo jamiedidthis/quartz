@@ -1,20 +1,12 @@
 ---
-layout: book
-category: books
-permalink: /books/:slug
 title: "The Left Hand of Darkness"
-subtitle: 
-author: "Ursula K. Le Guin"
-publisher: "Penguin"
-publish: 2000-07-01
-total: 320
-genre: "Fiction"
-series:
-order:
-tag: 
- - "Sci-Fi + Futurism"
- - "Storytelling + Mythmaking"
-cover: the-left-hand-of-darkness.jpg
+authors: 
+ - Ursula K. Le Guin
+publishers:
+- Penguin
+publish: 2000
+tags: 
+ - "sff"
 ---
 
 The David Mitchell foreword 
@@ -27,4 +19,4 @@ Gender, sex, romance, desire, power, nationalism, oppression… they’re all ju
 > Two are one, life and death, lying 
 > together like lovers in kemmer, 
 > like hands joined together, 
-> like the end and [[Tao Te Ching|the way]]. 
+> like the end and [[books/tao te ching|the way]]. 

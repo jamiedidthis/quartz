@@ -14,10 +14,10 @@ Over on Sluggish, Jesse Meadows is talking about people getting ruffled “[beca
 
 Deserve. Some deserve, some don’t. What could be common ground becomes a fight for resources, rejecting people with varying levels of need because of the belief that there isn’t enough to go around.
 
-bell hooks calls it “[[the capitalist notion of well-being]],” the belief that the good life can only be had by a few. Meadows cites the book *Health Communism*, tracing the deserving/non-deserving binary back to the early days of [[English Poor Laws]], which had to source the “surplus population” (look at that language already) into increasingly marginal, verifiable categories. Some citizens were “deserving,” while others were treated as waste, a strain on the productive (taxpaying) community who were the *real* sovereign citizens.
+bell hooks calls it “[[notes/the capitalist notion of well-being|the capitalist notion of well-being]],” the belief that the good life can only be had by a few. Meadows cites the book *Health Communism*, tracing the deserving/non-deserving binary back to the early days of [[notes/english poor laws|English Poor Laws]], which had to source the “surplus population” (look at that language already) into increasingly marginal, verifiable categories. Some citizens were “deserving,” while others were treated as waste, a strain on the productive (taxpaying) community who were the *real* sovereign citizens.
 
 > The worker is told to beware of the degenerate influence of the surplus population and to root out those who would fraudulently claim state or private benefits as surplus; ==we are deputized by the state to surveil and judge others’ worthiness for aid.== *(Health Communism)*
 
-(Note: big overlap with religion too! Hence the [[theology of capitalism]].)
+(Note: big overlap with religion too! Hence the [[notes/theology of capitalism|theology of capitalism]].)
 
-What can we do? Stop believing [[notes/myth of scarcity]]. Reject this limited, binary framing. Recognize our solidarity. Refuse to be pitted against each other. [[notes/tell different stories|Tell different stories]]. 
+What can we do? Stop believing [[notes/myth of scarcity|the myth of scarcity]]. Reject this limited, binary framing. Recognize our solidarity. Refuse to be pitted against each other. [[notes/tell different stories|Tell different stories]]. 
