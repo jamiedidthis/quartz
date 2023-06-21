@@ -18,7 +18,7 @@
       {{$l = cond (eq $l "//") "/" $l}}
       {{with (index $contentTable $lnk)}}
       <li>
-        <a href="{{$l}}" data-ctx="{{$ctx}}" data-src="{{$lnk}}" class="internal-link">{{index (index . "title")}}</a> — {{index (index . "summary")}}
+        <a href="{{$l}}" data-ctx="{{$ctx}}" data-src="{{$lnk}}" class="internal-link">{{index (index . "title")}}</a>
       </li>
       {{end}}
     {{- end -}}

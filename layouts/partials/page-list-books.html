@@ -1,0 +1,15 @@
+<ul class="section-ul">
+    {{- range . -}}
+    <li class="section-li">
+        <div class="section">
+            <p class="meta">
+                {{partial "date-fmt.html" .}}
+            </p>
+            <div class="desc">
+              <p><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></p>
+            </div>
+            <div class="spacer"></div>
+        </div>
+    </li>
+    {{- end -}}
+</ul>

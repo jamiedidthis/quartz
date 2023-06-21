@@ -221,7 +221,7 @@ article {
 
     &.internal-link {
       color: var(--dark);
-      box-shadow: inset 0 -.175em var(--tertiary);
+      box-shadow: inset 0 -.15em var(--tertiary);
       transition: all .25s ease-in;
   
       &:hover {
@@ -240,7 +240,7 @@ article {
   }
 
   & li { 
-    padding: 5px 0;
+    padding: 2px 0;
   }
 
   & p {
