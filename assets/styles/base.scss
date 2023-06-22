@@ -210,7 +210,7 @@ article {
   }
 
   & > .meta {
-    margin: 0 0 1em 0;
+    margin: 0;
     opacity: 0.7;
     font-family: var(--font-mono);
     font-size: 0.73em;
@@ -384,7 +384,7 @@ code {
 }
 
 footer {
-  margin-top: 4em;
+  margin-top: 3em;
   text-align: center;
   border-top: 2px solid var(--outlinegray);
   & ul {
@@ -425,8 +425,13 @@ footer {
 
 hr {
   border: 1px solid var(--outlinegray);
-  margin: 3em 0;
+  margin: 2em 0;
 }
+
+.footnotes hr { 
+  margin: 4em 0 2em 0;
+}
+
 
 .page-end {
   display: flex;
@@ -450,6 +455,9 @@ hr {
       & > li {
         margin: 0.5em 0;
       }
+    }
+    h3 { 
+      margin: 1em 0 0 0;
     }
   }
 
