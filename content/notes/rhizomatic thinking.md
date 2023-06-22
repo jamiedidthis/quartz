@@ -2,8 +2,6 @@
 title: "Rhizomatic thinking"
 ---
 
-{% include figure.html imgURL="/assets/images/richard-giblett-mycelium-rhizome.webp" imgCaption="Richard Giblett, Mycelium Rhizome, 2009 Pencil on paper" %}  
-
 Rhizome, from the ancient Greek: a mass of roots. In botany, it describes a plant system that extends roots and shoots from its nodes in every direction.
 
 [The rhizome was adopted as a philosophical concept](https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/) to describe a process of existence and growth with no clear heirarchy or single central point of origin. It doesn’t start from anywhere or end anywhere; it grows from everywhere, can reproduce from any node, and has no center, which makes it difficult to uproot or destroy. The internet is a rhizome. [[notes/language is a network|Language is a rhizome]]. 
