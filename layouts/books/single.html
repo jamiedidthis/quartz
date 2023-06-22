@@ -10,24 +10,24 @@
     <article>
       <div class="metadata">
         <div class="flex-container">
-          <img class="book-cover" src="/books/book-covers/{{ .Params.title | urlize | lower }}.jpg" alt="book cover for {{ .Params.title }}">
+          <img class="book-cover" src="{{.Site.BaseURL}}/books/book-covers/{{ .Params.title | urlize | lower }}.jpg" alt="book cover for {{ .Params.title }}">
             <div class="book-metadata">
               <h1>{{ .Title }}</h1>
               {{ with .Params.subtitle }}<h2>{{ . }}</h2>{{ end }}
               {{ $order := .Params.order }}
                 {{ range .Params.series }}
                 <h2>
-                  <a href="/series/{{ . | urlize | lower }}">{{ . }}</a> 
+                  <a href="{{.Site.BaseURL}}/series/{{ . | urlize | lower }}">{{ . }}</a> 
                   &num;{{ $order }}
                 </h2>
                 {{ end }}
                 <div class="author-publisher">
                   <ul class="authors">
-                    {{ range .Params.authors }}<li class="authors"><a href="/authors/{{ . | urlize | lower }}">{{ . }}</a></li>{{ end }}
+                    {{ range .Params.authors }}<li class="authors"><a href="{{.Site.BaseURL}}/authors/{{ . | urlize | lower }}">{{ . }}</a></li>{{ end }}
                   </ul>
                   {{ $publish := .Params.publish }}
                   {{ range .Params.publishers }}
-                  <p>Published {{ $publish }} by <a href="/publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
+                  <p>Published {{ $publish }} by <a href="{{.Site.BaseURL}}/publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
                   {{ end }}
                 </div>
                   <ul class="tags">
