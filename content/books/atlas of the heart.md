@@ -23,7 +23,7 @@ tags:
 - Shame and humiliation will never be effective social justice tools. 
 - We have to belong to ourselves as much as we need to belong to others.
 - Any belonging that asks us to betray ourselves is not true belonging.
-- [[notes/hate is actually fueled for our need for belonging|Hate is actually fueled by our need for belonging]]
+- [[common enemy intimacy|hate is actually fueled for our need for belonging]]
 - Flooding (and chronic flooding)—I’ve never experienced a little time and space being a bad thing
 - “Foreboding joy,” afraid to lean into good news, wonderful moments, and joy, waiting for the other shoe to drop… most people experience it
 - Tranquility is the absence of demands and no pressure to do anything.

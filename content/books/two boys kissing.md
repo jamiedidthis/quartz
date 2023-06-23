@@ -3,7 +3,7 @@ title: "Two Boys Kissing"
 authors: 
  - David Levithan
 publishers:
- - Knopf Books for Young Readers
+ - Knopf Books
 publish: 2013
 tags: 
  - queer
@@ -12,4 +12,4 @@ tags:
 ---
 
 [[David Levithan]]
-[[Knopf Books for Young Readers]]
+[[Knopf Books]]

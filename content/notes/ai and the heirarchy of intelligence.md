@@ -13,6 +13,6 @@ She notes too how the current conversation re: AI loops back around to [[notes/w
 
 > The fact is that if you scratch the surface of any notion of intelligence, you run headlong into *[[notes/theology of capitalism|a belief system]]* that renders some people more intelligent—and therefore more valuable, more worthy of attention or care—than others.
 
-Emphasis mine. And of course both ideas capitalize (word intended) on fear too: fear of the “other,” fear of losing our precarious place in the heirarchy, fear of failing to meet our standards of production, fear of “wasting time.”
+Emphasis mine. And of course both ideas capitalize (word intended) on fear too: fear of the “other,” fear of losing our precarious place in the hierarchy, fear of failing to meet our standards of production, fear of “wasting time.”
 
 Thankfully she notes we always have the power to [[notes/tell different stories|tell different stories]].
