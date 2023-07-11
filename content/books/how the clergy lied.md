@@ -15,8 +15,3 @@ tags:
  - christianity
  - history
 ---
-
-[[D. L. Day]]
-[[]]
-
-![[how-the-clergy-lied.jpg]]

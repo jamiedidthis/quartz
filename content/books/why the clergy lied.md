@@ -15,5 +15,3 @@ tags:
  - christianity
  - history
 ---
-
-[[D. L. Day]]
