@@ -1,5 +1,5 @@
 ---
-title: "Hate is actually fueled for our need for belonging"
+title: "Common enemy intimacy"
 tags: 
  - emotions
 ---

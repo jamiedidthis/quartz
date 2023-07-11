@@ -2,7 +2,7 @@
 title: "Humanitas/humus"
 tags: 
  - language
- - definitions
+ - lexicon
 ---
 
 > *Humanitas* in Latin comes first and properly from *humando*, meaning ‘burying, burial’, itself from *humus*, meaning ‘earth’ or ‘soil.’ In burial, the human body becomes a component of the earth, returned as dust to dust—*inhumed*, restored to humility, rendered humble. 
