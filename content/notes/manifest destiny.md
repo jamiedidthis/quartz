@@ -1,5 +1,7 @@
 ---
 title: "Manifest Destiny"
+tags: 
+ - history
 ---
 
 [Manifest Destiny, an event of Westward Expansion from the Wild West](https://www.historynet.com/manifest-destiny/)
