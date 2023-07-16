@@ -1,7 +1,7 @@
 baseURL = "https://jamiedidthis.github.io/quartz/"
 languageCode = "en-us"
 relativeURLs = false
-disablePathToLower = true
+disablePathToLower = false
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
@@ -34,8 +34,8 @@ enableGitInfo = true
         hardWraps = true
 
 [taxonomies]
-  category = 'categories'
-  series = 'series'
-  tag = 'tags'
-  author = 'authors'
-  publisher = 'publishers'
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+    publisher = "publishers"

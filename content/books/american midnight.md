@@ -3,10 +3,10 @@ title: "American Midnight"
 subtitle: "The Great War, A Violent Peace, and Democracy’s Forgotten Crisis"
 authors:
  - Adam Hochschild
-publishers: 
+publishers:
  - HarperCollins
 publish: 2022
-tags: 
+tags:
  - nonfic
  - history
 ---
