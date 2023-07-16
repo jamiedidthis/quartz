@@ -7,7 +7,7 @@ publishers:
 publish: 2016
 series:
  - Earthseed
-order: 1
+weight: 1
 tags: 
  - sff
 ---

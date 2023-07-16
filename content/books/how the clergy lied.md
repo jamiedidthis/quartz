@@ -8,7 +8,7 @@ publishers:
 publish: 2023
 series: 
  - Why and How the Clergy Lied
-order: 2
+weight: 2
 tags: 
  - nonfic
  - queer

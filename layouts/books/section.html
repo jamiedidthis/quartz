@@ -12,14 +12,8 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        <div class="tags columns">
-            {{ range .Site.Taxonomies.authors.ByCount }}
-            <div class="meta">
-                <h1><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h1>
-                <p><b>{{ .Count }}</b> {{ i18n "notes_count" }} {{if gt .Count 10}}({{ i18n "first_10"}}){{end}}</p>
-            </div>
-            {{ end }}
-        </div>
+        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod.Reverse }}
+        {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}
 </div>

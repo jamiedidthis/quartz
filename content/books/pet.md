@@ -7,7 +7,7 @@ publishers:
 publish: 2019
 series:
  - Pet
-order: 1
+weight: 1
 tags: 
  - sff
  - queer

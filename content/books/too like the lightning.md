@@ -7,7 +7,7 @@ publishers:
 publish: 2016
 series: 
  - Terra Ignota
-order: 1
+weight: 1
 tags:
  - sff
 

@@ -7,7 +7,7 @@ publishers:
 publish: 2017
 series:
  - Terra Ignota
-order: 3
+weight: 3
 tags: 
  - sff
 ---

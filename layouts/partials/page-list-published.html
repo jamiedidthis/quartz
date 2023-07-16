@@ -8,13 +8,11 @@
                 </a>
             </div>
               <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>
-              {{ $order := .Params.weight }}
-                {{ range .Params.series }}
-                <p>
-                  <a href="{{ $baseUrl }}series/{{ . | urlize | lower }}">{{ . }}</a> 
-                  &num;{{ $order }}
-                </p>
-                {{ end }}
+                <div class="author-publisher">
+                    <ul class="authors">
+                        {{ range .Params.authors }}<li class="authors"><a href="{{ $baseUrl }}authors/{{ . | urlize | lower }}">{{ . }}</a></li>{{ end }}
+                    </ul>
+                </div>
             <div class="spacer"></div>
         </div>
     {{- end -}}

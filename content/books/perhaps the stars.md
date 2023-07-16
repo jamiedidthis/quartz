@@ -7,7 +7,7 @@ publishers:
 publish: 2021
 series:
  - Terra Ignota
-order: 4
+weight: 4
 tags: 
  - sff
 ---

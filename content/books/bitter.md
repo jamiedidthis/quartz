@@ -7,7 +7,7 @@ publishers:
 publish: 2022
 series:
  - Pet
-order: 2
+weight: 2
 tags: 
  - sff
  - queer
