@@ -8,7 +8,7 @@ publishers:
 publish: {{publishDate}}
 series:
  - 
-series_weight:
+weight:
 tags: 
  - 
 cover: {{coverUrl}}

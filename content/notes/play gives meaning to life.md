@@ -4,7 +4,7 @@ tags:
  - play
 ---
 
-Play gives meaning to life, wrote the Dutch historian Johan Huizinga back in 1938. He christened us *Homo ludens*—‘playing man.’ Everything we call ‘culture,’ said Huizinga, originates in play.[^1]
+Play gives meaning to life, wrote the Dutch historian Johan Huizinga back in 1938. He christened us [[books/homo ludens|homo ludens]]—‘playing man.’ Everything we call ‘culture,’ said Huizinga, originates in play.[^1]
 
 Almost all mammals play, and many other animals can’t resist. It’s the most intelligent animals that exhibit the most playful behavior. Domesticated animals play their whole lives.
 

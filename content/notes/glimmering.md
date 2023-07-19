@@ -6,4 +6,4 @@ tags:
 
 The opposite of a trigger. *A little glimmering of affirmation.* 
 
-Source: IG, @tialevings and others
+First encountered on IG, @tialevings and others
