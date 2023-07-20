@@ -1,10 +1,10 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 :root {
-  --font-body: 'Source Serif 4', serif;
-  --font-header: 'Source Serif 4', serif;
-  --font-sans: 'Cousine', monospace;
-  --font-mono: 'Cousine', monospace;
+  --font-body: 'Source Serif 4', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
+  --font-header: 'Source Serif 4', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
+  --font-sans: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+  --font-mono: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", monospace;
 }
 
 // typography

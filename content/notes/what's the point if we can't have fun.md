@@ -6,7 +6,7 @@ tags:
  - biology
 ---
 
-In the essay [What’s the point if we can’t have fun?](https://davidgraeber.org/articles/whats-the-point-if-we-cant-have-fun/), [David Graeber](/authors/david-graeber) argues that we’re fools for focusing on rational explanations and economic terms in animal behavior, and for undervaluing play.
+In the essay [What’s the point if we can’t have fun?](https://davidgraeber.org/articles/whats-the-point-if-we-cant-have-fun/), [David Graeber](authors/david%20graeber.md) argues that we’re fools for focusing on rational explanations and economic terms in animal behavior, and for undervaluing play.
 
 Why do animals play? Why does the existence of action carried out for the sheer pleasure of acting strike us as mysterious? What does it say about us that we  assume that it is?
 
