@@ -1,5 +1,5 @@
 ---
-title: "radiological time"
+title: "Radiological time"
 tags: 
  - time
 ---
