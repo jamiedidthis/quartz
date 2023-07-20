@@ -1,7 +1,7 @@
 ---
 title: "The Carrier Bag Theory of Fiction"
 tags: 
- - stories
+ - myths
  - canon
 ---
 

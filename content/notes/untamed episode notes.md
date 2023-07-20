@@ -2,9 +2,10 @@
 title: "The Untamed episode notes 《陈情令》"
 tags:
  - cql
+ - fandom
 ---
 
-My raw notes for *The Untamed* web drama, started when I was trying to make sense of the plot but now an indispensible resource for fic. Lots of shorthand (and emoji feels 😂) that’s probably useless to anybody but me.
+My raw notes for *The Untamed*, started when I was trying to make sense of the plot but now an indispensable resource for fic. Lots of shorthand (and emoji feels) so probably useless to anybody but me 🤷🏻‍♀️
 
 ## Ep 1
 - WWX resurrecting in Jin color robes, lol—cannot fully appreciate the irony of this the first time around 
@@ -12,7 +13,7 @@ My raw notes for *The Untamed* web drama, started when I was trying to make sens
 - SZ recognizing Wuji from LWJ playing it in Gusu 😭 (==diegetic Wuji==, “flute”/grass)
 	- (ALSO, he would be not realizing he recognizes it from WWX playing it in Burial Mounds)
 	- Full moon
-- Btw a-Yuan (愿) means “wishes” and Sizhui (思追) means “miss you and chase you,” so basically SZ is a love letter to Wei Ying from Lan Zhan
+- Btw a-Yuan (愿) means “wishes” and Sizhui (思追) means “miss you and chase you,” so basically SZ is a love letter to WWX from LWJ 😭
 
 ---
 ## Ep 2
@@ -99,7 +100,7 @@ My raw notes for *The Untamed* web drama, started when I was trying to make sens
 - Alllll up in his personal space while LXC smirks
 - Wen Ning goes to save Su She, WWX goes to save Wen Ning, LWJ goes to save WWX… seems about right
 	- Can’t you just hold me? Here, take my hand! / I don’t touch other people. / But we’re so intimate! / Not close at all. 
-- WWX giving WQ the talisman to protect WN… so that’s what he sees on the body in [[private/cql/untamed episode notes#Ep 26|ep 26]] 😭
+- WWX giving WQ the talisman to protect WN… so that’s what he sees on the body in [[notes/untamed episode notes#Ep 26|ep 26]] 😭
 - Comb is an emblem of lovesickness
 - LWJ: what WWX said is not unreasonable 
 

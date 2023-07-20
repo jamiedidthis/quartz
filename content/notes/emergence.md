@@ -1,7 +1,7 @@
 ---
-title: "{{title}}"
+title: "Emergence"
 tags: 
- - tag1
+ - nature
 ---
 
 Faced with the puzzle of how life might emerge from dead matter or how conscious beings might evolve from microbes, philosophers of science have developed the theory of emergence.
