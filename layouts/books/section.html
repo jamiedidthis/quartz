@@ -9,10 +9,9 @@
     {{partial "header.html" .}}
     <article>
         <h1>{{ i18n "all_posts" . }}</h1>
-        {{with .Params.description}}
-            <p>{{.}}</p>
-        {{end}}
-        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod.Reverse }}
+            <p>Sort by <a href="{{ $.Site.BaseURL}}shelves/">shelves</a> or <a href="{{ $.Site.BaseURL}}notes/">genres</a>!</p>
+
+        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod }}
         {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}

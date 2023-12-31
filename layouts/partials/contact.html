@@ -6,14 +6,15 @@
     <footer>
         {{ $name := $data.name | default $.Site.Data.config.name }}
         {{ $year := dateFormat "2006" now }}
-        <p>{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}}</p>
+        <p class="gray">{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}}</p>
         <ul>
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" | lower }}</a></li>
             {{end}}
             <li><a href="{{ $.Site.BaseURL}}notes/">notes</a></li>
             <li><a href="{{ $.Site.BaseURL}}books/">books</a></li>
-            <li><a href="{{ $.Site.BaseURL}}colophon/">colophon</a></li>
+            <li><a href="{{ $.Site.BaseURL}}tags/">tags</a></li>
+            <li><a href="{{ $.Site.BaseURL}}info/">info</a></li>
         </ul>
     </footer>
 </div>

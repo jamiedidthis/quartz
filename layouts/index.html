@@ -13,7 +13,10 @@
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
+        <hr>
+        {{partial "recent-books.html" . }}
     </article>
+    {{partial "contact.html" .}}
 </div>
 </body>
 </html>

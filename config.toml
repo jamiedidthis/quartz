@@ -39,3 +39,5 @@ enableGitInfo = true
     tag = "tags"
     author = "authors"
     publisher = "publishers"
+    genre = "genres"
+    shelf = "shelves"

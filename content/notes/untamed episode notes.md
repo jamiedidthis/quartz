@@ -5,10 +5,10 @@ tags:
  - fandom
 ---
 
-My raw notes for *The Untamed*, started when I was trying to make sense of the plot but now an indispensable resource for fic. Lots of shorthand (and emoji feels) so probably useless to anybody but me 🤷🏻‍♀️
+My raw notes for *The Untamed*, started when I was trying to make sense of the plot but now an indispensable resource for fic. Lots of shorthand and emoji feels so probably useless to anybody but me 🤷🏻‍♀️
 
 ## Ep 1
-- WWX resurrecting in Jin color robes, lol—cannot fully appreciate the irony of this the first time around 
+- WWX resurrecting in Jin color robes, lolll—cannot fully appreciate the irony of this the first time around 
 - Lan clan using the lure flags he made; already innovating 😭
 - SZ recognizing Wuji from LWJ playing it in Gusu 😭 (==diegetic Wuji==, “flute”/grass)
 	- (ALSO, he would be not realizing he recognizes it from WWX playing it in Burial Mounds)
@@ -30,14 +30,14 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 	- (Beautiful lingering face of [WWX listening to this](https://youtu.be/1tAKFgUXiXg?t=3068) in the special edition)
 - LWJ knows it’s WWX, but all about making him feel safe?
 - “I thought I could be indifferent to the world, but nobody can repress their feelings after all.” 
-- SZ at the Wen graves, doesn’t know that’s his people or where he lived before 😭 
+- SZ at the Wen graves, doesn’t know that’s his people 😭 
 - Jingyi using one of the monster compasses that WWX invented 
 	- (*did* he invent it, or did he steal it off that impersonator dude?? lol)
 - JL super archery skills like WWX 😭 
 - Dancing fairy an illusion to get WWX to summon WN
 	- NHS did it; he knew, there when WWX and LWJ sealed her
 - Summoning WN: ==diegetic Wuji== (flute)
-- Start of flashback: Jiang Yanli says they have **10 days** before the ceremony starts
+- Start of flashback: Jiang Yanli says they have **10 days** before the ceremony in Cloud Recesses starts
 
 ---
 ## Ep 3
@@ -62,15 +62,15 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 	- WWX already writing lines, lol
 	- his first batch is 300, then sentenced to 1000 more 
 	- Did 40 copies the first night—but even reading them takes hours in class 
-	- 1300/40 = **32.5 days to finish them all** (probably longer because of dawdling, mistakes, earning more punishment, etc.)
+	- 1300/40 = **32.5 days to finish them all** (possibly longer because of dawdling, mistakes, earning more punishment, etc.)
 - One of the Lan principles: “don’t indulge in pleasure”
 - Distracted by NHS’s canary during the “don’t take evil paths” part 😆 
 - NHS being the matchmaker with LXC and JGY (still Meng Yao here) just like with WWX and LWJ 😂
 - Orchid House = classroom 
 	- Check the name of pavilion right after scene w NHS WWX and JC
 - When two disciples pass JGY, it’s a Lan + Jiang pair
-- Magic tricks for catching fish is no fun
-- JL coming down from upstairs with the soup
+- “Magic tricks for catching fish is no fun”
+- JY coming down from upstairs with the soup
 - “Just as Madam Yu says, I will never make any trouble.” 😂
 - “The fuddy-duddy is so mean.”
 	- Good WWX face @ 22:40ish
@@ -114,7 +114,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 	- “I bet no one thought someone high and mighty like you would one day follow my lead.”
 	- WWX toast to LWJ: *May we never forget what is worth remembering, or remember what is best forgotten.*
 - LXC says **a few days ago** I took some students to Biling Lake; WWX said **yesterday** so they were there a few days?
-- You are one of the people I approve. And I wanna be friends… A lot of benefits come with being my friend.
+- “You are one of the people I approve. And I wanna be friends… A lot of benefits come with being my friend.”
 - The tiny smile and nod from WWX at LWJ after he ties on the forehead ribbon and retrieves his sword
 - Like this is THE MOST BLATANT wedding of all the weddings, jeeeeeeez
 - LWJ tugging WWX around by the ribbon like WWX does with the binding talisman
@@ -255,15 +255,15 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - Madam Yu agreeing that servants should know their place while looking at WWX
 - Netflix and youtube captions say “you reckless maid,” special edition captions say “you bitchy bitch” (Madam Yu to Jiaojiao)
 - Go to **Meishan** for refuge (grandmother)
-- “Little fool, don’t cry”—Jiang Fengmian to JC, and what WWX says to SZ in [[#Ep 50|ep 50]]??
+- “Little fool, don’t cry”—Jiang Fengmian to JC, echo of what WWX says to SZ in [[#Ep 50|ep 50]]??
 
 ---
 ## Ep 16
 - JC to WWX: why couldn’t you just let LWJ and JZ die?
 - Over 2400 spiritual tools at Lotus Pier
-- Fight w/ JC at dawn, wake up ~noon, find JL, WWX rows them down the river, JC goes back that night or next night? So still close to Lotus Pier? Where are they hiding?
+- Fight w/ JC at dawn, wake up ~noon, find JY, WWX rows them down the river, JC goes back that night or next night? So still close to Lotus Pier? Where are they hiding?
 	- JC doesn’t lose his golden core until he goes back and is tortured, right? (per his mom, who checks his pulse and says he’ll recover from the first blow)
-	- Tells YL to go to Madam Liu’s; she makes him promise he’ll bring JC and they’ll go to **Meishan** together (so not in Meishan yet)
+	- Tells JY to go to Madam Liu’s; she makes him promise he’ll bring JC and they’ll go to **Meishan** together (so not in Meishan yet)
 - WWX orders five pancakes
 - WWX debates using WN as hostage but sees the protection talisman he made for him at his waist
 
@@ -275,7 +275,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - Wens drugged with the 100 Days Ibriety, per Wen Zhuliu
 - Madam Liu calls WWX a-Xian; he calls her popo too… but that’s not the Jiangs’ grandmother, right? Still not in Meishan
 - WC knows WN helped them, says they’ll go to Yiling **tomorrow**… but they don’t? WN says they’re safe here, won’t be searched
-- WWX split lip when he’s in the carriage transporting JC and YL
+- WWX split lip when he’s in the carriage transporting JC and JY
 - The Wen medical textbooks
 	- Diagram of core transfer @ 30:?
 - Lan Zhan will help me 😭 
@@ -383,7 +383,8 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 ---
 ## Ep 25
 - Ripe opportunity of what would have happened here if WWX had fessed up to LWJ about what’s going on
-- The LWJ + YL tag team of calming WWX the fuck down again
+- LWJ never gonna recover from this
+- The LWJ + JY tag team of calming WWX the fuck down again
 
 ---
 ## Ep 26
@@ -520,6 +521,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 ## Ep 36
 - WN calls the new flute Chenqing—he’s the only one though? A slip? It’s not supposed to be Chenqing until JC gives it back in [[#Ep 49|ep 49]], right?
 - Ok, so they go from in town to the woods because they’re combining like three drunk scenes from the book together, and have to do the marriage proposal chickens—otherwise it makes no sense how they “get lost” from standing right in front of the inn 😆 
+- LWJ HAS REGRETS—big deal because part of the promise they swore was to live with no regrets
 - Ghost face man—Su She
 - **Coffin town, east of Shu**
 - Fairy bit Apple, Apple kicked Fairy—now neither of them can move lolll
@@ -559,7 +561,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 	- (wasn’t there to hear WWX in [[#Ep 37|ep 37]], so who picks it up from the other?)
 - In the novel, Jingyi dropping the chicken wing isn’t because LWJ is carrying liquor, but because drunk LWJ ties up WWX with his forehead ribbon and hauls him upstairs 
 - SZ has a finger tattoo! 😆
-- The conference @ Jinlintai **next month**
+- The **three day** cultivation conference @ Jinlintai **next month**
 - Per JC: LWJ has never been to a conference in Jinlintai, “what’s different now?” 😭 LWJ showing his undying loyalty (and picking up WWX’s grudges)
 - LWJ saying suibian, “whatever,” when WWX is worried about how he’ll have to bluff 
 	- In youtube version: “I’m just afraid of losing you face.”
@@ -631,6 +633,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - SZ calls him Wei-qianbei when they arrive 😭
 	- The Lan ducklings defending WWX against the rest
 	- LWJ and SZ are the ones to step in front of him with JL 😭😭 (Jingyi too!!)
+	- WWX basically does the same thing—joining LWJ against his uncle 
 - **The other day,** JGY “hurt” during an “assassination attempt”
 - WWX asking WN not to go out when clans start arriving
 - LQ ordering LWJ to come here, he doesn’t—WWX expression
@@ -676,12 +679,13 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - First thing WWX does is defend JC to LWJ, which hits so different for LWJ now that LWJ KNOWS 
 - The right time for lotus seeds—usually early harvest is July–Aug, late harvest is **Oct–Nov**
 - So it’s been fall, heading into winter if it’s snowing in Cloud Recesses 
+- Blossoms when they’re walking into town—but could be plum blossoms? Still winter? See [[notes/untamed episode notes#Ep 23|ep 23]]
 
 ---
 ## Ep 47
 - Sends WN back to the inn
 - Fall colors on the maple trees too
-- I’m half a wreck, but we still have Hanguang-jun
+- “I’m half a wreck, but we still have Hanguang-jun”
 - History repeating w/ Bichen’s blade at WWX’s neck
 - LWJ locks down his spiritual power, so has a hint of WWX without it
 - “Yesterday” JC running around Lotus Pier with the sword—**2 days** since last ep?

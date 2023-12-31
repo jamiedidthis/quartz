@@ -7,7 +7,7 @@ publishers:
 publish: 1981
 series:
  - Annals of the Former World
-order: 1
+series_weight: 1
 tags:
  - books
  - nature

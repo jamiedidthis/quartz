@@ -1,5 +1,5 @@
 <div class="content-list">
-  <h2 id="recent_notes">Recent Books</h2>
+  <h2 id="recent_notes"><a href="{{ $.Site.BaseURL}}books/">On the bookshelf</a></h2>
   <!--
   You can also configure this to find related pages!
   All you need to pass into the "page-list.html" partial
@@ -7,6 +7,6 @@
   https://gohugo.io/content-management/related/
   -->
   {{$books := where $.Site.RegularPages.ByLastmod.Reverse "Section" "books"}}
-  {{partial "page-list-books.html" (first 4 $books)}}
+  {{partial "page-list-published.html" (first 4 $books)}}
 </div>
 

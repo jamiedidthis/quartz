@@ -51,15 +51,15 @@ Lan Wangji is learning this about himself: he has had enough of caves for a life
 
 Wei Wuxian, for all of his self-professed boredom, appears to share none of this sentiment. He explores the cave with enthusiasm, wandering off and returning to their circle of light, faithfully reporting each finding in exhaustive detail, at length, often already mid-sentence by the time he returns to Lan Wangji by the fire.
 
-There is a shallow pool in this chamber. There are no signs of fish; there might be snakes, he’ll keep looking. There are definitely bats, which means the pool is not safe to drink—a fact he dwells on less than he does the squeaks and flaps of the little bats, so *cute,* Lan Zhan. 
+There is a shallow pool in this chamber. There are no signs of fish; there might be snakes, he’ll keep looking. There are definitely bats, which means the water is not safe to drink—a fact he dwells on less than he does the squeaks and flaps of the little bats, so *cute,* Lan Zhan. 
 
 There is plenty of firewood. There is no sign of an exit. The bodies are gone, which makes Lan Wangji’s eyes widen, even as Wei Wuxian decides this bodes well for them. If Xuanwu stuffs himself, he won’t need them as a meal. “I bet he’s just hungry, Lan Zhan. *You’d* be pissed off too if you’d gone hundreds of years without a good snack.” It’s only the second day of their fast, but this is close enough to the truth that Lan Wangji can’t dismiss it. 
 
-This bodes well too: there *is* water. The Wen soldiers dropped flasks as they fled or fell, and Wei Wuxian gathers an armful, enough to last three or four days, more if they ration it strictly. There is medicine too—Wei Wuxian shakes him awake over that one, an incoherent story about a bottle that he’d lost and thought was gone but then finally found. Bleary, Lan Wangji accepts the two pills Wei Wuxian drops on his tongue, dutifully coughing them down with a sip of stale water. Wei Wuxian brushes his chin, then swallows one pill for himself. 
+This bodes well too: there *is* water. The Wen soldiers dropped flasks as they fled or fell, and Wei Wuxian gathers an armful, enough to last three or four days, more if they ration it strictly. There is medicine too—Wei Wuxian shakes him awake over that one, an incoherent story about a bottle that he’d lost and thought was gone but then finally found. Blearily, Lan Wangji accepts the two pills Wei Wuxian drops on his tongue, dutifully coughing them down with a sip of stale water. Wei Wuxian brushes his chin, then swallows one pill for himself. 
 
 “—our cores,” Wei Wuxian is saying, something about the nourishment thereof. It’s not food, nor is it enough to fully quench the pain or the thirst, but after a while, Lan Wangji feels as if he could keep his eyes open for more than an hour at a time. The pain recedes slightly. It feels like pale spring sunlight inside him; not a surge of energy, but a glimmer—a hope.
 
-“Knew Wen Qing could help us,” Wei Wuxian says happily, and performs another small miracle: for the first time in days, he closes his eyes and his mouth, allowing them both a few moments of rest. 
+“Knew Wen Qing could help us,” Wei Wuxian says happily, and performs another small miracle: for the first time in two days, he closes his eyes and his mouth, allowing them both a few moments of rest. 
 
 ---- 
 
@@ -71,11 +71,11 @@ Later that day, or the next. Time bleeds like the wound on Lan Wangji’s leg be
 
 “Really? Not ever?” He is lying on his back, one arm folded beneath his head, idly twirling a stick through his fingertips. “I have, lots. It’s not so bad, once you get used to it.”
 
-Lan Wangji cannot conceive of *getting used to* the kind of pain in his leg. He bears it, he ignores it when necessary, but the pain touches a deep core of anger inside of him, something that cannot stand to suffer injustice. 
+Lan Wangji cannot conceive of *getting used to* the kind of pain in his leg. He bears it, he ignores it when necessary, but the pain touches a deep core of anger inside him, something that cannot stand to suffer injustice. 
 
 “I climbed lots of trees,” Wei Wuxian is explaining. “I’d sleep up there, then fall and break my arm. Once it was because Jiang Cheng threw me off a pier.”
 
-Lan Wangji tries to conceive of that too, a brother who shows his affection with aggression. Picturing Xichen throwing him off a pier, he might as well picture Xichen cutting off his head. 
+Lan Wangji tries to conceive of that too, a brother who shows his affection with aggression. Picturing Lan Xichen throwing him off a pier, he might as well picture Lan Xichen cutting off his head. 
 
 “I’ve gotten burned before too.” Wei Wuxian starts to hike up his skirt, then thinks better of it, dropping the fabric back down over, presumably, whatever scar lurks beneath. “I was old enough to know better, but shijie’s soup smelled so good, I tried to climb up to reach it and knocked the pot off the stove.”
 
@@ -113,7 +113,7 @@ He is grinning, and waiting to see if Lan Wangji will join him. When he doesn’
 
 “It’s so boring. I’m so bored,” Wei Wuxian says for the third time that hour, as if this is Lan Wangji’s fault. 
 
-The third day. Lan Wangji is reasonably sure of this, if only because of the hollow pains in his stomach, and the fact his leg can bear some weight. Wei Wuxian, sitting next to him, is tossing pebbles at a stick he’s stuck in the ground. He yawns hugely, then pouts when this too fails to get Lan Wangji’s attention.
+The third day. Lan Wangji is reasonably sure of this, if only because of the hollow pains in his stomach, and the fact his leg can bear some weight. Wei Wuxian, sitting next to him, is tossing pebbles at a stick he’s stuck in the ground. He slumps halfway over, then pouts when this too fails to get Lan Wangji’s attention.
 
 “Lan Zhan,” he says. 
 
@@ -141,7 +141,7 @@ Lan Wangji blinks. He had anticipated scorn, at the very least gentle teasing. W
 
 “I’d get so lonely,” he says. He flicks another pebble with precision at the stick. “I like having people around, to do things. It doesn’t have to be much. Just to talk to, at least. Don’t you like someone to talk to, Lan Zhan?”
 
-*No,* is the obvious and correct answer to that—the word sticks on his tongue, unable to make himself say it before Wei Wuxian continues. 
+*No,* is the obvious and correct answer to that—the word sticks on his tongue, Lan Wangji unable to make himself say it before Wei Wuxian continues. 
 
 “It’s nice to have that, especially when you’re not used to silence all the time. Lotus Pier isn’t quiet, like Cloud Recesses. There’s always something to do. Swimming, or fishing. Picnics. Flying kites. What’s your favorite thing to do, just for fun? Do you like flying kites?” 
 
@@ -175,7 +175,7 @@ Wei Wuxian bumps his shoulder. He smiles at him sideways as his pebble lands clo
 
 “What the—? Lan Zhan!” 
 
-“*No,*” Lan Wangji says with force. He is bleary with sleep too. And pain. And hunger. And anger. And helplessness. 
+“*No,*” Lan Wangji says with force. He is bleary with sleep too. And pain. And anger. And helplessness. 
 
 He has *possibly* overreacted. But Wei Wuxian in his lap, sound asleep, had not been a scenario he anticipated waking up to.
 
@@ -199,9 +199,9 @@ Wei Wuxian yawns again, not putting it on this time. “I didn’t think you wou
 
 Wei Wuxian retreats, taking the outer robe he had draped across Lan Wangji and pointedly crumpling it into a pillow to stuff under his head, well out of reach, on the other side of the fire. He glares at Lan Wangji, laying his head down with a sigh of long-suffering. 
 
-Lan Wangji leans back, closing his eyes, willing his heartbeat to subside to a reasonable pace. Pain stabs him like a knife, his leg throbbing. He counts through a few breaths, trying to release the worst of the ache, along with the tension that is laced in tight knots through his shoulders. 
+Lan Wangji leans back, closing his eyes, willing his heartbeat to subside to a reasonable pace. Pain stabs him like a knife, his leg throbbing. He counts through a few breaths, trying to release the worst of the ache, along with the tension that is laced in tight knots through his shoulders.
 
-His mind proves harder to quiet. He is unable to sweep his thoughts away, make his mind a blank slate. Reason creeps back in, as does logic. As does a not-insubstantial amount of shame. The fire crackles calmly, and it’s with dread curling in the pit of his stomach that he finally says, “Wei Ying.”
+His mind proves harder to quiet. He is unable to sweep his thoughts away, make his mind a blank slate. Self-awareness creeps back in, as does reason. As does a not-insubstantial amount of shame. The fire crackles calmly, and it’s with dread curling in the pit of his stomach that he finally says, “Wei Ying.”
 
 Wei Wuxian is not sleeping. He continues pretending he is. Lan Wangji could do that too, accept the excuse with gratitude and face it all again in the… whatever passes for morning in the dark underground. 
 
@@ -215,7 +215,7 @@ Lan Wangji sighs. He is not going to make this easy. Or maybe he is, because the
 
 Lan Wangji nods, once. It’s Wei Wuxian’s turn to sigh. 
 
-“Fine. Whatever. It’s okay.”
+“Fine. Whatever. It’s okay. I’m… sorry too.”
 
 Somehow that makes it worse, this pit of dread and shame writhing in Lan Wangji’s belly. It’s not okay. It never has been. “I—” There are words that won’t form, a whole language that has never been at home on his tongue. That might not even exist. “I don’t—”
 
@@ -235,11 +235,11 @@ No. No, he meant—yes. He meant that Wei Wuxian is right. Yes to all of it. He 
 
 “Yes I do. Want that. I…”
 
-The admission almost chokes him, even with no one else around for miles. There is a long dreaded silence. Only because it is so long does he hear the slight scraping of pebbles, someone trying to move quietly in the dark. He opens his eyes, and Wei Wuxian is there. He has crawled over quietly, helpfully. Uncertainly. The sulk has fallen off his face; he looks as vulnerable now as Lan Wangji has ever seen him. 
+The admission almost chokes him, even with no one else around for miles. There is a long dreaded silence. Only because it is so long does he hear the slight scraping of pebbles, someone trying to move silently in the dark. He opens his eyes, and Wei Wuxian is there. He has crawled over quietly, helpfully. Uncertainly. The sulk has fallen off his face; he looks as vulnerable now as Lan Wangji has ever seen him. 
 
 Lan Wangji’s heart feels like a bruise, raw and tender in his chest. He had thought he was the only one who felt desperately vulnerable. Wei Wuxian doesn’t fear anything. Wei Wuxian fights dire owls and demon tortoises; he taunts Wen Chao and Wen Zhuliu with merry exuberance. The look on his face says that Wei Wuxian fears this.
 
-Lan Wangji does not move a muscle, which makes Wei Wuxian tentatively respond to that welcome, crawling down and resting his head cautiously on Lan Wangji’s lap. 
+Lan Wangji doesn’t move a muscle, which makes Wei Wuxian tentatively respond to that welcome, crawling down and resting his head cautiously on Lan Wangji’s lap. 
 
 The panic still flaps in his chest, the same as when Wei Wuxian says things like *I’ll carry you* or starts stripping off clothing. It flaps, but then it—settles. Touch, the thing he’s been so frightened of, does not obliterate him after all. Light as a bird that is still fledging its feathers, he rests his hand on Wei Wuxian’s head.
 
@@ -247,9 +247,9 @@ Wei Wuxian peeks up. “Lan Zhan, do not throw up on my head.”
 
 In reply, Lan Wangji digs his fingers into his hair and tugs sharply. 
 
-Wei Wuxian gasps, then snuggles down, apparently reassured of his welcome. When Lan Wangji politely removes his hand, Wei Wuxian politely places it back. Unaccustomed to this, Lan Wangji haltingly strokes the tangled mass of his hair. Then he strokes it again. It is silk, and he idly and carefully begins to unknot it, combing his fingers down through the long length, allowed to have this, a gift received more than given. 
+Wei Wuxian gasps, then snuggles down, apparently reassured of his welcome. When Lan Wangji politely removes his hand, Wei Wuxian politely places it back. Unaccustomed to this, Lan Wangji hesitates, then haltingly strokes the tangled mass of his hair. Then he strokes it again. It is silk, and he eventually and carefully begins to unknot it, combing his fingers down through the long length, allowed to have this, a gift received more than given. 
 
-Wei Wuxian almost purrs, drowsy with contentment. Lan Wangji’s mind snags on that, flooded suddenly with a memory nearly a decade old. He couldn’t have been more than eight; they kept a sleek gray mouser in the kitchens, and he was the first to discover the litter of kittens she had birthed in secret. It’s a sense memory, rare and precious, his little heart bursting with wonder over a lap full of tiny, warm, wriggling things, falling all over themselves to let him pet and cuddle them for hours on end.
+Wei Wuxian almost purrs, drowsy with contentment. Lan Wangji’s mind snags on that, flooded suddenly with a memory nearly a decade old. He couldn’t have been more than eight; they kept a sleek gray mouser in the kitchens, and he was the first to discover the litter of kittens she had birthed in secret. His little heart had nearly burst with wonder, lap full of tiny, warm, wriggling things, falling all over themselves to let him pet and cuddle them for hours on end.
 
 He had been punished for that, discovered when he never heard the bell calling him to the evening meal. He was pulled to his feet, marched back to the dormitories, harshly scolded for lack of discipline, and for weeks he had searched through every nook, cranny and bolt-hole he could find in Cloud Recesses but the kittens were never seen again. 
 
@@ -261,7 +261,7 @@ Lan Wangji resumes stroking his scalp, unsnarling a strand of hair from the red 
 
 “I like your cold springs cave better,” Wei Wuxian decides, the fourth day. “Lan Yi was nice, and it was beautiful, and there were bunnies to play with.”
 
-The steady chill, the stale air, has made Wei Wuxian overcompensate with the fire. He’s built it up too high, and they’re enduring it, sweating through their robes. Even so, it is a preposterous statement—and one Lan Wangji is willing to allow for the sake of distraction.
+The steady chill, the stale air, has made Wei Wuxian overcompensate with the fire. He’s built it up too high, and they’re enduring it, sweating through their robes. Even so, it is a preposterous statement—one Lan Wangji is willing to allow for the sake of distraction.
 
 “Mn,” he says, neutrally enough that Wei Wuxian will not be able to easily discern whether it means yes or no.
 
@@ -293,21 +293,21 @@ So then there’s heat now, more of it, just when Lan Wangji had almost conjured
 
 Wei Wuxian says nothing, which is so unprecedented that Lan Wangji makes the fatal mistake of opening his eyes to look.
 
-Wei Wuxian is smiling. He is lounging back against the rock, one arm on his head, a pile of inky hair slipping down his neck, looking like a picture in a book that Lan Wangji should not know exists. He is watching Lan Wangji, and smiling. Not even wickedly. Just a smile that is lovely and knowing, that could make a man walk off a cliff and fall to his death.
+Wei Wuxian is smiling. He is lounging back against the rock, one arm on his head, a pile of inky hair slipping down his neck, like a picture in a book that Lan Wangji should not know exists. He is watching Lan Wangji, and smiling. Not even wickedly. Just a smile that is lovely and knowing, that could make a man walk off a cliff and fall to his death.
 
 “*Wei Ying,*” Wei Wuxian growls softly, imitating Lan Wangji’s voice. 
 
 “Wei Ying,” Lan Wangji says, since that seems to be all he can say.
 
-Wei Wuxian’s face changes. He reads Lan Wangji’s face, finds something there that makes the knowing drop away, the pure loveliness remain. Lan Wangji’s breath catches in his throat. The moment stretches out like honey pulled out of its comb, their gazes locked, the blazing heat on his face and the crackling glow of the fire.
+Wei Wuxian’s face changes. He reads Lan Wangji’s face, finds something there that makes the knowing drop away, the pure loveliness remain. Lan Wangji’s breath catches. The moment stretches out like honey pulled out of its comb, their gazes locked, the blazing heat on his face and the crackling glow of the fire.
 
 Which one of them tips forward first, he doesn’t know. All he knows is that Wei Wuxian meets him, already there when Lan Wangji lays their faces together and touches his lips with the dry, burning heat of his own.
 
 Wei Wuxian kisses him back, a *rightness* about it that threads down his spine. It’s a shiver, in the heat. 
 
-They don’t pull apart; the kiss ends, and they stay, lips close, breath mingling. So close that it doesn’t take anything, Wei Wuxian’s fingers sliding around the back of his neck, to bring him back in. 
+They don’t pull apart; the kiss ends, and they stay close, breath mingling. So close that it doesn’t take anything, Wei Wuxian’s fingers sliding around the back of his neck, to pull him back in. 
 
-Lan Wangji has not had a drop of liquor this time. His head swims with it anyway, the soft press and drag of Wei Wuxian’s mouth, lips chapped from days of rationing water. He is dizzy with the knowledge that he can have this again, dizzy with the slightly clumsy way Wei Wuxian is pressing against him. Dizzy with the way he’s kissing Wei Wuxian back. Clumsy too, so full of need, heart pounding so hard it aches in his skull. His stomach clenches with pleasure. Wei Wuxian hisses softly like hot stones hitting water. 
+Lan Wangji has not had a drop of liquor this time. His head swims with it anyway, the soft press and drag of Wei Wuxian’s mouth, lips chapped from days of rationing water. He is dizzy with the knowledge that he can have this again, dizzy with the slightly clumsy way Wei Wuxian is pressing against him. Dizzy with the way he’s kissing Wei Wuxian back. Clumsy too, mouths pressed together, a strange feeling—*joy*—humming through him. His stomach clenching with pleasure. Wei Wuxian hisses softly like hot stones hitting water. 
 
 Lan Wangji’s hand has slid down over his chest, where it hurts, where the brand is. He pulls it back, stricken. 
 
@@ -321,33 +321,31 @@ It is like before, the kiss pulling out like the tide, leaving Lan Wangji on the
 
 At least this time there is no pledge to never speak of it again. Wei Wuxian sits back, still close enough for their sleeves to brush. He picks a piece of ash off Lan Wangji’s robe, then smoothes a wrinkle, fussy little touches that don’t help calm the racing of Lan Wangji’s heart. And then Lan Wangji is looking up because he’s gotten to his feet. 
 
-“I should—” Wei Wuxian says, and trails off. He gestures instead, a vague flop of his arm, disappearing into the darkness before Lan Wangji can make his tongue form the words, *come back.*
+“I should—” Wei Wuxian says, and trails off. He gestures instead, a vague flop of his arm, picking up his black robe and disappearing into the darkness before Lan Wangji can make his tongue form the words, *come back.*
 
 ---- 
 
-Later, by the fire. Wei Wuxian sits beside him, running his dark outer robe through his hands, holding it at various angles for the crackling fire to dry. 
+“Wei Ying,” Lan Wangji says. 
 
-It is small now, the fire, died back to reasonable proportions. Wei Wuxian has brought back the robe dripping wet from the pond, his own face freshly scrubbed, letting Lan Wangji wash the soot and sweat off his skin. Tomorrow, he will don it again, along with the belt and vambraces, and they will fight a monster. 
+Later that night, by the fire. Wei Wuxian has returned, freshly scrubbed from the pond. Bringing his damp robe for Lan Wangji to wash the soot and sweat off his skin. His outer robe, flimsy and dark, which has been wrung out and dried so many times there’s not much fine fabric left to ruin. Tomorrow Wei Wuxian will don it again, along with his belt and vambraces, and they will fight a monster. 
 
-That accounts partially for the mood by the fire. They cannot keep waiting for rescue. Now is the last, best chance they have. Lan Wangji’s leg can bear more weight than yesterday; if they wait longer, they’ll be weaker. Together they share the nightly ration of water, swallow the last of the medicine. The little burst of spring sunshine arrives, fainter now, but still there.
+That accounts partially for the mood at the fire. Wei Wuxian is subdued, lost in his thoughts as he runs his robe through his hands, drying it over the flames. Tomorrow will be the last, best chance they have. Lan Wangji’s leg can bear more weight than yesterday; if they wait longer, they’ll be weaker. Together they’ve shared the nightly ration of water, the last of their medicine. The little burst of spring sunshine arrives, fainter now, but still there.
 
-“Wei Ying,” he says, when he can stand it no longer. 
+Another small stretch of quiet. “Wei Ying,” Lan Wangji says again. 
 
-Wei Wuxian, lost in thought, looks up and blinks in Lan Wangji’s direction. “Hmm?”
+Wei Wuxian looks up, blinking. “Hmm?”
 
 “I—” Lan Wangji says. 
 
-Wei Wuxian folds the robe up, discarding it, and shifts around to face him, crossing his arms on his knees. Lan Wangji’s thoughts scatter like pebbles. 
+Wei Wuxian, sensing something that needs his attention, folds the robe up, discarding it. He scoots back, reclaiming his place by the wall. “What?” he prompts Lan Wangji, nudging his elbow, after a fraught moment of silence. “Oh no.” He gasps. “Lan Zhan is going to tell me he’s sorry. Tell me how much he likes Mianmian.”
 
-“What?” Wei Wuxian prompts him, after a moment. “Oh no. Lan Zhan. Is this where you tell me you’re sorry? Say how much you like Mianmian?”
-
-It’s a tease, like the first time. Wei Wuxian drawing him out, never as careless or oblivious as he lets on, but he says it a little bit recklessly, as if nerves get the better of him despite trying to hide it.
+It’s a tease, like the first time. Wei Wuxian drawing him out, never as careless or oblivious as he lets on. But he says it a little bit recklessly, as if nerves get the better of him despite trying to hide it.
 
 “No,” Lan Wangji says. 
 
 “You *are* going to say sorry. That’s your sorry voice.”
 
-“No.”  
+“No.” 
 
 He is not going to say that. It twists in his gut, like the way his hands twist in his robes, how un-sorry he is. But—there is something, Wei Wuxian is not completely wrong. 
 
@@ -355,7 +353,7 @@ He is not going to say that. It twists in his gut, like the way his hands twist 
 
 Once again, though, he finds himself looking over when Wei Wuxian doesn’t answer. 
 
-“How would *I* know?” Wei Wuxian asks him sincerely. “Lan Zhan. How many people do you think I have kissed?”
+“You mean— Lan Zhan. How would *I* know?” Wei Wuxian asks him sincerely. “How many people do you think I have kissed?”
 
 Lan Wangji was not expecting that question. He tries to think, safely. “…Many?”
 
@@ -373,17 +371,21 @@ It feels wonderful to throw a handful of stones at him. Only once before has Lan
 
 Wei Wuxian halts mid-sentence. It is wonderful too, to throw him so badly. Even if Lan Wangji blurted the word before he could think. 
 
-“Huh?” Wei Wuxian says.
+“Huh?” Wei Wuxian says. 
 
 “Yes.” Lan Wangji nods.
 
 “You want to—”
 
-Nods.
+Lan Wangji nods.
 
 “Here?”
 
 Nods.
+
+“Now?”
+
+Nods. 
 
 “But your leg?”
 
@@ -425,27 +427,111 @@ Lan Wangji, staring at the way Wei Wuxian’s mouth glistens, red as a berry, sa
 
 “Kiss me.”
 
-Lan Wangji finds his hands are shaking. This is… real, without the plausible deniability of impulse or frustration or even the helpful pretext of inebriation. He can’t help it, he freezes, too much to process at once, and if he does this wrong— 
+Lan Wangji finds his heart beating wildly. This is… real, without the plausible deniability of impulse or frustration or even the helpful pretext of inebriation. He can’t help it, he freezes, too much to process at once, and if he does this wrong— 
 
 Wei Wuxian huffs fondly, tips his face up and kisses him. 
 
-It’s a *kiss.* Slow and real, and intent, not the clumsy crushing of mouths he had attempted. Lan Wangji’s grip tightens, fingers digging into his waist, into the nape of his neck. Wei Wuxian gasps softly. Heat that is not from the fire curls up Lan Wangji’s spine. 
+It’s a *kiss.* Slow and real, and intent, not the clumsy crushing of mouths Lan Wangji had attempted. His grip tightens, fingers digging into Wei Wuxian’s waist, into the nape of his neck. Wei Wuxian responds with a gasp. Heat that is not from the fire curls up Lan Wangji’s spine. 
 
-Wei Wuxian, when they part, brushes his thumb across Lan Wangji’s cheek. “Ahh. Lan Zhan *does* blush,” he whispers, and more heat, more color floods beneath Lan Wangji’s skin. Grinning, Wei Wuxian bumps him with his nose. He kisses him there, then next to his ear, experimenting. “*You* wanted this, Lan Zhan,” he reminds him, dropping down to nuzzle his neck, a tender spot that sends a flurry of sparks cascading down through his body. 
+Wei Wuxian, when they part, brushes his thumb across Lan Wangji’s cheek. “Ahh. Lan Zhan *does* blush,” he whispers, and more heat, more color floods beneath Lan Wangji’s skin. Grinning, Wei Wuxian bumps him with his nose. He kisses him there, then next to his ear, experimenting. “*You* wanted this, Lan Zhan,” he reminds him, dropping down to nuzzle his neck, a tender spot that sends a flurry of sparks down through Lan Wangji’s body.
 
 Lan Wangji is going to combust. He will not get to fight a demon tortoise; he will be a pile of ash on the ground long before rescue comes. He makes a strangled sound in his throat—Wei Wuxian rewards it with laughter, a puff of air that chases shivers up and down Lan Wangji’s skin. 
 
-“Wei Ying,” he croaks. 
+It feels safest to take back control of kiss. He does, pulling Wei Wuxian back up to his mouth, but Wei Wuxian is not so easily deterred. He nips at Lan Wangji’s mouth, not a kiss. Brushes their lips together, not a kiss. Licks at him, teasing—not a kiss. Then he slides their mouths back together, waiting until instinct has Lan Wangji opening up a fraction and letting him in. 
 
-“Mm?”
+They both make a sound when their tongues touch. Heat floods odd places on Lan Wangji’s body—the inside of his elbows, his thighs, the top of his scalp. It feels like being born, or like dying. Nothing has prepared him for Wei Wuxian in his mouth making soft, desperate noises, the slick heat of his tongue, drinking Lan Wangji in like he’s the water they’ve had to ration to keep from dying of thirst.
 
-His protest dies a swift death on his tongue. It was reflex anyway, the habit of protesting anything Wei Wuxian does—useless when he would let Wei Wuxian do anything, as long as *anything* involves the delicate swirl of his tongue just below Lan Wangji’s ear. It feels exquisite. It’s mortifying. He makes another pained and very undignified sound, and Wei Wuxian detaches abruptly to look at his face.
+When they pull back the next time—nothing is left of the arrogant, loose-limbed flirt. Wei Wuxian is trembling. Lan Wangji is sure he is too, the kisses dragging sensation over his skin like dry grass. 
 
-“Lan Zhan, is that weird? If it’s weird, you can—”
+“That,” Wei Wuxian says. Licks his lips. “That was. Is that—Lan Zhan, is that the best we can do?”
 
-Oh, for— In exasperation, Lan Wangji pulls Wei Wuxian back down to his mouth. Laughter spills out between them. Wei Wuxian’s laughter, his mouth falling open until the tip of Lan Wangji’s tongue brushes the tip of his own and his laughter chokes off into a soft, startled sound. 
+Lan Wangji drags him back in. A laugh bubbles up, trapped between them. Lan Wangji kisses him quiet, Wei Wuxian pressed against him, one hand on the wall behind Lan Wangji’s head. It is Lan Wangji’s turn to make soft, desperate noises, clinging to him, until Wei Wuxian shifts again, gentling the kiss just a little, winding his arms around Lan Wangji’s neck.
 
-It’s instinct, that’s all. It’s not knowledge or skill; just instinct that brings their mouths back together, deliberate this time as they both take a breath, Wei Wuxian’s eyes falling closed as Lan Wangji opens up and lets him all the way in. 
+They kiss like that for ages. They kiss and kiss, sinking down into it, Lan Wangji learning every curve of Wei Wuxian’s lips, every hitch of his breath, each warm, wet angle of Wei Wuxian’s mouth. They find a pace they can sustain and apply themselves to it. They kiss breathlessly, endlessly. They kiss sloppily, playfully. They kiss so slow and so long that they need to pause, parched, and drink from their precious ration of water. Kiss until their lips are bruised; until Lan Wangji’s jaw aches, until his leg is numb with pins and needles. Kiss until they are giddy with it, then serious all over again.
 
-They both make a sound when their tongues touch. Heat floods odd places on Lan Wangji’s body—the inside of his elbows, his thighs, the top of his scalp.
+“Wei Ying,” he finally rasps, Wei Wuxian’s hips in his hands. Slithery hips that won’t stop *moving.* They are a hairsbreadth from a *rhythm,* from—Lan Wangji meeting him, moving too. It is taking his last thread of willpower and quite a bit of pain to stop him. And even then—
 
+“We could, though,” Wei Wuxian says. Breath hot on Lan Wangji’s ear. He is panting a little. He says it lightly, the way he once said *you could kiss me, you know. Just as friends. I wouldn’t mind.* One hand has slipped beneath the outer layers of Lan Wangji’s robe, skimming up and down his side where the thin robe fits his body. “We could, Lan Zhan. I wouldn’t hurt you. I promise. I could just—”
+
+Lan Wangji screws his eyes shut, leaning back against the rock. He wants to. He wants to so much. He has possibly never wanted anything more in his life than he wants to just let it happen, let their hips press together, where he is so hot and so hard, feel the aching relief, the release of arousal. He can’t even recall a reason for *not* letting it happen. They are here—not ideal, but also, as they’ve established, not entirely prohibitive. His leg—but Wei Wuxian is right, they could be careful, they would try not to hurt him. It is simply habit to fight it. He has been fighting it for what feels like half of his life. 
+
+“No, I know,” Wei Wuxian says, conducting his own conversation with Lan Wangji’s silences. “I do. I know. I know we can’t.” 
+
+“Wei Ying,” he says again, and doesn’t know what the plea is for. 
+
+Wei Wuxian makes the choice for them. He kisses Lan Wangji again, a long, slow dip into a pool that is so warm, so all-encompassing, it makes tears spring behind Lan Wangji’s eyelids. His throat closes up, his senses too overwhelmed to do anything but cling to him. And then Wei Wuxian brings it to an end, resting their foreheads together for a moment before he pulls back to look at Lan Wangji. Holding his face in his hands, he smiles bravely, barely faltering. It’s his smile of utter reassurance, conveying, *there is nothing you can do to make me like you less, you have nothing to fear.* 
+
+“Can I think about this sometimes?” Wei Wuxian asks him. His hair so wrecked and mouth so kissed that Lan Wangji’s hands tighten vice-like on his hipbones. “Back home. In bed alone. When I think about Lan Zhan late at night, and want to remember how he feels, so I can…” He trails off suggestively.
+
+He is twinkling again, a little bit wicked. Making it safe for them. Making it normal. Playing the fool. Trying to scandalize Lan Wangji. It will take a lot more than that, even though the flush rises, predictably, all over his skin. 
+
+“Yes,” says Lan Wangji, since that scenario means that Wei Wuxian will be home and safe. 
+
+Wei Wuxian laughs from his belly, dragging Lan Wangji in to smother him with a hug. He drops a kiss on his hair, on his forehead, on the bridge of his nose like a *ridiculous* person. 
+
+“You may do the same,” he offers gravely. Then shakes again with mirth, one last kiss in response to the look on Lan Wangji’s face. 
+
+---- 
+
+After a while, they bank the fire. Tend to the few necessities. Wei Wuxian is quiet again, serious, as he checks the bandages on Lan Wangji’s leg. Tomorrow looms over them, once again unavoidable, no more distractions to keep it at bay. 
+
+Side by side, they stretch out. The ground is still rocky, the embers popping softly, the coals still shedding warmth. Lan Wangji breathes in and out. Stomach rising and falling beneath his folded hands. 
+
+He turns to look at Wei Wuxian. 
+
+“Hmm?” Wei Wuxian says, an arm’s length away in the dark. 
+
+After a moment, he affects a sigh, obeying the silent order as he drags himself over, arriving as bidden, bedding down snugly at Lan Wangji’s side. 
+
+“Better?” Wei Wuxian asks. He reaches for Lan Wangji’s face, mouth puckered, a genuine smile when Lan Wangji swats him away. Satisfied, he rests his arm across Lan Wangji instead, laying his head on his shoulder. 
+
+Lan Wangji, who is still wearing multiple layers of robes, and who is closest to the fire, tucks the dark outer robe around him. 
+
+“Hmmph. *Now* he’s nice to me.” Wei Wuxian grunts drowsily against his chest. “All I had to do was seduce him with my virginal wiles… ow.”
+
+Lan Wangji pinches the soft flesh inside his elbow. 
+
+Wei Wuxian rubs it, hissing, then nestles back down. “Okay gege, I’ll behave.”
+
+---- 
+
+It is achingly intimate, even more so than Wei Wuxian’s tongue in his mouth, to have Wei Wuxian’s voice in his head. If only it could always be so simple—to merely think and have his thoughts arrive in Wei Wuxian’s mind, unobstructed by his own clumsy tongue.
+
+It is like the dire owl, in the forest. Like the dancing fairy; like the kiss. They work together, instinct that defies all logical thought, the push and pull, the give and take, of being in accord with each other. As fluid as a dance; a life and death dance that they almost lose, right up until they… win. 
+
+It doesn’t feel like a win. It feels like Wei Wuxian’s dead weight in his arms, hauling him limp from the water. It feels like his cold, clammy pallor, his weak, erratic pulse. It feels like Lan Wangji’s own hands, shredded to ribbons, slick with blood, helpless to do anything except offer the very last thread of his spiritual energy. His heart seizing when Wei Wuxian coughs and smiles weakly. 
+
+And asks him to sing. 
+
+----
+
+Time truly stops, this time. Lan Wangji only thought the hours bled out before. One day, possibly—possibly two. It ceases to have any meaning, any unit of time that isn’t the ragged space between Wei Wuxian’s breaths. 
+
+Rescue, when it comes, finds him clutching Wei Wuxian the way Wei Wuxian clutches the sword. It is a cacophony, disorienting, a nightmare, a blur—Lan Wangji is shaken awake, spoken to like an irrational child about how they are here now and he must let Wei Wuxian go. 
+
+Up above, it is blinding. He drinks all the water they’ll give him, eats a few bites of mild rations, and doesn’t leave Wei Wuxian’s side. 
+
+“What’s that ugly thing he’s got?” Jiang Wanyin demands. 
+
+“It’s his,” is all Lan Wangji says. 
+
+“Whatever.”
+
+Hours pass. Half a day. He needs to go. They’ve told him all the news they’ve heard from Gusu. Not much. He needs to go. Jin Zixuan can spare a few men to send with him, and provisions. He pleads in silence, *wake up,* which is no more effective than it was in the cave. 
+
+*I’ll come find you,* he vows, mentally pressing the words into Wei Wuxian’s mind the way they had done underground. *In Lotus Pier, I’ll come find you. As soon as I can. They’ll take care of you now.* 
+
+Duty might tear him in two. Carefully, Lan Wangji pulls a strand of hair back from Wei Wuxian’s sweat-streaked, pale face. They’re alone, but too many Jins and Jiangs mill about to kiss him. 
+
+*I’ll come,* he swears, leaving. *As soon as I can. No matter what.*
+
+----
+
+He is not able to change anything. Find his brother, save Cloud Recesses. Make his uncle well again. It either happens or it doesn’t, regardless of his presence. 
+
+So it haunts him—what if—what if Wei Wuxian—*after.* What if he had stayed. If he had been *there,* instead of elsewhere, and helpless. 
+
+Would it have mattered? Would things have changed?
+
+---
+[[private/cql/3 - unclean realm|Next - Unclean Realm]]

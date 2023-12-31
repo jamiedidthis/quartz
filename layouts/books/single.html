@@ -14,24 +14,24 @@
             <div class="book-metadata">
               <h1>{{ .Title }}</h1>
               {{ with .Params.subtitle }}<h2>{{ . }}</h2>{{ end }}
-              {{ $order := .Params.weight }}
+              {{ $order := .Params.series_weight }}
                 {{ range .Params.series }}
                 <h2>
                   <a href="{{ $.Site.BaseURL}}series/{{ . | urlize | lower }}">{{ . }}</a> 
                   &num;{{ $order }}
                 </h2>
                 {{ end }}
-                <div class="author-publisher">
+                <div class="author-publisher" style="margin-bottom: 1em;">
                   <ul class="authors">
-                    {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | urlize | lower }}">{{ . }}</a></li>{{ end }}
+                    {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | anchorize | lower }}">{{ . }}</a></li>{{ end }}
                   </ul>
-                  {{ $publish := .Params.publish }}
+                  {{ $publish :=time .Params.publish }}
                   {{ range .Params.publishers }}
-                  <p>Published {{ $publish }} by <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
+                  <p>Published {{ $publish.Format "2006" }} by <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
                   {{ end }}
                 </div>
                   <ul class="tags">
-                    {{ range (.GetTerms "tags") }}
+                    {{ range (.GetTerms "genres") }}
                     <li><a href="{{ .Permalink }}">
                     {{if (eq $.Site.Language.Lang "en")}}
                       {{ .LinkTitle | lower }}
@@ -41,13 +41,16 @@
                       </a>
                      </li>
                     {{ end }}
-                </ul>
+                  </ul>
             </div>
         </div>
     </div>
 
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
+
+      {{partial "shelves.html" .}}
+
     </article>
     {{partial "footer.html" .}}
 </div>

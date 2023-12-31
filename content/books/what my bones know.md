@@ -1,20 +1,22 @@
 ---
-title: "What My Bones Know"
-subtitle: "A Memoir of Healing from Complex Trauma"
-authors: 
- - Stephanie Foo
+title: What My Bones Know
+subtitle: A Memoir of Healing from Complex Trauma
+authors:
+  - Stephanie Foo
 publishers:
- - Ballantine Books
-publish: 2022
-tags: 
- - memoir
- - therapy
- - nonfic 
----
-
-[[Stephanie Foo]]
-[[Ballantine Books]]
-
+  - Ballantine Books
+publish: 2022-02-22
+tags:
+  - memoir
+  - therapy
+  - nonfic
+genres:
+  - nonfiction
+  - memoir
+shelves:
+  - trauma
+  - cptsd
+  - cover-love
 ---
 
 Incredible memoir. One of the best books I’ve read about healing from abuse, dysfunction, and trauma. So much to relate to on every page (and not just because she had the same [Jimmy Eat World song ](https://www.youtube.com/watch?v=FV-HPOHu8mY) as a lifeline in the early aughts).
@@ -45,8 +47,6 @@ There’s no single magic fix; there’s a mix of what works for each person at 
 ### Pull quotes: 
 
 > *It’s okay to have some things you never get over.* In the span of half an hour, this man whom I had known for less than a season did what nobody in my life ever had: He took all of my sins and simply forgave them. He didn’t demand relentless improvement. There were no ultimatums. He asserted that I was enough, as is. The gravity of it stunned me into silence. Joey was the opposite of the dread.
-
-> It made perfect sense to me later in life when I discovered that the Chinese word for endurance is simply the word *knife* on top of the word *heart*. You walk around with a knife in your heart. You do it with stoicism. This is the apex of being. 
 
 > My family tried to erase this history. But my body remembers. My work ethic. My fear of cockroaches. My hatred for the taste of dirt. These are not random attributes, a spin of the wheel. They were gifted to me with purpose, with necessity.
 > 

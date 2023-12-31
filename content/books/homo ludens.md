@@ -1,15 +1,16 @@
 ---
-title: "Homo Ludens"
-subtitle: "A Study of the Play Element in Culture"
-authors: 
- - Johan Huizinga
+title: Homo Ludens
+subtitle: A Study of the Play Element in Culture
+authors:
+  - Johan Huizinga
 publishers:
- - Beacon Press
-publish: 1971
-tags: 
- - nonfic
- - history
- - play
+  - Beacon Press
+publish: 1971-06-01
+tags:
+  - nonfic
+  - history
+  - play
+  - translation
 ---
 
 “One might call society a game in the formal sense, if one bears in mind that such a game is the living principle of all civilization.”

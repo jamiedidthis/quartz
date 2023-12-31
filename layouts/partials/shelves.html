@@ -1,0 +1,16 @@
+{{ if .Params.Shelves }}
+<ul class="tags" style="margin-top: .5em;">
+  <li>Additional shelves //</li>
+
+  {{ range (.GetTerms "shelves") }}
+  <li><a href="{{ .Permalink }}">
+  {{if (eq $.Site.Language.Lang "en")}}
+    {{ .LinkTitle | lower }}
+  {{else}}
+    {{ .LinkTitle }}
+  {{end}}
+    </a>
+   </li>
+  {{ end }}
+</ul>
+{{ end }}

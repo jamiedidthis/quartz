@@ -1,17 +1,16 @@
 ---
 title: "{{title}}"
 subtitle: ""
-authors: 
- - {{author}}
+authors:
+  - "{{author}}"
 publishers:
- - {{publisher}}
-publish: {{publishDate}}
-series:
- - 
-weight:
-tags: 
- - 
-cover: {{coverUrl}}
+  - "{{publisher}}"
+publish: "{{publishDate}}"
+series: 
+series_weight: 
+genres:
+  - "{{category}}"
+shelves:
 ---
 
 [[{{author}}]]

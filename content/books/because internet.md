@@ -11,6 +11,8 @@ tags:
  - nonfic
 ---
 
+With all the hubbub and handwringing around Twitter, all I think is how will Gretchen do her research! 
+
 * It’s not just that we make patterns; humans are basically incapable of doing things *without* patterns
 * Young women are the language disrupters
 * Twitter, where you’re encouraged to follow people you don’t already know, has more linguistic innovation (not to mention [[notes/memes and social movements|memes and social movements]]) than Facebook, where you primarily friend people you already know offline

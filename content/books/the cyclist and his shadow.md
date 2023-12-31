@@ -10,6 +10,7 @@ tags:
  - nonfic
  - cycling
  - memoir
+ - in translation
 ---
 
 I like how right away, in the forward, Thomazeau François is pitting this book against _The Rider_ as the seminal classic of cycling literature. I arched a skeptical eyebrow, and… was in total agreement by like, chapter 3.  

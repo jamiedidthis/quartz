@@ -1,12 +1,16 @@
 ---
-title: "A History of the Bible"
-subtitle: "The Book and Its Faiths"
-authors: 
- - John Barton
+title: A History of the Bible
+subtitle: The Book and Its Faiths
+authors:
+  - John Barton
 publishers:
- - Penguin
+  - Penguin
 publish: 2020
-tags: 
- - nonfic
- - christianity
+genres:
+  - nonfiction
+  - religion
+shelves:
+  - jesus-etc
+  - cover-love
+  - losing-my-religion
 ---

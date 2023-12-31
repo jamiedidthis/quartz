@@ -7,7 +7,7 @@ publishers:
 publish: 2021
 series:
  - The Book of the New Sun
-weight: 2
+series_weight: 2
 tags: 
  - sff
 ---

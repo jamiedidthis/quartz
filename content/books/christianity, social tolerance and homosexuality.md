@@ -12,6 +12,3 @@ tags:
  - history
  - christianity
 ---
-
-[[John Boswell]]
-[[University of Chicago Press]]

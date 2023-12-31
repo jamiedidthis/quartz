@@ -7,7 +7,7 @@ publishers:
 publish: 2015
 series:
  - The Sorcerer of the Wildeeps
-weight: 1
+series_weight: 1
 tags: 
  - sff
  - queer

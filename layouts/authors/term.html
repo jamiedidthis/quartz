@@ -12,10 +12,13 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
+        {{with .Content}}
+            <p>{{.}}</p>
+        {{end}}
         {{partial "page-list-books.html" .Paginator.Pages.ByWeight }}
         {{ template "_internal/pagination.html" . }}
     </article>
-    {{partial "contact.html" .}}
+    {{partial "footer.html" .}}
 </div>
 </body>
 </html>

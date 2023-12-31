@@ -7,7 +7,7 @@ publishers:
 publish: 2012
 series:
  - The Brothers Sinister
-order: 1
+series_weight: 1
 tags: 
  - romance
 ---
