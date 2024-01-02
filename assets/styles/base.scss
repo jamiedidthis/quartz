@@ -231,6 +231,8 @@ blockquote {
 }
 
 article {
+  padding-bottom: 1em;
+  
   & > h1 {
     margin: 2em 0 0 0;
     font-size: 1.8em;
@@ -314,7 +316,6 @@ article {
   & > li {
     display: inline-block;
     margin: 0 0.4em 0 0;
-    line-height: 1em;
     font-family: var(--font-mono);
     font-weight: 400;
     font-size: 0.7em;
@@ -466,6 +467,11 @@ footer {
   }
   & a { 
     font-family: var(--font-mono);
+    font-weight: 400;
+    color: var(--dark);
+    &:hover { 
+      color: var(--secondary) !important;
+    }
   }
 }
 

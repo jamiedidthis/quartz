@@ -1,0 +1,3 @@
+---
+title: Kory Stamper
+---

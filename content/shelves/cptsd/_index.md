@@ -1,5 +1,4 @@
 ---
 title: cptsd
-heading: Complex PTSD
+heading: complex PTSD
 ---
-Let’s test this out, bitch! What about [a link](https://jamieharris.co)?

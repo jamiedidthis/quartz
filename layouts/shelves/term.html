@@ -8,13 +8,13 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        <h1>Shelf // {{ .Params.heading }}</h1>
+        <h1><span class="gray">Shelf //</span> {{ if .Params.heading }} {{.Params.heading}} {{else}} {{ .Title }} {{end}}</h1>
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
         {{with .Content}}
         <p>{{.}}</p>
-    {{end}}
+        {{end}}
         {{partial "page-list-published.html" .Paginator.Pages.ByLastmod.Reverse }}
         {{ template "_internal/pagination.html" . }}
     </article>

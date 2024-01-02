@@ -5,9 +5,13 @@ authors:
   - Chuck Tingle
 publishers:
   - Tor Nightfire
-publish: 2023-07-18
+publishDate: 2023-07-18
 series: 
 series_weight: 
-tags:
-  - queer
+genres:
+  - fiction
+  - horror
+shelves:
+  - queerly-beloved
+  - neurodivergent
 ---

@@ -1,15 +1,17 @@
 ---
-title: "The Secret Lives of Country Gentlemen"
-authors: 
- - KJ Charles
+title: The Secret Lives of Country Gentlemen
+subtitle: ""
+authors:
+  - KJ Charles
 publishers:
- - Sourcebooks
-publish: 2023
+  - Sourcebooks
+publishDate: 2023-03-07
 series:
- - The Doomsday Books 
+  - Doomsday Books
 series_weight: 1
-tags: 
- - romance
- - historical
- - queer
+genres:
+  - fiction
+  - romance
+shelves:
+  - feats-of-dialect
 ---

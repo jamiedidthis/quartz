@@ -25,7 +25,7 @@
                   <ul class="authors">
                     {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | anchorize | lower }}">{{ . }}</a></li>{{ end }}
                   </ul>
-                  {{ $publish :=time .Params.publish }}
+                  {{ $publish := .Params.publishDate }}
                   {{ range .Params.publishers }}
                   <p>Published {{ $publish.Format "2006" }} by <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
                   {{ end }}

@@ -9,6 +9,7 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 24
 enableGitInfo = true
+buildFuture = true
 
 [markup]
     [markup.tableOfContents]

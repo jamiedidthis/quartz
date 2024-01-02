@@ -5,7 +5,7 @@ authors:
   - "{{author}}"
 publishers:
   - "{{publisher}}"
-publish: "{{publishDate}}"
+publishDate: "{{publishDate}}"
 series: 
 series_weight: 
 genres:

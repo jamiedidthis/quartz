@@ -5,11 +5,7 @@ authors:
   - Stephanie Foo
 publishers:
   - Ballantine Books
-publish: 2022-02-22
-tags:
-  - memoir
-  - therapy
-  - nonfic
+publishDate: 2022-02-22
 genres:
   - nonfiction
   - memoir
@@ -17,6 +13,7 @@ shelves:
   - trauma
   - cptsd
   - cover-love
+  - therapy
 ---
 
 Incredible memoir. One of the best books I’ve read about healing from abuse, dysfunction, and trauma. So much to relate to on every page (and not just because she had the same [Jimmy Eat World song ](https://www.youtube.com/watch?v=FV-HPOHu8mY) as a lifeline in the early aughts).

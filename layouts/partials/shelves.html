@@ -1,8 +1,8 @@
 {{ if .Params.Shelves }}
-<ul class="tags" style="margin-top: .5em;">
+<ul class="tags" style="margin-top: 4em;">
   <li>Additional shelves //</li>
 
-  {{ range (.GetTerms "shelves") }}
+  {{ range sort (.GetTerms "shelves").ByTitle }}
   <li><a href="{{ .Permalink }}">
   {{if (eq $.Site.Language.Lang "en")}}
     {{ .LinkTitle | lower }}

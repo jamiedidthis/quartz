@@ -1,15 +1,39 @@
 ---
-title: "Because Internet"
-subtitle: "Understanding the New Rules of Language"
+title: Because Internet
+subtitle: Understanding the New Rules of Language
 authors:
- - Gretchen McCulloch
-publishers: 
- - Penguin
-publish: 2019
-tags:
- - language
- - nonfic
+  - Gretchen McCulloch
+publishers:
+  - Penguin
+publishDate: 2019-07-23
+series: 
+series_weight: 
+genres:
+  - nonfiction
+  - language
+shelves:
 ---
+Ooh, this was FUN. It’s a fascinating look at how language evolves, and how rapidly it’s evolving now because internet—and arguably for the better, because internet-speak conveys this whole spectrum of emotional nuance that formal written language cannot.  
+
+Highlights and takeaways, an incomplete list:  
+—Young women have been the language disrupters throughout history  
+—We’re still cursed by faux-Latin-y grammar  
+—Grammar and spelling are collective agreements, not eternal truths  
+—What teens are doing is sophisticated  
+—Our language is embodied; you believe someone’s body, not their words  
+—Illustrative emoji (the birthday cake; it means what it means) vs. emblematic emoji (the eggplant; it means what it doesn’t mean)  
+—Emoji have the same rhythmic tendency as beat gestures  
+—Plain words actually weren’t good enough for Shakespeare  
+—Irony, paradoxically, creates space for sincerity  
+—Language is a network  
+—Godwin’s Law was an experiment on memes  
+—Memes and needlework are both collective folk texts  
+—We’ve had the right to adapt longer than we’ve had the right to prevent copying  
+—There is no doing it wrong, we’re creating as we go
+
+If you’re into linguistics (🙋🏻‍♀️), like clever and informative books (🙋🏻‍♀️), are an elder millennial (🙋🏻‍♀️), remember the AOL dialup (🙋🏻‍♀️), use social media as your third place (🙋🏻‍♀️), find yourself hooked on Wordle (🙋🏻‍♀️), or want some hope for the future (🙋🏻‍♀️), don’t miss this book.
+
+Also, when anybody is outraged about “kids these days” on the internet, remember that people used to be outraged over the word “hello,” which was invented with the telephone.
 
 With all the hubbub and handwringing around Twitter, all I think is how will Gretchen do her research! 
 

@@ -1,16 +1,88 @@
 ---
-title: "Atlas of the Heart"
-subtitle: "Mapping Meaningful Connection and the Language of Human Experience"
+title: Atlas of the Heart
+subtitle: Mapping Meaningful Connection and the Language of the Human Experience
 authors:
- - Brené Brown
+  - Brené Brown
 publishers:
- - Random House
-publish: 2021
-tags: 
- - nonfic
- - emotions
- - therapy
+  - Random House
+publishDate: 2021-11-30
+series: 
+series_weight: 
+genres:
+  - nonfiction
+  - psychology
+shelves:
 ---
+**Places we go when things are uncertain or too much**—stress, overwhelm, anxiety, worry, avoidance, excitement, dread, fear, vulnerability
+
+**Places we go when we compare**—comparison, admiration, reverence, envy, jealousy, resentment, schadenfreude, freudenfreude
+
+**Places we go when things don’t go as planned**—boredom, disappointment, expectations, regret, discouragement, resignation, frustration
+
+**Places we go when it’s beyond us**—awe, wonder, confusion, curiosity, interest, surprise
+
+**Places we go when things aren’t what they seem**—amusement, bittersweetness, nostalgia, cognitive dissonance, paradox, irony, sarcasm
+
+**Places we go when we’re hurting**—anguish, hopelessness, [[despair]], sadness, grief
+
+**Places we go with others**—compassion, pity, empathy, sympathy, boundaries, comparative suffering
+
+**Places we go when we fall short**—shame, self-compassion, perfectionism, guilt, humiliation, embarrassment
+
+**Places we go when we search for connection**—belonging, fitting in, connection, disconnection, insecurity, invisibility, loneliness
+
+**Places we go when the heart is open**—love, lovelessness, heartbreak, [[the trust checklist|trust]], [[the trust checklist#Self-trust|self-trust]], betrayal, defensiveness, flooding, hurt
+
+**Places we go when life is good**—joy, happiness, calm, contentment, gratitude, foreboding joy, relief, tranquility
+
+**Places we go when we feel wronged**—anger, contempt, disgust, dehumanization, hate, self-righteousness
+
+**Places we go to self-assess**—pride, hubris, humility
+
+---
+
+### Places we go when things are uncertain or too much 
+Stress, overwhelm, anxiety, worry, avoidance, excitement, dread, fear, vulnerability
+
+### Places we go when we compare
+Comparison, admiration, reverence, envy, jealousy, resentment, schadenfreude, freudenfreude
+
+### Places we go when things don’t go as planned
+Boredom, disappointment, expectations, regret, discouragement, resignation, frustration
+
+### Places we go when it’s beyond us
+Awe, wonder, confusion, curiosity, interest, surprise
+
+### Places we go when things aren’t what they seem
+Amusement, bittersweetness, nostalgia, cognitive dissonance, paradox, irony, sarcasm
+
+### Places we go when we’re hurting
+Anguish, hopelessness, despair, sadness, grief
+
+### Places we go with others
+Compassion, pity, empathy, sympathy, boundaries, comparative suffering
+
+### Places we go when we fall short
+Shame, self-compassion, perfectionism, guilt, humiliation, embarrassment
+
+### Places we go when we search for connection
+Belonging, fitting in, connection, disconnection, insecurity, invisibility, loneliness
+
+### Places we go when the heart is open
+Love, lovelessness, heartbreak, [[the trust checklist|trust]], [[the trust checklist#Self-trust|self-trust]], betrayal, defensiveness, flooding, hurt
+
+### Places we go when life is good
+Joy, happiness, calm, contentment, gratitude, foreboding joy, relief, tranquility
+
+### Places we go when we feel wronged
+Anger, contempt, disgust, dehumanization, hate, self-righteousness
+
+### Places we go to self-assess
+Pride, hubris, humility
+
+
+---
+
 
 - Worrying and anxiety go together, but worry is not an emotion; it is the thinking part of anxiety.
 - Avoidance will make you feel less vulnerable in the short run, but will never make you less afraid. 

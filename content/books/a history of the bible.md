@@ -5,7 +5,7 @@ authors:
   - John Barton
 publishers:
   - Penguin
-publish: 2020
+publishDate: 2020
 genres:
   - nonfiction
   - religion
