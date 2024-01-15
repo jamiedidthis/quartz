@@ -6,7 +6,7 @@ tags:
 date: 2024-01-08T14:47:00
 lastmod: 2024-01-08T14:47:00
 ---
-In *[[books/the right to maim|The Right to Maim]]*, [[authors/jasbir k. puar|Jasbir Puar]] uses the concept of “debility”—bodily injury and social exclusion brought on by economic and political factors—to disrupt the category of disability and the neoliberal concept of disability justice.
+In *[[books/the right to maim|The Right to Maim]]*, [[authors/jasbir puar|Jasbir Puar]] uses the concept of “debility”—bodily injury and social exclusion brought on by economic and political factors—to disrupt the category of disability and the neoliberal concept of disability justice.
 
 > Puar uses the term debilitation to describe what happens to Mohammed and so many others in Gaza that our neoliberal frame of disability rights can’t capture. She explains that debility can’t be understood as an identity like disability, which is usually thought of as an event that happens to an individual, after which they just need accommodations, access, and personal empowerment to be included in society. Rather, debility is what happens when a state makes an entire population available for mass injury — a denial of disability rights altogether.[^1]
 

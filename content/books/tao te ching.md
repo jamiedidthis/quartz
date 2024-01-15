@@ -2,8 +2,8 @@
 title: Tao Te Ching
 subtitle: ""
 authors:
-  - Ursula K. Le Guin
   - Lao Tzu
+  - Ursula K Le Guin
 publishers:
   - Shambhala Publications
 publishDate: 2019-05-14

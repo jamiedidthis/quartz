@@ -2,7 +2,7 @@
 title: The Left Hand of Darkness
 subtitle: ""
 authors:
-  - Ursula K. Le Guin
+  - Ursula K Le Guin
 publishers:
   - Penguin
 publishDate: 2000-07-01

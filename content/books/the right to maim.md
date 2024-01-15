@@ -2,7 +2,7 @@
 title: The Right to Maim
 subtitle: Debility, Capacity, Disability
 authors:
-  - Jasbir K. Puar
+  - Jasbir Puar
 publishers:
   - Duke University Press
 publishDate: 2017-11-03

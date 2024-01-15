@@ -2,7 +2,7 @@
 title: Pagans
 subtitle: The End of Traditional Religions and the Rise of Christianity
 authors:
-  - James J. O’Donnell
+  - James J O’Donnell
 publishers:
   - HarperCollins
 publishDate: 2015-03-17

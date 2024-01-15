@@ -2,7 +2,7 @@
 title: Following the Water
 subtitle: A Hydromancer’s Notebook
 authors:
-  - David M. Carroll
+  - David M Carroll
 publishers:
   - Houghton Mifflin Harcourt
 publishDate: 2009-08-12

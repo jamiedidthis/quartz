@@ -11,4 +11,4 @@ From [[authors/ada palmer|Ada Palmer’s]] introduction to *[[books/shadow & cla
 
 She goes on to say that [[authors/gene wolfe|Gene Wolfe]] asks even more, and that like learning to swim before one swims for fun, in many ways one reads the [[series/the book of the new sun|Book of the New Sun]] only on the second pass.
 
-No wonder my childlike puzzle-loving brain loves this kind of deep worldbuilding. Think [[series/terra ignota|Terra Ignota]], or *[[books/china mountain zhang|China Mountain Zhang]]*, or even *[[books/among others|Among Others]]*. Most of [[authors/ursula k. le guin|Ursula K. Le Guin]]; everything by [[authors/john m ford|John M. Ford]].
+No wonder my childlike puzzle-loving brain loves this kind of deep worldbuilding. Think [[series/terra ignota|Terra Ignota]], or *[[books/china mountain zhang|China Mountain Zhang]]*, or even *[[books/among others|Among Others]]*. Most of [[authors/ursula k le guin|Ursula K. Le Guin]]; everything by [[authors/john m ford|John M. Ford]].
