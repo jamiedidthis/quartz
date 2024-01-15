@@ -9,11 +9,13 @@ publishers:
 publish: 2021-01-01
 genres:
   - fiction
-  - sff
+  - erotica
+  - sci-fi
 shelves:
   - kinky-books
-  - space-walk
-  - fantastical
-  - the-spookies
   - cover-love
+  - queerly-beloved
+  - paranormal-activity
+date: 2024-01-02T15:13:00
+lastmod: 2024-01-02T15:13:00
 ---

@@ -1,7 +1,9 @@
 ---
-title: "The Buddhist concept of near enemies"
-tags: 
- - emotions
+title: The Buddhist concept of near enemies
+tags:
+  - emotional-intelligence
+date: 2023-12-13T14:09:00
+lastmod: 2023-12-13T14:09:00
 ---
 
 via [[books/atlas of the heart|Atlas of the Heart]]: 

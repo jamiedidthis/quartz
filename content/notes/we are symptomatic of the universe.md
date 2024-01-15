@@ -2,8 +2,10 @@
 title: We are symptomatic of the universe
 tags:
   - philosophy
+date: 2024-01-15T15:10:00
+lastmod: 2024-01-15T15:10:00
 ---
-Alan Watts in Out of Your Mind:
+[[authors/alan watts|Alan Watts]] in [[books/out of your mind|Out of Your Mind]]:
 
 > If there is any such thing as intelligence or love or beauty, you find it in other people. Those things exist in human beings, and if they exist in us, it means that intelligence and love and beauty are symptomatic of the scheme of things. 
 > 

@@ -28,6 +28,8 @@ shelves:
   - queerly-beloved
   - war-is-hell
   - historical
+date: 2023-12-31T22:38:00
+lastmod: 2023-12-31T22:38:00
 ---
 The reason it takes me a week to read a book that I literally can’t put down is because I read it twice.  
   

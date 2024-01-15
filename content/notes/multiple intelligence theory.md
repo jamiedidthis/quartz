@@ -1,6 +1,9 @@
 ---
 title: Multiple intelligence theory
-tags: 
+tags:
+  - working-theories
+date: 2024-01-15T12:12:00
+lastmod: 2024-01-15T12:12:00
 ---
 Howard Gardner first outlined his theory in his 1983 book *Frames of Mind*, where he suggested that all people have different kinds of intelligence.
 
@@ -18,5 +21,5 @@ Found via [While You Wonder](https://www.whileyouwonder.com/post/do-all-autistic
 
 With these definitions, I score higher in some areas than I’d think, lol. Like math. If it’s more about logic and pattern recognition than multiplying numbers, then yes! So even these types are mutable into subtypes.
 
-(I’d guess I score highest at language and logic, lowest at music and kinesthetic…)
+(By my reckoning, I score highest at language and logic, lowest at music and kinesthetic…)
 

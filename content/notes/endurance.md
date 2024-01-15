@@ -3,6 +3,8 @@ title: The Chinese word for endurance
 tags:
   - lexicon
   - mandarin
+date: 2024-01-13T15:34:00
+lastmod: 2024-01-13T15:34:00
 ---
 In *[[books/what my bones know|What My Bones Know]]*, [[authors/stephanie foo|Stephanie Foo]] says:
 

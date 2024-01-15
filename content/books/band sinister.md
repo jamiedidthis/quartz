@@ -21,4 +21,8 @@ shelves:
   - queerly-beloved
   - wholesome-af
   - regency
+  - canon
+  - canonical-bisexuals
+date: 2023-12-31T14:50:00
+lastmod: 2023-12-31T14:50:00
 ---

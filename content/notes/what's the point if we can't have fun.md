@@ -1,9 +1,10 @@
 ---
-title: "What’s the point if we can’t have fun?"
-tags: 
- - play
- - pleasure
- - biology
+title: What’s the point if we can’t have fun?
+tags:
+  - pleasure-and-play
+  - working-theories
+date: 2024-01-15T15:11:00
+lastmod: 2024-01-15T15:11:00
 ---
 
 In the essay [What’s the point if we can’t have fun?](https://davidgraeber.org/articles/whats-the-point-if-we-cant-have-fun/), [[authors/david graeber|David Graeber]] argues that we’re fools for focusing on rational explanations and economic terms in animal behavior, and for undervaluing play.
@@ -14,7 +15,7 @@ We can’t reduce all living beings to rational, market actors. This tendency ha
 
 Competition over resources, rational calculation of advantage, and the gradual extinction of the weak were taken to be the prime directives of the universe. But why?
 
-An alternative school of Darwinism emerged in Russia emphasizing cooperation, not competition, as the driver of evolutionary change. cf. [[books/mutual aid|Mutual Aid]] by Peter Kropotkin. It’s not just about cooperation as a means to an end though—Kropotkin posits that pleasure and play is an end in itself.
+An alternative school of Darwinism emerged in Russia emphasizing cooperation, not competition, as the driver of evolutionary change. cf. [[books/mutual aid|Mutual Aid]] by Pyotr Kropotkin. It’s not just about cooperation as a means to an end though—Kropotkin posits that pleasure and play is an end in itself.
 
 ## The origins of consciousness and free will 
 

@@ -3,10 +3,12 @@ title: Naft
 tags:
   - lexicon
   - translation
+date: 2023-11-15T12:36:00
+lastmod: 2023-11-15T12:36:00
 ---
 Naft (نفت in Persian) is a naturally occurring petroleum (naphtha), often a flammable mix used in war such as Greek fire—a highly flammable substance of unknown composition first used by the Greeks of Constantinople in the 7th century C.E. to set fire to enemy ships.[^1] 
 
-First encountered—and used as exactly such—in [[The Adventures of Amina al-Sirafi]]:
+First encountered—and used as exactly such—in *[[books/the adventures of amina al-sirafi|The Adventures of Amina al-Sirafi]]*:
 
 > *Naft.*
 > 

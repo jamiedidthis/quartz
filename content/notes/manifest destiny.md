@@ -1,7 +1,9 @@
 ---
-title: "Manifest Destiny"
-tags: 
- - history
+title: Manifest Destiny
+tags:
+  - historical-precedents
+date: 0223-10-15T12:08:00
+lastmod: 2023-10-15T14:09:00
 ---
 
 [Manifest Destiny, an event of Westward Expansion from the Wild West](https://www.historynet.com/manifest-destiny/)
@@ -14,5 +16,4 @@ Outside the United States, the effects of manifest destiny were seen in U.S. int
 
 The term of ‘Manifest Destiny’ first appeared in a newspaper article on the annexation of Texas in edition from July/August of the United States Magazine and Democratic Review in 1845. The author, John L. O’Sullivan used it to describe what majority of Americans at the time believed was ==their mission from God: to expand to west and bring the United States government to unenlightened people==.
 
-See also: [The Religious Origins of Manifest Destiny](https://readwise.io/reader/shared/01gwbag7mpybwtjdb3ffnjhvnd
-)
+See also: [The Religious Origins of Manifest Destiny](https://readwise.io/reader/shared/01gwbag7mpybwtjdb3ffnjhvnd)

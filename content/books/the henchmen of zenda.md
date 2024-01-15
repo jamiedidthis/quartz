@@ -23,6 +23,8 @@ shelves:
   - historical
   - alt-history
   - m-m
+date: 2023-12-31T15:16:00
+lastmod: 2023-12-31T15:16:00
 ---
 When KJ Charles is on, she’s _on_. This book is all the things: fun, ridiculous, hilarious, swashbuckling, hot, FUN. The high pulp style suits her so well because she can pack the book full of joy and all the sneering and sniding she likes to write works because it’s comic and joyful.
 

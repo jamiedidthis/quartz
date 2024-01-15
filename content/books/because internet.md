@@ -11,7 +11,8 @@ series_weight:
 genres:
   - nonfiction
   - language
-shelves:
+shelves: 
+lastmod: 2023-12-31T14:50:00
 ---
 Ooh, this was FUN. It’s a fascinating look at how language evolves, and how rapidly it’s evolving now because internet—and arguably for the better, because internet-speak conveys this whole spectrum of emotional nuance that formal written language cannot.  
 

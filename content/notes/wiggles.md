@@ -2,8 +2,10 @@
 title: You’re a wiggle
 tags:
   - philosophy
+date: 2024-01-15T15:17:00
+lastmod:
 ---
-Alan Watts in Out of Your Mind: 
+[[authors/alan watts|Alan Watts]] in *[[books/out of your mind|Out of Your Mind]]*: 
 
 > See, the physical world is *wiggly*. Clouds, mountains, trees, people—everything is wiggly. It’s only when human beings get working on things that they build buildings in straight lines and try to make the world unwiggly. But here we are—sitting in rooms with all these straight lines—but each one of us is wiggly as all get-out.
 

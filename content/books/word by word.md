@@ -11,7 +11,9 @@ series_weight:
 genres:
   - nonfiction
   - language
-shelves:
+shelves: 
+date: 2023-12-22T15:00:00
+lastmod: 2023-12-22T15:00:00
 ---
 I love words, I love English, and there is no way I could be a lexicographer. I will never read a dictionary the same way again. This was even more interesting than I hoped it would be.
 

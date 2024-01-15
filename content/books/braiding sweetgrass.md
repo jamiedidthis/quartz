@@ -16,7 +16,9 @@ shelves:
   - americana
   - indigenous
   - deep-time
-  - myths-and-folktales
   - spiritual-element
   - natural-history
+  - myths-and-folklore
+date: 2023-12-30T14:51:00
+lastmod: 2023-12-30T14:51:00
 ---

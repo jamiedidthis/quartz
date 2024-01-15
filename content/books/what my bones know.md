@@ -10,10 +10,12 @@ genres:
   - nonfiction
   - memoir
 shelves:
-  - trauma
   - cptsd
   - cover-love
   - therapy
+  - trauma-therapy
+date: 2024-01-02T15:15:00
+lastmod: 2024-01-02T15:15:00
 ---
 
 Incredible memoir. One of the best books I’ve read about healing from abuse, dysfunction, and trauma. So much to relate to on every page (and not just because she had the same [Jimmy Eat World song ](https://www.youtube.com/watch?v=FV-HPOHu8mY) as a lifeline in the early aughts).

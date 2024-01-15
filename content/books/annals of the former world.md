@@ -20,6 +20,8 @@ shelves:
   - deep-time
   - americana
   - wild-west
+date: 2023-12-27T14:49:00
+lastmod: 2023-12-28T11:33:00
 ---
 
 I’m glad I’m not beyond the age where books I read can change the way I see the world. If that is an age you can reach, I don’t want to. I can’t even drive down the highway now without seeing something as simple as roadcuts in a whole different light.  

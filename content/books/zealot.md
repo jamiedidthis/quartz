@@ -1,19 +1,25 @@
 ---
-title: "Zealot"
-subtitle: "The Life and Times of Jesus of Nazareth"
-authors: 
- - Reza Aslan
+title: Zealot
+subtitle: The Life and Times of Jesus of Nazareth
+authors:
+  - Reza Aslan
 publishers:
- - Random House
-publish: 2013
-tags: 
- - nonfic
- - christianity
- - history
+  - Random House
+publishDate: 2013-07-16
+series: 
+series_weight: 
+genres:
+  - nonfiction
+  - religion
+shelves:
+  - palestine
+  - jesus-etc
+  - jewish
+date: 2023-12-21T15:00:00
+lastmod: 2023-12-21T15:00:00
 ---
+Great at painting a picture of 1st century Palestine. So many inaccuracies though! [[books/jesus apocalyptic prophet of the new millennium|Ehrman’s was better]].
 
-This book is good at: painting a more vivid picture of first century Palestine. 
+## Pull quotes
 
-Also: introducing the conflict between Paul and the actual apostles (even if it does overreach a bit).
-
-But ultimately way too many marks from my red pen where the info was wrong, and I’m not even a scholar, so I’m sure there are plenty more I missed. [[authors/bart ehrman|Bart Ehrman’s]] [[books/jesus apocalyptic prophet of the new millennium|Jesus: Apocalyptic Prophet of the New Millennium]] has the much better scholarship.
+> Nowhere is any such thing written: not in the Law of Moses, not in the prophets, not in the Psalms. In the entire history of Jewish thought there is not a single line of scripture that says the messiah is to suffer, die, and rise again on the third day, which may explain why Jesus does not bother to cite any scripture to back up his incredible claim. p. 177

@@ -1,5 +1,6 @@
 ---
-title: "{{title}}"
+title: <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1) %>
 tags: 
- - tag1
+date: <% tp.date.now("yyyy-MM-DD HH:mm") %>
+lastmod: <% tp.date.now("yyyy-MM-DD HH:mm") %>
 ---

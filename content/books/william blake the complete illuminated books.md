@@ -15,6 +15,9 @@ genres:
 shelves:
   - fanfic-positive
   - spiritual-element
+  - activism-and-resistence
+date: 2023-12-29T15:15:00
+lastmod: 2023-12-30T11:38:00
 ---
 
 Reading Blake, I always get the sense he’s working in a fever, trying to translate an ecstatic vision for us mortals. I saw someone call him the original troll—that too, the radical printmaker in the time when printmaking was a real threat to the established order. Blake harnessed its power, provoking the church and state with his unorthodox satire.  

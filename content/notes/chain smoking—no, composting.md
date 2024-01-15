@@ -1,7 +1,9 @@
 ---
-title: "Chain smoking—no, composting"
-tags: 
- - creative process
+title: Chain smoking—no, composting
+tags:
+  - creative-process
+date: 2023-08-07T14:15:00
+lastmod: 2023-08-07T14:15:00
 ---
 
 Austin Kleon has written for years about the creative process of [chain smoking](https://austinkleon.com/tag/chain-smoking/). It’s never resonated with me; I can’t be that person of *work every day* even while a project is in progress. It ebbs and flows like the tide, days of rampant blooming interspersed with the fallow days of rootwork, day dreaming, glorious nothingness. 

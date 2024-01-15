@@ -11,7 +11,9 @@ series_weight:
 genres:
   - nonfiction
   - psychology
-shelves:
+shelves: 
+date: 2023-12-31T14:50:00
+lastmod: 2023-12-31T14:50:00
 ---
 **Places we go when things are uncertain or too much**—stress, overwhelm, anxiety, worry, avoidance, excitement, dread, fear, vulnerability
 

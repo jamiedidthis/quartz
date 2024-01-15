@@ -1,17 +1,25 @@
 ---
-title: "The Dawn of Everything"
-subtitle: "A New History of Humanity"
-authors: 
- - David Graeber
- - David Wengrow
+title: The Dawn of Everything
+subtitle: A New History of Humanity
+authors:
+  - David Graeber
+  - David Wengrow
 publishers:
- - Farrar, Straus and Giroux
-publish: 2021
-tags:
- - nonfic
- - history
+  - Farrar, Straus and Giroux
+publishDate: 2021-11-09
+series: 
+series_weight: 
+genres:
+  - nonfiction
+  - history
+  - sociology
+shelves:
+  - indigenous
+  - natural-history
+  - pleasure-and-play
+date: 2024-01-04 21:46
+lastmod: 2024-01-04 21:46
 ---
-
 One would do well to read up on Graeber’s [[notes/what's the point if we can't have fun|theory of playfulness]]. I’d add C. Thi Nguyen’s [[notes/playfulness vs epistemic traps|playfulness vs epistemic traps]] too. 
 
 A concept I am utterly on board with: that the assumptions we make about archeological finds or the historical record says vastly more about our own mindset (unexamined prejudices) than the period in question. 
@@ -30,7 +38,7 @@ We need to approach the evidence of the human past with fresh eyes. Read nonfict
 
 * This different view of the past is basically [[Science fictional behavior]]
 * The myth of the agricultural revolution 
-* Seasonal variations of social structure  (reminds me of seasonal gender in [[The Left Hand of Darkness]]
+* Seasonal variations of social structure  (reminds me of seasonal gender in [[books/the left hand of darkness]]
 * Also seasonal flooding with flood retreat farming (cf. [[notes/seasonal time|seasonal time]], [[notes/taoism|Taoism]])
 * schismogenesis
 * Many rebuttals to Yuval Harari (debunking Harari, Jared Diamond, as well as Rousseau)

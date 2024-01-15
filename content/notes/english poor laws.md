@@ -1,9 +1,10 @@
 ---
-title: "English Poor Laws"
-tags: 
- - history
+title: English Poor Laws
+tags:
+  - historical-precedents
+date: 2023-06-13T15:35:00
+lastmod: 2023-06-13T15:35:00
 ---
-
 [English Poor Laws: Historical Precedents of Tax-Supported Relief for the Poor](https://socialwelfare.library.vcu.edu/programs/poor-laws/):
 
 > In 1601, England was experiencing a severe economic depression, with large scale unemployment and widespread famine. Queen Elizabeth proclaimed a set of laws designed to maintain order and contribute to the general good of the kingdom: **the English Poor Laws**.  These laws remained in force for more than 250 years with only minor changes. Essentially, the laws distinguished ==three major categories of dependents: the vagrant, the involuntary unemployed, and the helpless==. The laws also set forth ways and means for dealing with each category of dependents. Most important, the laws established the parish (i.e.,local government), acting through an overseer of the poor appointed by local officials, as the administrative unit for executing the law.
@@ -14,4 +15,4 @@ tags:
 >
 >==The American colonies and state governments== modeled their public assistance for the poor on the **Elizabethan Poor Laws and the Law of Settlement and Removal**.
 
-Note the sorting into categories, the “worthy poor,” the children with no right to object, the laws of increasing severity in order to close the loopholes. Also the [[notes/theology of capitalism|foundational beliefs]] of the [[notes/myth of scarcity]] and [[notes/who is more deserving]]. 
+Note the sorting into categories, the “worthy poor,” the children with no right to object, the laws of increasing severity in order to close the loopholes. Also the [[notes/theology of capitalism|foundational beliefs]] of the [[notes/myth of scarcity|myth of scarcity]] and [[notes/who is more deserving|who is more deserving]]. 

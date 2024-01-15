@@ -27,6 +27,8 @@ shelves:
   - queerly-beloved
   - war-is-hell
   - historical
+date: 2023-12-30T16:28:00
+lastmod: 2023-12-31T11:35:00
 ---
 My favorite KJ Charles yet.
 

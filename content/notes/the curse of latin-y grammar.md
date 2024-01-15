@@ -1,7 +1,9 @@
 ---
-title: "The curse of Latin-y grammar"
-tags: 
- - language
+title: The curse of Latin-y grammar
+tags:
+  - language
+date: 2024-01-15T15:01:00
+lastmod: 2024-01-15T15:01:00
 ---
 
 The Latin-worshipping tradition is responsible for the grammar elitism of infinitive splitting, proposition ending, and the singular “they.”

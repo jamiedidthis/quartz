@@ -1,8 +1,10 @@
 ---
-title: "The Untamed episode notes 《陈情令》"
+title: The Untamed episode notes 《陈情令》
 tags:
- - cql
- - fandom
+  - mdzs
+  - fandom
+date: 2024-01-15T15:09:00
+lastmod: 2024-01-15T15:09:00
 ---
 
 My raw notes for *The Untamed*, started when I was trying to make sense of the plot but now an indispensable resource for fic. Lots of shorthand and emoji feels so probably useless to anybody but me 🤷🏻‍♀️

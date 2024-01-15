@@ -176,6 +176,9 @@ p > img + em {
 .gray { 
   color: var(--gray);
   opacity: 0.6;
+  a:hover { 
+    color: var(--secondary) !important;
+  }
 }
 
 .indextitle { 
@@ -345,6 +348,13 @@ article {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+  margin: 2em 0;
+}
+
+.columns-two { 
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   margin: 2em 0;
 }
 

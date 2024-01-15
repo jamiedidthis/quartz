@@ -23,6 +23,9 @@ shelves:
   - london
   - m-m
   - regency
+  - activism-and-resistence
+date: 2023-12-22T14:49:00
+lastmod: 2023-12-26T11:33:00
 ---
 This was my first KJ Charles, purchased and read—I just looked it up—March 2017. I then read the whole series (out of order, of course), re-read this one in 2018, again in 2019, and somehow reviewed nary a one before 2020.  
   

@@ -22,5 +22,7 @@ shelves:
   - short-fiction
   - historical
   - sex-games
+date: 2023-12-30T22:35:00
+lastmod: 2023-12-30T22:35:00
 ---
 Why yes, I’m re-reading the whole series in order, even the miscellany. Probably my least favorite of the lot, but only due to how much I like the others. I still endorse it completely, because if you’re gonna play cards, play them for keeps.

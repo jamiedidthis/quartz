@@ -21,8 +21,10 @@ shelves:
   - london
   - historical
   - m-f
-  - trans
   - short-fiction
   - ace-spectrum
+  - transgender
+date: 2023-12-31T15:15:00
+lastmod: 2023-12-31T15:15:00
 ---
 Very sweet and dare I say necessary before *[[books/gilded cage|Gilded Cage]]*. It has some pretty key context. And come on—that title.

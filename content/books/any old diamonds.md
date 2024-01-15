@@ -24,6 +24,8 @@ shelves:
   - pulp-fiction
   - too-many-dukes
   - victorian
+date: 2024-01-02T14:49:00
+lastmod: 2024-01-02T14:49:00
 ---
 [As KJC says](https://www.goodreads.com/review/show/2602050279): In which we stick it to a duke. 
 

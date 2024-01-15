@@ -22,6 +22,9 @@ shelves:
   - london
   - m-m
   - georgian
+  - activism-and-resistence
+date: 2023-12-31T15:14:00
+lastmod: 2023-12-31T15:14:00
 ---
 She had me at “gothic novelist” and “lonely hearts columnist.” This is wonderful. I love it when Charles just unleashes her id.
 

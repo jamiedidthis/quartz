@@ -1,9 +1,11 @@
 ---
 title: Emotional identification
 tags:
-  - emotions
   - therapy
   - autism
+  - emotional-intelligence
+date: 2024-01-13T15:34:00
+lastmod: 2024-01-13T15:34:00
 ---
 Broadly speaking, we experience three different kinds of emotions in our brains: reactive, routine, and reflective emotions.
 

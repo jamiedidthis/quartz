@@ -11,8 +11,8 @@ series:
 series_weight: 2
 genres:
   - fiction
-  - ya
   - fantasy
+  - young-adult
 shelves:
   - queerly-beloved
   - canonical-bisexuals
@@ -21,8 +21,10 @@ shelves:
   - eat-the-rich
   - criminal-element
   - life-and-death
-  - trauma
   - angels-and-demons
+  - trauma-therapy
+date: 2024-01-01T14:50:00
+lastmod: 2024-01-01T14:50:00
 ---
 Is this even better than *[[books/pet|Pet]]*? Holy crap, I think so. The struggle. The hope. The _tenderness_. It knocked me sideways. I love it.  
   

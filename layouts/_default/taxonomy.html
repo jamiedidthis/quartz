@@ -15,8 +15,8 @@
         <div class="tags columns">
             {{ range .Site.Taxonomies.tags.ByCount }}
             <div class="meta">
-                <h1><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h1>
-                <p><b>{{ .Count }}</b> {{ i18n "notes_count" }} {{if gt .Count 10}}({{ i18n "first_10"}}){{end}}</p>
+                <h2><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+                <p><b>{{ .Count }}</b> {{ i18n "notes_count" }}</p>
             </div>
             {{ end }}
         </div>

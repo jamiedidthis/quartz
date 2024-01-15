@@ -2,7 +2,9 @@
 title: The trust checklist
 tags:
   - therapy
-  - emotions
+  - emotional-intelligence
+date: 2024-01-15T15:02:00
+lastmod: 2024-01-15T15:02:00
 ---
 Trust is more of a cognitive assessment than an emotion. Distrust is when you feel “what is important to me is not safe with this person.” That lack of safety makes authenticity and vulnerability difficult for fear of betrayal (rightly so!).
 

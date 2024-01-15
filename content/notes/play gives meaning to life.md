@@ -1,7 +1,9 @@
 ---
-title: "Play gives meaning to life"
-tags: 
- - play
+title: Play gives meaning to life
+tags:
+  - pleasure-and-play
+date: 2024-01-15T14:51:00
+lastmod: 2024-01-15T14:52:00
 ---
 
 Play gives meaning to life, wrote the Dutch historian Johan Huizinga back in 1938. He christened us [[books/homo ludens|homo ludens]]—‘playing man.’ Everything we call ‘culture,’ said Huizinga, originates in play.[^1]

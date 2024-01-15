@@ -11,7 +11,7 @@
         <h1>{{ i18n "all_posts" . }}</h1>
             <p>Sort by <a href="{{ $.Site.BaseURL}}shelves/">shelves</a> or <a href="{{ $.Site.BaseURL}}notes/">genres</a>!</p>
 
-        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod }}
+        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod.Reverse }}
         {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}

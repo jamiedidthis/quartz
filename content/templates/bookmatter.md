@@ -10,7 +10,9 @@ series:
 series_weight: 
 genres:
   - "{{category}}"
-shelves:
+shelves: 
+date: <% tp.date.now("yyyy-MM-DD HH:mm") %>
+lastmod: <% tp.date.now("yyyy-MM-DD HH:mm") %>
 ---
 
 [[{{author}}]]

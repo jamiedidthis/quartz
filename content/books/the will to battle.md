@@ -1,15 +1,42 @@
 ---
-title: "The Will to Battle"
-authors: 
- - Ada Palmer
+title: The Will to Battle
+subtitle: ""
+authors:
+  - Ada Palmer
 publishers:
- - Tor
-publish: 2017
+  - Tor Books
+publishDate: 2017-12-19
 series:
- - Terra Ignota
+  - Terra Ignota
 series_weight: 3
-tags: 
- - sff
+genres:
+  - fiction
+  - sci-fi
+shelves:
+  - genre-bender
+  - dystopia-utopia
+  - gods-and-monsters
+  - criminal-element
+  - space-walk
+  - spiritual-element
+  - gender-bender
+  - life-and-death
+  - war-is-hell
+  - canonical-bisexuals
+  - canon
+  - arctic
+  - greece
+  - chile
+  - indonesia
+  - france
+  - italy
+  - spain
+  - china
+  - egypt
+  - japan
+  - mars
+  - hopepunk
+  - activism-and-resistence
+date: 2024-01-02 23:01
+lastmod: 2024-01-02 23:01
 ---
-
-

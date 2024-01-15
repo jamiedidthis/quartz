@@ -1,6 +1,9 @@
 ---
 title: Institutional betrayal
 tags:
+  - systems-thinking
+date: 2024-01-13T15:40:00
+lastmod: 2024-01-13T15:40:00
 ---
 Institutional betrayal is when an institution causes harm (by action *or* inaction) to anyone who trusts or depends on them. Red flags include strict membership requirements (the military, elite sports), prestige or power differentials (caregivers v. patients, clergy v. parishioners), and rigid priorities, like extreme efforts to protect the reputation of the organization.
 
@@ -15,4 +18,4 @@ When a corporation, church, government, organization, program, school, or family
 
 Huh. That description fits a lot of religious trauma, eh?
 
-As [[brene brown|Brené Brown]] says ([[books/atlas of the heart|Atlas of the Heart]]), the only way back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.
+As [[brene brown|Brené Brown]] says (*[[books/atlas of the heart|Atlas of the Heart]]*), the only way back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.

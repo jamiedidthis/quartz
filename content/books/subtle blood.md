@@ -29,6 +29,8 @@ shelves:
   - war-is-hell
   - eat-the-rich
   - historical
+date: 2023-12-31T22:38:00
+lastmod: 2023-12-31T22:38:00
 ---
 I might have accidentally read Subtle Blood again, since I might have accidentally experienced a vivid dream of Will, Kim, Phoebe, and Maisie on a Parisian adventure (cameo by Teddy Molyneaux, of course), and upon waking, might have accidentally been distraught that that book wasn’t going to exist. 
 

@@ -15,4 +15,6 @@ genres:
 shelves:
   - fanfic-positive
   - spiritual-element
+date: 2023-12-30T16:28:00
+lastmod: 2023-12-30T16:28:00
 ---

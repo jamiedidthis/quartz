@@ -13,4 +13,6 @@ shelves:
   - jesus-etc
   - cover-love
   - losing-my-religion
+date: 2023-12-29T14:48:00
+lastmod: 2024-12-30T11:32:00
 ---

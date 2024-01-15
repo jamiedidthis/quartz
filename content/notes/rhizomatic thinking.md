@@ -1,7 +1,9 @@
 ---
-title: "Rhizomatic thinking"
-tags: 
- - philosophy
+title: Rhizomatic thinking
+tags:
+  - working-theories
+date: 2024-01-15T14:55:00
+lastmod: 2024-01-15T14:55:00
 ---
 
 Rhizome, from the ancient Greek: a mass of roots. In botany, it describes a plant system that extends roots and shoots from its nodes in every direction.

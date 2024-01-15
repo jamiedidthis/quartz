@@ -1,10 +1,12 @@
 ---
-title: "The capitalist notion of well-being"
-tags: 
- - belief systems
+title: The capitalist notion of well-being
+tags:
+  - belief-systems
+date: 2023-06-15T15:00:00
+lastmod: 2023-06-15T15:00:00
 ---
 
-bell hooks in *All About Love*:
+[[authors/bell hooks|bell hooks]] in *[[books/all about love|All About Love]]*:
 
 > I am talking here about the many prophets of doom who tell us that racism will never end, sexism is here to stay, the rich will never share their resources. We would all be surprised if we could enter their lives for a day. Much of what they are telling us cannot be had, they have. But in keeping with a capitalist-based notion of well-being, they really believe there is not enough to go around, that the good life can be had only by a few.
 
