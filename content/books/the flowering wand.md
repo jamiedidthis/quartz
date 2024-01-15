@@ -19,6 +19,6 @@ shelves:
   - gender-studies
   - jesus-etc
   - myths-and-folklore
-date: 2024-01-08 13:37
-lastmod: 2024-01-08 13:37
+date: 2023-06-08T13:37:00
+lastmod: 2023-06-08T13:37:00
 ---

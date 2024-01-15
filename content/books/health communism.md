@@ -18,6 +18,6 @@ shelves:
   - mental-health
   - social-justice
   - political-science
-date: 2024-01-15 15:12
-lastmod: 2024-01-15 15:12
+date: 2023-11-15T15:12:00
+lastmod: 2023-11-15T15:12:00
 ---

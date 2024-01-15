@@ -8,7 +8,7 @@ ignoreFiles = [
 ]
 summaryLength = 20
 paginate = 24
-enableGitInfo = true
+enableGitInfo = false
 buildFuture = true
 
 [markup]
@@ -28,7 +28,7 @@ buildFuture = true
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        lastmod = ["lastmod", "date" ]
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
