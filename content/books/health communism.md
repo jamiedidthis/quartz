@@ -14,10 +14,10 @@ genres:
   - sociology
 shelves:
   - activism-and-resistence
-  - disability-debility
   - mental-health
   - social-justice
   - political-science
+  - disability
 date: 2023-11-15T15:12:00
 lastmod: 2023-11-15T15:12:00
 ---

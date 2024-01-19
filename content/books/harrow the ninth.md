@@ -25,7 +25,7 @@ shelves:
   - paranormal-activity
   - necromancing-the-bones
 date: 2024-01-15 11:34
-lastmod: 2024-01-15 11:34
+lastmod: 2024-01-19T11:34:00
 ---
 Amount of times this book made me cry: \[redacted]. It is a sum equal to or only slightly less than the amount of times it made me cackle, gasp, and yelp.
 
