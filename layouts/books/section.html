@@ -14,7 +14,7 @@
 
 
             {{ $pages := where .Site.RegularPages "Section" "books" }}
-            {{ $sorted := ($pages.ByLastmod) }}
+            {{ $sorted := ($pages.ByLastmod.Reverse) }}
             {{ $paginator := .Paginate $sorted }}
 
         {{partial "page-list-published.html" $paginator.Pages }}

@@ -23,7 +23,7 @@ shelves:
   - regency
   - activism-and-resistence
 date: 2023-12-21T14:48:00
-lastmod: 2024-12-22T11:32:00
+lastmod: 2023-12-22T11:32:00
 ---
 It’s the favorite recurring KJ Charles theme: sometimes you just need a villain instead of a hero. See *[[books/wanted a gentleman|Wanted, A Gentleman]]* or *[[books/the henchmen of zenda|Henchmen of Zenda]]*, et. al. My love language is elaborate schemes by crafty bastards, so you can guess how happy I was by the end. I wound up on Richard’s side too; that’s how well he was drawn, flaws and all, when normally my heart would belong solely to the aforementioned crafty bastard. (Also, Richard is 100% Matthew McFadyen circa _Howard’s End_, don’t @ me.)
 

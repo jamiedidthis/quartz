@@ -7,6 +7,6 @@
   https://gohugo.io/content-management/related/
   -->
   {{$books := where $.Site.RegularPages.ByLastmod "Section" "books"}}
-  {{partial "page-list-published.html" (first 4 $books)}}
+  {{partial "page-list-published.html" (last 4 $books)}}
 </div>
 
