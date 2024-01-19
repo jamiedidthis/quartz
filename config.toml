@@ -10,6 +10,7 @@ summaryLength = 20
 paginate = 24
 enableGitInfo = true
 buildFuture = true
+removePathAccents = true
 
 [markup]
     [markup.tableOfContents]

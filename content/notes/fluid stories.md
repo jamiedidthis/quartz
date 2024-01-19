@@ -3,7 +3,7 @@ title: Healthy stories are fluid, not fixed
 tags:
   - storytelling
 date: 2023-06-08T14:01:00
-lastmod: 2024-06-08T14:01:00
+lastmod: 2023-06-08T14:01:00
 ---
 
 We often forget that our storytelling is rooted in millennia of oral tradition. Collaborative, mutable, fluid, living narratives that changed to suit different ecosystems and social scenarios. 

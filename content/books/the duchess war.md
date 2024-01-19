@@ -20,8 +20,8 @@ shelves:
   - victorian
   - london
   - abolition
-date: 2024-01-04 22:23
-lastmod: 2024-01-04 22:23
+date: 2023-06-04T22:23:00
+lastmod: 2023-06-04T22:23:00
 ---
 Finally I didn’t bounce off a Courtney Milan! Granted, the [Norfolk Southern disaster](https://perfectunion.us/ohio-railroad-disaster-explained/) had me in the mood to read about labor organizing, and that part worked for me better than the romance. 
 

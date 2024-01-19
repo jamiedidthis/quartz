@@ -6,7 +6,7 @@
     <footer>
         {{ $name := $data.name | default $.Site.Data.config.name }}
         {{ $year := dateFormat "2006" now }}
-        <p class="gray">{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} <a href="https://jamieharris.co">jamie harris</a></p>
+        <p class="gray">{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} <a href="https://jamieharris.co">jlh</a></p>
         <ul>
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" | lower }}</a></li>

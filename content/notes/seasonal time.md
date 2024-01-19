@@ -2,6 +2,6 @@
 title: Seasonal time
 tags:
   - time
-date: 2024-01-08 14:18
-lastmod: 2024-01-08 14:18
+date: 2023-10-19T14:18:00
+lastmod: 2023-10-19T14:18:00
 ---

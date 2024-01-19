@@ -16,7 +16,7 @@ It turns out, that model is incorrect even for trees—forests are superorganism
 
 Indigenous and eastern philosophies have a much better grasp of this interrelationality. An arborescent worldview means we think in hierarchies, binaries, and dualist categories. In rhizomatic thinking, there’s no clear start or end, just the ever-proliferating jungle with a life of its own.
 
-[^1]: Peter Wohlleben, [[books/the hidden life of trees|The Hidden Life of Trees]]
-[^2]: Merlin Sheldrake, [[books/entangled life|Entangled Life]]
+[^1]: [[authors/peter wohlleben|Peter Wohlleben]], *[[books/the hidden life of trees|The Hidden Life of Trees]]*
+[^2]: [[authors/merlin sheldrake|Merlin Sheldrake]], *[[books/entangled life|Entangled Life]]*
 
 

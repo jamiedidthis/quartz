@@ -9,15 +9,15 @@
     {{partial "header.html" .}}
     <article>
         <h1>{{ i18n "all_posts" . }}</h1>
-            <p>Books are sorted by <a href="{{ $.Site.BaseURL}}genres/">genres</a> or <a href="{{ $.Site.BaseURL}}shelves/">shelves</a>, so peruse at your leisure.</p>
+        {{with .Params.description}}
+            <p>{{.}}</p>
+        {{end}}
 
-
-
-            {{ $pages := where .Site.RegularPages "Section" "books" }}
+        {{ $pages := where .Site.RegularPages "Section" "notes" }}
             {{ $sorted := ($pages.ByLastmod.Reverse) }}
             {{ $paginator := .Paginate $sorted }}
 
-        {{partial "page-list-published.html" $paginator.Pages }}
+        {{partial "page-list.html" $paginator.Pages }}
         {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}

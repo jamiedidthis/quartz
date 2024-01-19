@@ -14,4 +14,4 @@ Coined by [[authors/kurt vonnegut|Kurt Vonnegut]] in 1963, as a Bokononist term 
 - _wampeter_ – the central theme or purpose of a _karass_. Each karass has two wampeters at any given time, one waxing and one waning.
 - _foma_ – harmless untruths
 - _kan-kan_ – An object or item that brings a person into their karass. The narrator states in the book that his _kan-kan_ was the book he wrote about the Hiroshima bombing.
-- _sinookas_ – The intertwining “tendrils” of peoples’ lives.
+- _sinookas_ – The [[notes/rhizomatic thinking|intertwining “tendrils”]] of peoples’ lives.
