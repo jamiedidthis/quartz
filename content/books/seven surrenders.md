@@ -37,7 +37,7 @@ shelves:
   - hopepunk
   - activism-and-resistence
 date: 2024-01-02 22:59
-lastmod: 2024-01-19T22:59:00
+lastmod: 2024-01-26T13:59:00
 ---
 There’s no way I can talk comprehensively about this series, so for now I’m just going to keep a running list of different things I notice each time I read them. This time (2/2023), it was how the many names for JEDD Mason echoes the [[notes/apophatic naming|apophatic naming]] of God, a classical theological strategy of the “negative” naming, an effort to call God by every time, thereby acknowledging and preserving God’s transcendence of all of them.
 
