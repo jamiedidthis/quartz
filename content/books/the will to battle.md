@@ -41,3 +41,4 @@ shelves:
 date: 2024-01-02 23:01
 lastmod: 2024-01-02 23:01
 ---
+Reader, I cried like Mycroft Canner. It’s very much the first half of a whole (third quarter of four?), and it needs [[books/perhaps the stars|the last book]] to be complete, but what a feat it is on its own.

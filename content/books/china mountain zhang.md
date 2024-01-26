@@ -28,7 +28,6 @@ shelves:
   - life-and-death
   - war-is-hell
   - space-walk
-  - canon
 date: 2024-01-12 15:03
 lastmod: 2024-01-12 15:03
 ---

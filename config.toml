@@ -30,7 +30,7 @@ removePathAccents = true
         style = "dracula"
     [frontmatter]
         date = ["date", "lastmod"]
-        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        lastmod = ["lastmod", "date", ":git", "publishDate"]
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true

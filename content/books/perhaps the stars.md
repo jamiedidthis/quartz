@@ -40,3 +40,4 @@ shelves:
 date: 2024-01-02 23:01
 lastmod: 2024-01-02 23:01
 ---
+I still haven’t found the words to talk about this one. Maybe next year I will. It should be in the Smithsonian, or win the Nobel prize, or _something,_ as one of humanity’s greatest achievements.
