@@ -19,11 +19,11 @@ shelves:
   - wholesome-af
   - england
   - london
-  - historical
   - m-f
-  - short-fiction
   - ace-spectrum
   - transgender
+  - novella
+  - historical-romance
 date: 2023-12-31T15:15:00
 lastmod: 2023-12-31T15:15:00
 ---

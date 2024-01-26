@@ -28,7 +28,7 @@ shelves:
   - queerly-beloved
   - war-is-hell
   - eat-the-rich
-  - historical
+  - historical-romance
 date: 2023-12-31T22:38:00
 lastmod: 2023-12-31T22:38:00
 ---

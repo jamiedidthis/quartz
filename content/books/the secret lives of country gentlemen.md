@@ -21,9 +21,9 @@ shelves:
   - queerly-beloved
   - m-m
   - war-is-hell
-  - historical
   - regency
   - cover-love
+  - historical-romance
 lastmod: 2023-12-31T22:36:00
 date: 2023-12-31T22:36:00
 ---

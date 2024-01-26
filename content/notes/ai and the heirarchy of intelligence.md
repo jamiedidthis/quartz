@@ -1,6 +1,7 @@
 ---
 title: AI and the heirarchy of intelligence
-tags: 
+tags:
+  - categorical-bias
 date: 2023-03-24T13:34:00
 lastmod: 2023-03-24T13:34:00
 ---
@@ -14,4 +15,4 @@ She notes too how the current conversation re: AI loops back around to [[notes/w
 
 Emphasis mine. And of course both ideas capitalize (word intended) on fear too: fear of the “other,” fear of losing our precarious place in the hierarchy, fear of failing to meet our standards of production, fear of “wasting time.”
 
-Thankfully she notes we always have the power to [[notes/fluid stories|tell different stories]].
+Thankfully she notes we always have the power to [[notes/healthy stories are fluid not fixed|tell different stories]].

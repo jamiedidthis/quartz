@@ -20,9 +20,9 @@ shelves:
   - queerly-beloved
   - ruritania
   - pulp-fiction
-  - historical
   - alt-history
   - m-m
+  - historical-romance
 date: 2023-12-31T15:16:00
 lastmod: 2023-12-31T15:16:00
 ---

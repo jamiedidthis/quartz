@@ -24,7 +24,7 @@ This is the very same concept was perpetuated via [[notes/manifest destiny|Manif
 
 > Puritan religious piety could not teach the equilibrium and equanimity needed to heal from horror, to relinquish fear, to forgive their enemies or themselves, and to repair harm. They lacked the spiritual disciplines that taught them to observe the world carefully, to trust the senses, and to wonder at the beauty of the land.[^2]
 
-Thus the groundwork was laid, and all around us we see a blind, unquestioned belief in those principles. “Just because a myth is old doesn’t mean it’s healthy.”[^3] [[notes/fluid stories|What can our new myths be?]]
+Thus the groundwork was laid, and all around us we see a blind, unquestioned belief in those principles. “Just because a myth is old doesn’t mean it’s healthy.”[^3] [[notes/healthy stories are fluid not fixed|What can our new myths be?]]
 
 [^1]: Rebecca Ann Parker and Rita Nakashima Brock, *Saving Paradise*
 [^2]: *ibid*

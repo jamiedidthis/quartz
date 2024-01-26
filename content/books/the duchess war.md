@@ -12,7 +12,6 @@ genres:
   - fiction
   - romance
 shelves:
-  - historical
   - too-many-dukes
   - england
   - activism-and-resistence
@@ -20,6 +19,7 @@ shelves:
   - victorian
   - london
   - abolition
+  - historical-romance
 date: 2023-06-04T22:23:00
 lastmod: 2023-06-04T22:23:00
 ---

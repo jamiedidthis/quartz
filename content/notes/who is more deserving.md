@@ -22,4 +22,4 @@ bell hooks calls it “[[notes/the capitalist notion of well-being|the capitalis
 
 (Note: big overlap with religion too! Hence the [[notes/theology of capitalism|theology of capitalism]].)
 
-What can we do? Stop believing [[notes/myth of scarcity|the myth of scarcity]]. Reject this limited, binary framing. Recognize our solidarity. Refuse to be pitted against each other. [[notes/fluid stories|Tell different stories]]. 
+What can we do? Stop believing [[notes/myth of scarcity|the myth of scarcity]]. Reject this limited, binary framing. Recognize our solidarity. Refuse to be pitted against each other. [[notes/healthy stories are fluid not fixed|Tell different stories]]. 

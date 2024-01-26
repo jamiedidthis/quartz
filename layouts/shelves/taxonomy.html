@@ -13,7 +13,7 @@
             <p>{{.}}</p>
         {{end}}
         <div class="tags columns">
-            {{ range .Site.Taxonomies.shelves.ByCount }}
+            {{ range .Site.Taxonomies.shelves.Alphabetical }}
             <div class="meta">
                 <h2><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
                 <p><b>{{ .Count }}</b> books on this shelf</p>

@@ -36,6 +36,7 @@ shelves:
   - mars
   - hopepunk
   - activism-and-resistence
+  - first-contact
 date: 2024-01-02 23:01
 lastmod: 2024-01-02 23:01
 ---

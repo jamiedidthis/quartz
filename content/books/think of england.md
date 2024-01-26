@@ -23,9 +23,9 @@ shelves:
   - m-m
   - crafty-bastards
   - criminal-element
-  - historical
   - kinky-books
   - pulp-fiction
+  - historical-romance
 date: 2024-01-02T16:30:00
 lastmod: 2024-01-02T16:30:00
 ---

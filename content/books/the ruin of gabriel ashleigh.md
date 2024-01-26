@@ -19,9 +19,9 @@ shelves:
   - london
   - queerly-beloved
   - england
-  - short-fiction
-  - historical
   - sex-games
+  - novella
+  - historical-romance
 date: 2023-12-30T22:35:00
 lastmod: 2023-12-30T22:35:00
 ---

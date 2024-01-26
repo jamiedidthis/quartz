@@ -17,13 +17,13 @@ shelves:
   - canonical-bisexuals
   - crafty-bastards
   - england
-  - historical
   - queerly-beloved
   - pulp-fiction
   - london
   - femdom
   - eat-the-rich
   - victorian
+  - historical-romance
 date: 2023-12-31T14:52:00
 lastmod: 2023-12-31T14:52:00
 ---

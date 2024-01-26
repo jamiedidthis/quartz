@@ -23,8 +23,8 @@ shelves:
   - war-is-hell
   - sex-games
   - kinky-books
-  - historical
   - regency
+  - historical-romance
 date: 2023-12-31T14:48:00
 lastmod: 2024-01-01T11:33:00
 ---

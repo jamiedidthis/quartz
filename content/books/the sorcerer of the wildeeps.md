@@ -23,8 +23,9 @@ shelves:
   - alien-contact
   - life-and-death
   - war-is-hell
-  - short-fiction
   - myths-and-folklore
+  - necromancing-the-bones
+  - novella
 date: 2024-01-08 14:10
 lastmod: 2024-01-08 14:10
 ---

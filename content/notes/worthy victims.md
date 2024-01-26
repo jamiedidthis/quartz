@@ -1,6 +1,7 @@
 ---
 title: Worthy victims
-tags: 
+tags:
+  - categorical-bias
 date: 2024-01-15T15:17:00
 lastmod: 2024-01-15T15:18:00
 ---

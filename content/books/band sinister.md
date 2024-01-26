@@ -17,12 +17,12 @@ shelves:
   - chekovs-virgin
   - england
   - fanfic-positive
-  - historical
   - queerly-beloved
   - wholesome-af
   - regency
   - canon
   - canonical-bisexuals
+  - historical-romance
 date: 2023-12-31T14:50:00
 lastmod: 2023-12-31T14:50:00
 ---

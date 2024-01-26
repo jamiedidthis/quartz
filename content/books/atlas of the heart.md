@@ -25,7 +25,7 @@ lastmod: 2023-12-31T14:50:00
 
 **Places we go when things aren’t what they seem**—amusement, bittersweetness, nostalgia, cognitive dissonance, paradox, irony, sarcasm
 
-**Places we go when we’re hurting**—anguish, hopelessness, [[despair]], sadness, grief
+**Places we go when we’re hurting**—anguish, hopelessness, [[notes/despair is a state of repair]], sadness, grief
 
 **Places we go with others**—compassion, pity, empathy, sympathy, boundaries, comparative suffering
 

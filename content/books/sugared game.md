@@ -27,7 +27,7 @@ shelves:
   - pulp-fiction
   - queerly-beloved
   - war-is-hell
-  - historical
+  - historical-romance
 date: 2023-12-31T22:38:00
 lastmod: 2023-12-31T22:38:00
 ---

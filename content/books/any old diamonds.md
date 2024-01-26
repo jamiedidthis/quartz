@@ -18,12 +18,12 @@ shelves:
   - criminal-element
   - eat-the-rich
   - england
-  - historical
   - kinky-books
   - queerly-beloved
   - pulp-fiction
   - too-many-dukes
   - victorian
+  - historical-romance
 date: 2024-01-02T14:49:00
 lastmod: 2024-01-02T14:49:00
 ---

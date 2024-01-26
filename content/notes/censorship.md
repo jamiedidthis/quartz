@@ -1,6 +1,6 @@
 ---
 title: Censorship
-tags: 
+tags: []
 date: 2024-01-08 15:12
 lastmod: 2024-01-08 15:12
 ---

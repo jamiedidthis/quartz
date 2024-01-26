@@ -5,9 +5,13 @@ tags:
 date: 2024-01-15T15:09:00
 lastmod: 2024-01-15T15:09:00
 ---
-I was trying to find out if [[authors/ada palmer|Ada Palmer]] coined vocateur in the [[Terra Ignota]] series, and just a cursory google search all give her credit for the term. Only early citation I could find is [a JSTOR article](https://www.jstor.org/stable/26281186) from 1983 which, from the preview, seems to be discussing Arno Schmidt’s *Leviathan*. So maybe an obscure term (possibly in translation?) that Ada popularized, at least? 
+Ha @ [[authors/jo walton|Jo Walton]] describing herself as a vocateur reader on the [Ex Urbe Ad Astra podcast](https://exurbe.libsyn.com/)! Totally fits because as much as I love her as an author ([[Lent]]! [[books/among others|Among Others]]!), I always say Jo is my favorite reader. 
 
-Anyway. Vocateur (“voker” for short) is basically someone intensely devoted to their vocation. In the post-scarcity world of Terra Ignota, careers are a thing of the past, no one needs to earn their basic necessities, and one is not permitted to work more than a certain number of hours per week (10 I think?). Vocateurs apply for the permission to work extended hours on their passions. 
+I was trying to find out if [[authors/ada palmer|Ada Palmer]] coined vocateur in the [[series/terra ignota|Terra Ignota]] series, and just a cursory google search all give her credit for the term. The only early citation I could find is [a JSTOR article](https://www.jstor.org/stable/26281186) from 1983 which, from the preview, seems to be discussing Arno Schmidt’s *Leviathan*. So maybe an obscure term (possibly in translation?) that Ada popularized, at least? 
+
+Anyway. Vocateur (“voker” for short) is basically someone intensely devoted to their chosen vocation. I like the connotation with amateur too, which in French, means “lover.” A “*lover of*,” instead of “*expert at*.” You could say a *vocateur* cultivates that *amateur* love into expertise.
+
+In the post-scarcity world of Terra Ignota, careers are a thing of the past, no one needs to earn their basic necessities, and one is not permitted to work more than a certain number of hours per week (10 I think?). Vocateurs apply for the permission to work extended hours on their passions. 
 
 From [an interview with Ada](https://mrissa.livejournal.com/966088.html?): 
 

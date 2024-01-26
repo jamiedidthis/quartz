@@ -8,14 +8,14 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        <h1><a href="/shelves/" class="gray">Shelf</a><span class="gray"> //</span> {{ if .Params.heading }} {{.Params.heading}} {{else}} {{ .Title }} {{end}}</h1>
+        <h1><a href="/shelves/" class="gray">shelf</a><span class="gray"> //</span> {{ if .Params.heading }} {{.Params.heading}} {{else}} {{ .Title }} {{end}}</h1>
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
         {{with .Content}}
         <p>{{.}}</p>
         {{end}}
-        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod }}
+        {{partial "page-list-published.html" .Paginator.Pages.ByTitle }}
         {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "nav-buttons.html" .}}

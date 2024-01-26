@@ -1,5 +1,5 @@
 ---
-title: Despair
+title: Despair is a state of repair
 tags:
   - emotional-intelligence
 date: 2023-11-13T15:13:00
