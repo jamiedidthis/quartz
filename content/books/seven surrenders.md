@@ -41,7 +41,7 @@ lastmod: 2024-01-26T13:59:00
 ---
 There’s no way I can talk comprehensively about this series, so for now I’m just going to keep a running list of different things I notice each time I read them. This time (2/2023), it was how the many names for JEDD Mason echoes the [[notes/apophatic naming|apophatic naming]] of God, a classical theological strategy of the “negative” naming, an effort to call God by every time, thereby acknowledging and preserving God’s transcendence of all of them.
 
-I mean, Jehovah is one of the names, as is Ἄναξ (the title _Anax_, i.e. lord) and Tai-kun. It doesn’t get more glaringly obvious than that. But there’s also Mike (Micromegas), Jedd, Jagmohan, Xiao Hei Wang… every hive, every language, nearly every person has their own name for him, alien or god-like or neither or both, and it’s a brilliant touch.
+I mean, Jehovah is one of the names, as is Ἄναξ (the title _Anax_, i.e. lord) and Tai-kun. It doesn’t get more obvious than that. But there’s also Mike ([Micromegas](https://en.wikipedia.org/wiki/Microm%C3%A9gas)), Jedd, Jagmohan, Xiao Hei Wang… every hive, every language, nearly every person has their own name for him, alien or god-like or neither or both, and it’s a brilliant touch.
 
 Per [[authors/ada palmer|Ada Palmer]], her favorite name and [the closest thing to a true name](https://www.goodreads.com/questions/2244033-by-which-of-his-names-would-you-address):
 
