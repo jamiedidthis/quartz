@@ -17,26 +17,6 @@ lastmod: 2023-12-31T14:50:00
 Ooh, this was FUN. It’s a fascinating look at how language evolves, and how rapidly it’s evolving now because internet—and arguably for the better, because internet-speak conveys this whole spectrum of emotional nuance that formal written language cannot.  
 
 Highlights and takeaways, an incomplete list:  
-—Young women have been the language disrupters throughout history  
-—We’re still cursed by faux-Latin-y grammar  
-—Grammar and spelling are collective agreements, not eternal truths  
-—What teens are doing is sophisticated  
-—Our language is embodied; you believe someone’s body, not their words  
-—Illustrative emoji (the birthday cake; it means what it means) vs. emblematic emoji (the eggplant; it means what it doesn’t mean)  
-—Emoji have the same rhythmic tendency as beat gestures  
-—Plain words actually weren’t good enough for Shakespeare  
-—Irony, paradoxically, creates space for sincerity  
-—Language is a network  
-—Godwin’s Law was an experiment on memes  
-—Memes and needlework are both collective folk texts  
-—We’ve had the right to adapt longer than we’ve had the right to prevent copying  
-—There is no doing it wrong, we’re creating as we go
-
-If you’re into linguistics (🙋🏻‍♀️), like clever and informative books (🙋🏻‍♀️), are an elder millennial (🙋🏻‍♀️), remember the AOL dialup (🙋🏻‍♀️), use social media as your third place (🙋🏻‍♀️), find yourself hooked on Wordle (🙋🏻‍♀️), or want some hope for the future (🙋🏻‍♀️), don’t miss this book.
-
-Also, when anybody is outraged about “kids these days” on the internet, remember that people used to be outraged over the word “hello,” which was invented with the telephone.
-
-With all the hubbub and handwringing around Twitter, all I think is how will Gretchen do her research! 
 
 * It’s not just that we make patterns; humans are basically incapable of doing things *without* patterns
 * Young women are the language disrupters
@@ -44,27 +24,31 @@ With all the hubbub and handwringing around Twitter, all I think is how will Gre
 * [[notes/the curse of latin-y grammar|The curse of Latin-y grammar]]
 * Grammar and spelling are collective agreements, not eternal truths; collective agreements can change
 * What teens are doing is sophisticated
-* [[notes/linguistic play as a writing exercise]]
+* [[notes/linguistic play as a writing exercise|Linguistic play as a writing exercise]]
 * Reshaping informal writing into something that could more deeply convey the full range of human emotions
-* [[Incoherence is the invitation to create]]
+* Incoherence is the invitation to create
 * Our language about emotion is embodied; you believe their body, not their words
 * Japanese (eastern) anime and emoticons emphasize the eyes; western emphasizes the mouth
 * Illustrative emoji (the birthday cake; it means what it means) vs. emblematic emoji (the eggplant; it means what it doesn’t mean)
 * Emoji have the same rhythmic tendency as beat gestures
 * Plain words *weren’t* actually good enough for Shakespeare
-* The telephone was the first major technological disrupter [[All new ideas meet resistance]]
-* The obsolete controversies of the past
-* [[Phatic phrases]]
-* “Butler lies”
-* [[Social media is the third place]]
+* The telephone was the first major technological disrupter (all new ideas meet resistance: cf. the obsolete controversies of the past)
+* [[notes/phatic phrases|Phatic phrases]] and “butler lies”
+* [[notes/social media is the third place|Social media is the third place]]
 * Privacy through obscurity
-* [[Language is a network]] (it’s [[Rhizomatic]])
+* Irony, paradoxically, creates space for sincerity  
+* [[notes/language is a network|Language is a network]]
 * Godwin’s law was an experiment on memes
-* Memes and needlework are [[Collective folk texts]]
-* [[Writing that builds on the universe of other writing is among our oldest forms of storytelling]]
-* [[We’ve had the right to adapt longer than we’ve had the right to prevent copying]]
+* Memes and needlework are [[notes/collective folk texts|collective folk texts]]
+* [[notes/all fiction is fanfiction|Writing that builds on the universe of other writing is among our oldest forms of storytelling]]
+* [[notes/the culturally bound notion of authorship|We’ve had the right to adapt longer than we’ve had the right to prevent copying]]
 * There is no doing it wrong, we’re creating as we go
 
+If you’re into linguistics (🙋🏻‍♀️), like clever and informative books (🙋🏻‍♀️), are an elder millennial (🙋🏻‍♀️), remember the AOL dialup (🙋🏻‍♀️), use social media as your third place (🙋🏻‍♀️), find yourself hooked on Wordle (🙋🏻‍♀️), or want some hope for the future (🙋🏻‍♀️), don’t miss this book.
+
+Also, when anybody is outraged about “kids these days” on the internet, remember that people used to be outraged over the word “hello,” which was invented with the telephone.
+
+ETA: With all the hubbub and handwringing around the demise of Twitter, all I think is how will Gretchen do her research! 
 
 ## Pull quotes
 > “Every generation has talked slightly differently from its parents: otherwise, we’d all still be talking like Shakespeare.”

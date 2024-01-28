@@ -2,8 +2,9 @@
 title: You’re a wiggle
 tags:
   - philosophy
+  - pleasure-and-play
 date: 2024-01-15T15:17:00
-lastmod:
+lastmod: 2024-01-16T14:53:00
 ---
 [[authors/alan watts|Alan Watts]] in *[[books/out of your mind|Out of Your Mind]]*: 
 
