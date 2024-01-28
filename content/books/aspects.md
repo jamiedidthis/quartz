@@ -2,7 +2,7 @@
 title: Aspects
 subtitle: ""
 authors:
-  - John M Ford
+  - John M. Ford
 publishers:
   - Tor Books
 publishDate: 2022-04-05

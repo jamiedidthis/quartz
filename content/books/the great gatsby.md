@@ -2,7 +2,7 @@
 title: The Great Gatsby
 subtitle: ""
 authors:
-  - F Scott Fitzgerald
+  - F. Scott Fitzgerald
 publishers:
   - Penguin
 publishDate: 2021-12-14

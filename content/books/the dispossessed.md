@@ -2,7 +2,7 @@
 title: The Dispossessed
 subtitle: An Ambiguous Utopia
 authors:
-  - Ursula K Le Guin
+  - Ursula K. Le Guin
 publishers:
   - Avon Books
 publishDate: 1975-07-01

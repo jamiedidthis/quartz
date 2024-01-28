@@ -5,7 +5,7 @@ tags:
 date: 2023-11-13T15:13:00
 lastmod: 2023-11-13T15:13:00
 ---
-[[authors/brene brown|Brené Brown]] puts despair as a synonym with hopelessness in [[books/atlas of the heart|Atlas of the Heart]], so I’m going to go with [[authors/david whyte|David Whyte’s]] take on it instead. (Whyte and Brown, lol.)
+[[authors/brené brown|Brené Brown]] puts despair as a synonym with hopelessness in [[books/atlas of the heart|Atlas of the Heart]], so I’m going to go with [[authors/david whyte|David Whyte’s]] take on it instead. (Whyte and Brown, lol.)
 
 ((Note: maybe what I classify as despair would be more what Brown describes as anguish??))
 

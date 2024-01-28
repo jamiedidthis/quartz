@@ -27,6 +27,6 @@ shelves:
 date: 2024-01-02 23:15
 lastmod: 2024-01-02 23:15
 ---
-As someone who has long loved [[authors/f scott fitzgerald|F. Scott Fitzgerald]]’s writing, despite his depressing and often problematic deal, this [[books/the great gatsby|Gatsby]] retelling vis-à-vis a Vietnamese Jordan Baker is exquisite. Absolutely true to the spirit of the original, while absolutely its own fantastical, queer, eerie, spectacular thing.
+As someone who has long loved [[authors/f. scott fitzgerald|F. Scott Fitzgerald]]’s writing, despite his depressing and often problematic deal, this [[books/the great gatsby|Gatsby]] retelling vis-à-vis a Vietnamese Jordan Baker is exquisite. Absolutely true to the spirit of the original, while absolutely its own fantastical, queer, eerie, spectacular thing.
   
 _“I felt like a dry earth must feel when it finally rains.”_

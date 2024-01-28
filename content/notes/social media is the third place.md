@@ -1,6 +1,7 @@
 ---
 title: Social media is the third place
-tags: 
+tags:
+  - sociology
 date: 2024-01-28 15:18
 lastmod: 2024-01-28 15:18
 ---

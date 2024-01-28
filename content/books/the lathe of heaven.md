@@ -2,7 +2,7 @@
 title: The Lathe Of Heaven
 subtitle: ""
 authors:
-  - Ursula K Le Guin
+  - Ursula K. Le Guin
 publishers:
   - Simon and Schuster
 publishDate: 2022-07-19

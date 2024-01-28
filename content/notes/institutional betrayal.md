@@ -18,4 +18,4 @@ When a corporation, church, government, organization, program, school, or family
 
 Huh. That description fits a lot of religious trauma, eh?
 
-As [[brene brown|Brené Brown]] says (*[[books/atlas of the heart|Atlas of the Heart]]*), the only way back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.
+As [[authors/brené brown|Brené Brown]] says (*[[books/atlas of the heart|Atlas of the Heart]]*), the only way back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.

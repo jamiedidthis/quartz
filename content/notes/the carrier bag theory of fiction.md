@@ -7,7 +7,7 @@ date: 2024-01-15T15:01:00
 lastmod: 2024-01-15T15:01:00
 ---
 
-by [[authors/ursula k le guin|Ursula K. Le Guin]]
+by [[authors/ursula k. le guin|Ursula K. Le Guin]]
 
 *Ed. note: just me copying and annotating this text in full, it’s that brilliant.*
 

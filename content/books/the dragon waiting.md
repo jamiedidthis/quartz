@@ -2,7 +2,7 @@
 title: The Dragon Waiting
 subtitle: ""
 authors:
-  - John M Ford
+  - John M. Ford
 publishers:
   - Tor Essentials
 publishDate: 2020-09-29

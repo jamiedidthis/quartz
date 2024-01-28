@@ -6,7 +6,7 @@ date: 2024-01-15T15:02:00
 lastmod: 2024-01-15T15:02:00
 ---
 
-> We have mostly forgotten to be surprised that a street preacher’s followers discovered, several hundred years after his death, how to be a regimented multinational corporate enterprise. *([[books/pagans|Pagans]], [[authors/james j o'donnell|James J. O’Donnell]])*
+> We have mostly forgotten to be surprised that a street preacher’s followers discovered, several hundred years after his death, how to be a regimented multinational corporate enterprise. *([[books/pagans|Pagans]], [[authors/james o'donnell|James J. O’Donnell]])*
 
 In *[[books/all about love|All About Love]]*, [[authors/bell hooks|bell hooks]] (via Erich Fromm) says the principle underlying capitalistic society and the principle of love are incompatible. This poses an interesting dilemma for a religion that purports to be, indeed, all about love.
 

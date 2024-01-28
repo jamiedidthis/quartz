@@ -8,7 +8,7 @@ lastmod: 2024-01-15T15:11:00
 
 > As if deserving meant anything. As if one could earn beauty, or life! 
 > 
-> ([[authors/ursula k le guin|Ursula K. Le Guin]], *[[books/the dispossessed|The Dispossessed]]*)
+> ([[authors/ursula k. le guin|Ursula K. Le Guin]], *[[books/the dispossessed|The Dispossessed]]*)
 
 Over on Sluggish, Jesse Meadows is talking about people getting ruffled “[because everyone online is autistic now](https://sluggish.substack.com/p/why-is-everyone-online-autistic-now).” It’s just the latest hand-wringing over [[notes/autism|autism]] as an internet trend (or insert any “-ism as an internet trend”), and the key argument is that the right people aren’t getting what they deserve, while “fakers” are taking resources away.
 
