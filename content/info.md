@@ -4,7 +4,7 @@ tags: []
 date: 2024-01-23T16:29:00
 lastmod: 2024-01-23T16:30:00
 ---
-I’m a freelance graphic designer, [[notes/vocateur|vocateur reader]], [[notes/amateur|amateur]] writer, artist, and book collector living in rural NC. The <a href="/books" class="internal-link">book collection</a> here is actually highly incomplete, find me on [Goodreads](https://www.goodreads.com/jamieharris) for the slightly more complete list. I also occasionally appear on [Instagram](https://instagram.com/jamiedidthis) when I’m not in hibernation.
+I’m a freelance graphic designer, [[notes/vocateur|vocateur reader]], [[notes/amateur|amateur]] writer, artist, and book collector living in rural NC. The <a href="/books" class="internal-link">book collection</a> here is actually highly incomplete, find me on [Goodreads](https://www.goodreads.com/jamieharris) for the slightly more exhaustive list. I also occasionally appear on [Instagram](https://instagram.com/jamiedidthis) when I’m not in hibernation.
 
 ## Field guide 🌳
 
