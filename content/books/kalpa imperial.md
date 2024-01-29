@@ -3,7 +3,7 @@ title: Kalpa Imperial
 subtitle: The Greatest Empire That Never Was
 authors:
   - Angélica Gorodischer
-  - Ursula K. Le Guin
+  - Ursula K Le Guin
 publishers:
   - Small Beer Press
 publishDate: 2014-01-02

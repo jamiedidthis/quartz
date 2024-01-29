@@ -19,6 +19,6 @@ Interestingly, she notes this is a skill kids seem to have naturally:
 
 She goes on to say that [[authors/gene wolfe|Gene Wolfe]] asks even more, and that like learning to swim before one swims for fun, in many ways one reads the [[series/the book of the new sun|Book of the New Sun]] only on the second pass.
 
-No wonder my childlike puzzle-loving brain loves this kind of deep worldbuilding. Think [[series/terra ignota|Terra Ignota]], [[series/the locked tomb|The Locked Tomb]], *[[books/china mountain zhang|China Mountain Zhang]]*, or even books like *[[books/among others|Among Others]]* with their own internal logic and language. Most of [[authors/ursula k. le guin|Ursula K. Le Guin]]; everything by [[authors/john m. ford|John M. Ford]].
+No wonder my childlike puzzle-loving brain loves this kind of deep worldbuilding. Think [[series/terra ignota|Terra Ignota]], [[series/the locked tomb|The Locked Tomb]], *[[books/china mountain zhang|China Mountain Zhang]]*, or even books like *[[books/among others|Among Others]]* with their own internal logic and language. Most of [[authors/ursula k le guin|Ursula K. Le Guin]]; everything by [[authors/john m ford|John M. Ford]].
 
 I wonder also how much this correlates with the [[bottom-up processing]], pattern recognition, and associative thinking of [[notes/autism|autism]], where you’re collecting details and sorting patterns all the time anyway.
