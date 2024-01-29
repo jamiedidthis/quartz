@@ -6,12 +6,11 @@ tags:
 date: 2024-01-15T15:01:00
 lastmod: 2024-01-15T15:01:00
 ---
-
 by [[authors/ursula k le guin|Ursula K. Le Guin]]
 
 *Ed. note: just me copying and annotating this text in full, it’s that brilliant.*
 
-> In the temperate and tropical regions where it appears that hominids evolved into human beings, the principal food of the species was vegetable. Sixty-five to eighty percent of what human beings ate in those regions in Paleolithic, Neolithic, and prehistoric times was gathered; only in the extreme Arctic was meat the staple food. The mammoth hunters spectacularly occupy the cave wall and the mind, but what we actually did to stay alive and fat was gather seeds, roots, sprouts, shoots, leaves, nuts, berries, fruits, and grains, adding bugs and mollusks and netting or snaring birds, fish, rats, rabbits, and other tuskless small fry to up the protein.== And we didn’t even work hard at it — much less hard than peasants slaving in somebody else’s field after agriculture was invented, much less hard than paid workers since civilization was invented. The average prehistoric person could make a nice living in about a fifteen-hour work week.
+> In the temperate and tropical regions where it appears that hominids evolved into human beings, the principal food of the species was vegetable. Sixty-five to eighty percent of what human beings ate in those regions in Paleolithic, Neolithic, and prehistoric times was gathered; only in the extreme Arctic was meat the staple food. The mammoth hunters spectacularly occupy the cave wall and the mind, but what we actually did to stay alive and fat was gather seeds, roots, sprouts, shoots, leaves, nuts, berries, fruits, and grains, adding bugs and mollusks and netting or snaring birds, fish, rats, rabbits, and other tuskless small fry to up the protein. And we didn’t even work hard at it — much less hard than peasants slaving in somebody else’s field after agriculture was invented, much less hard than paid workers since civilization was invented. The average prehistoric person could make a nice living in about a fifteen-hour work week.
 >
 >Fifteen hours a week for subsistence leaves a lot of time for other things. So much time that maybe the restless ones who didn’t have a baby around to enliven their life, or skill in making or cooking or singing, or very interesting thoughts to think, decided to slope off and hunt mammoths. The skillful hunters would come staggering back with a load of meat, a lot of ivory, and a story. ==It wasn’t the meat that made the difference. It was the story.==
 > 
@@ -47,7 +46,7 @@ by [[authors/ursula k le guin|Ursula K. Le Guin]]
 > 
 > It’s unfamiliar, it doesn’t come easily, thoughtlessly, to the lips as the killer story does; but still, “untold” was an exaggeration. People have been telling the life story for ages, in all sorts of words and ways. Myths of creation and transformation, trickster stories, folktales, jokes, novels....
 > 
-> ==The novel is a fundamentally unheroic kind of story.== Of course the Hero has frequently taken it over, that being his imperial nature and uncontrollable impulse, to take everything over and run it while making stern decrees and laws to control his uncontrollable impulse to kill it. So the Hero has decreed through his mouthpieces the Lawgivers, first, that the proper shape of the narrative is that of the arrow or spear, starting _here_ and going straight _there_ and THOK! hitting its mark (which drops dead); second, that the central concern of narrative, including the novel, is conflict; and third, that the story isn’t any good if he isn’t in it.
+> ==The novel is a fundamentally unheroic kind of story.== Of course the Hero has frequently taken it over, that being his imperial nature and uncontrollable impulse, to take everything over and run it while making stern decrees and laws to control his uncontrollable impulse to kill it.[^1] So the Hero has decreed through his mouthpieces the Lawgivers, first, that the proper shape of the narrative is that of the arrow or spear, starting _here_ and going straight _there_ and THOK! hitting its mark (which drops dead); second, that the central concern of narrative, including the novel, is conflict; and third, that the story isn’t any good if he isn’t in it.
 >
 > I differ with all of this. I would go so far as to say that the natural, proper, fitting shape of the novel might be that of a sack, a bag. ==A book holds words. Words hold things. They bear meanings. A novel is a medicine bundle, holding things in a particular, powerful relation to one another and to us.==
 > 
@@ -69,3 +68,5 @@ by [[authors/ursula k le guin|Ursula K. Le Guin]]
 
 
 Source: https://otherfutures.nl/uploads/documents/le-guin-the-carrier-bag-theory-of-fiction.pdf
+
+[^1]: This makes me think of that bluntly brilliant line in *[[books/always coming home|Always Coming Home]]*: “He thought his hero-soul was in his balls.”
