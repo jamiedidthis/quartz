@@ -24,9 +24,9 @@ shelves:
   - merry-happy-holiday
   - novella
   - cover-love
-  - polyamory
   - aye-captain
   - myths-and-folklore
+  - ethical-non-monogamy
 date: 2024-01-26 15:10
 lastmod: 2024-01-26 15:10
 ---

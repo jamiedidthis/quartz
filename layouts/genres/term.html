@@ -15,7 +15,7 @@
         {{with .Content}}
             <p>{{.}}</p>
         {{end}}
-        {{partial "page-list-published.html" .Paginator.Pages.ByLastmod.Reverse }}
+        {{partial "page-list-published.html" .Paginator.Pages.ByTitle }}
         {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "nav-buttons.html" .}}
