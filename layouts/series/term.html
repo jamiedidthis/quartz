@@ -15,7 +15,7 @@
         {{with .Content}}
         <p>{{.}}</p>
         {{end}}
-        {{partial "page-list-books.html" .Paginator.Pages }}
+        {{partial "page-list-books.html" .Paginator.Pages.ByWeight }}
         {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "footer.html" .}}
