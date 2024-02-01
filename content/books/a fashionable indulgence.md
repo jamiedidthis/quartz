@@ -8,7 +8,7 @@ publishers:
 publishDate: 2015-08-11
 series:
   - Society of Gentlemen
-series_weight: 1
+weight: 1
 genres:
   - fiction
   - romance

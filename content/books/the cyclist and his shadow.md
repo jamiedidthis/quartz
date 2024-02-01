@@ -7,7 +7,7 @@ publishers:
   - University of Minnesota Press
 publishDate: 2022-05-17
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - memoir

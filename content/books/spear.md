@@ -7,7 +7,7 @@ publishers:
   - Tordotcom
 publishDate: 2022-04-19
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy
@@ -24,6 +24,7 @@ shelves:
   - novella
   - f-f
   - arthurian
+  - knights-warriors
 date: 2024-01-28 12:25
 lastmod: 2024-01-28 12:25
 ---

@@ -7,7 +7,7 @@ publishers:
   - Freydís Moon Publishing
 publishDate: 2023-11-15
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - romance

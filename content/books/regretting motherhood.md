@@ -7,7 +7,7 @@ publishers:
   - North Atlantic Books
 publishDate: 2017-07-11
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - sociology

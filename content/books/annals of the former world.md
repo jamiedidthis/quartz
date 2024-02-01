@@ -7,7 +7,7 @@ publishers:
   - Farrar, Straus and Giroux
 publishDate: 2000-06-15
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - science

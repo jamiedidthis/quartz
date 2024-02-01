@@ -7,7 +7,7 @@ publishers:
   - HarperCollins
 publishDate: 2018-01-30
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - sociology

@@ -8,7 +8,7 @@ publishers:
 publishDate: 2022-09-13
 series:
   - The Locked Tomb
-series_weight: 3
+weight: 3
 genres:
   - fiction
   - sci-fi

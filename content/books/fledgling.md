@@ -7,7 +7,7 @@ publishers:
   - Seven Stories Press
 publishDate: 2011-01-04
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

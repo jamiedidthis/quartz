@@ -7,7 +7,7 @@ publishers:
   - Courtney Milan Books
 publishDate: 2012-12-07
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - romance

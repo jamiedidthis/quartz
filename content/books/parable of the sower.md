@@ -8,7 +8,7 @@ publishers:
 publishDate: 2016-11-08
 series:
   - Earthseed
-series_weight: 1
+weight: 1
 genres:
   - fiction
   - sci-fi

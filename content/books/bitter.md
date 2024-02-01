@@ -8,7 +8,7 @@ publishers:
 publishDate: 2022-02-15
 series:
   - Pet
-series_weight: 2
+weight: 2
 genres:
   - fiction
   - fantasy

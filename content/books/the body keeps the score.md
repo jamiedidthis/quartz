@@ -7,7 +7,7 @@ publishers:
   - Penguin
 publishDate: 2015-09-08
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - psychology

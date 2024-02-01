@@ -7,7 +7,7 @@ publishers:
   - AK Press
 publishDate: 2019-03-19
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - sociology

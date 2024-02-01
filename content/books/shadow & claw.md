@@ -8,7 +8,7 @@ publishers:
 publishDate: 2021-06-08
 series:
   - The Book of the New Sun
-series_weight: 1
+weight: 1
 genres:
   - fiction
   - sci-fi

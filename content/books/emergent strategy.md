@@ -7,7 +7,7 @@ publishers:
   - AK Press
 publishDate: 2017-03-20
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - philosophy

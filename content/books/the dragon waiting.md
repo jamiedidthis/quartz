@@ -7,7 +7,7 @@ publishers:
   - Tor Essentials
 publishDate: 2020-09-29
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

@@ -7,7 +7,7 @@ publishers:
   - Tor Essentials
 publishDate: 2011-01-18
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

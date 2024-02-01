@@ -8,7 +8,7 @@ publishers:
 publishDate: 2000-07-01
 series:
   - Hainish Cycle
-series_weight: 4
+weight: 4
 genres:
   - fiction
   - sci-fi

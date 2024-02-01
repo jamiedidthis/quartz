@@ -7,7 +7,7 @@ publishers:
   - HarperCollins
 publishDate: 2013-08-12
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
 shelves:

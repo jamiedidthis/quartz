@@ -7,7 +7,7 @@ publishers:
   - Tordotcom
 publishDate: 2021-06-01
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

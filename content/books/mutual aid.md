@@ -7,7 +7,7 @@ publishers:
   - PM Press
 publishDate: 2021-09-14
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - philosophy

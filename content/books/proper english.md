@@ -8,7 +8,7 @@ publishers:
 publishDate: 2019-05-08
 series:
   - England World
-series_weight: 1
+weight: 1
 genres:
   - fiction
   - romance

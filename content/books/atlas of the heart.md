@@ -7,7 +7,7 @@ publishers:
   - Random House
 publishDate: 2021-11-30
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - psychology

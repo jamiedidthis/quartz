@@ -7,7 +7,7 @@ publishers:
   - Wednesday Books
 publishDate: 2023-11-28
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - romance

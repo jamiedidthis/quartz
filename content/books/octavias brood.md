@@ -8,7 +8,7 @@ publishers:
   - AK Press
 publishDate: 2015-03-23
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

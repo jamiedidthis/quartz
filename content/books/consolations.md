@@ -7,7 +7,7 @@ publishers:
   - Many Rivers Press
 publishDate: 2014-12
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - philosophy

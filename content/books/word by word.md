@@ -7,7 +7,7 @@ publishers:
   - Vintage
 publish: 2018-03-06
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - language

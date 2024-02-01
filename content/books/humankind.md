@@ -7,7 +7,7 @@ publishers:
   - Little, Brown
 publishDate: 2020-06-02
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - history

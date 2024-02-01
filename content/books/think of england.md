@@ -8,7 +8,7 @@ publishers:
 publishDate: 2017-03-28
 series:
   - England World
-series_weight: 2
+weight: 2
 genres:
   - fiction
   - romance

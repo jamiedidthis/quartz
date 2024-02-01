@@ -8,7 +8,7 @@ publishers:
   - Sirius Fiction
 publishDate: 2008-08-02
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - reference

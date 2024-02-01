@@ -8,7 +8,7 @@ publishers:
 publishDate: 2021-11-02
 series:
   - Terra Ignota
-series_weight: 4
+weight: 4
 genres:
   - fiction
   - sci-fi

@@ -7,7 +7,7 @@ publishers:
   - Oxford University Press
 publishDate: 2005-04-15
 series: 
-series_weight: 
+weight: 
 genres:
   - poetry
 shelves:

@@ -7,7 +7,7 @@ publishers:
   - HarperCollins
 publishDate: 2023-06-27
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

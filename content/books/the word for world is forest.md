@@ -7,7 +7,7 @@ publishers:
   - Tor Books
 publishDate: 2010-07-06
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

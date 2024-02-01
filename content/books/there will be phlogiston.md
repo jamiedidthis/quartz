@@ -8,7 +8,7 @@ publishers:
 publishDate: "2018"
 series:
   - Prosperityverse
-series_weight: 3
+weight: 3
 genres:
   - fiction
   - romance

@@ -8,7 +8,7 @@ publishers:
   - Small Beer Press
 publishDate: 2014-01-02
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

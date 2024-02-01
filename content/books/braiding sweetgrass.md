@@ -7,7 +7,7 @@ publishers:
   - Penguin
 publishDate: 2021-07
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - nature

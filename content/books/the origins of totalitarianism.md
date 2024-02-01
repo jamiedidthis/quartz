@@ -7,7 +7,7 @@ publishers:
   - Houghton Mifflin Harcourt
 publishDate: 1973-03-21
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - philosophy

@@ -8,7 +8,7 @@ publishers:
 publishDate: "2018"
 series:
   - Prosperityverse
-series_weight: 2
+weight: 2
 genres:
   - fiction
   - fantasy

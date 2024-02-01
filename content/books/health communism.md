@@ -8,7 +8,7 @@ publishers:
   - Verso Books
 publishDate: 2022-10-18
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - sociology

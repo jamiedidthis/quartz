@@ -7,7 +7,7 @@ publishers:
   - Simon and Schuster
 publishDate: 2024-01-30
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - literary

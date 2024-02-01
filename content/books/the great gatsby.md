@@ -7,7 +7,7 @@ publishers:
   - Penguin
 publishDate: 2021-12-14
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - classics

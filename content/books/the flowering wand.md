@@ -7,7 +7,7 @@ publishers:
   - Simon and Schuster
 publishDate: 2022-11-29
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - mythology

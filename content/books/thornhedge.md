@@ -7,7 +7,7 @@ publishers:
   - Tor Books
 publishDate: 2023-08-15
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

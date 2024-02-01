@@ -7,7 +7,7 @@ publishers:
   - Penguin
 publishDate: 2019-04-04
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - religion

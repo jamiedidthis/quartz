@@ -7,7 +7,7 @@ publishers:
   - Houghton Mifflin Harcourt
 publishDate: 2009-08-12
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - nature

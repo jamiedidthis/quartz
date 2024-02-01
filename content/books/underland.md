@@ -7,7 +7,7 @@ publishers:
   - W. W. Norton & Company
 publishDate: 2019-06-04
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - nature

@@ -7,7 +7,7 @@ publishers:
   - Souvenir Press
 publishDate: 2018-03-01
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - philosophy

@@ -7,7 +7,7 @@ publishers:
   - Random House Graphic
 publishDate: 2020-10-13
 series: 
-series_weight: 
+weight: 
 genres:
   - graphic-novels
   - young-adult

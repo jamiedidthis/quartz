@@ -7,7 +7,7 @@ publishers:
   - Columbia University Press
 publishDate: 2018-11-06
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - religion

@@ -7,7 +7,7 @@ publishers:
   - KJC Books
 publishDate: 2018-05-08
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - romance

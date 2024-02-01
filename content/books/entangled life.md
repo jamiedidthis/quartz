@@ -7,7 +7,7 @@ publishers:
   - Random House
 publishDate: 2020-05-12
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - nature

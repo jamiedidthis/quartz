@@ -7,7 +7,7 @@ publishers:
   - Random House
 publishDate: 2013-07-16
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - religion

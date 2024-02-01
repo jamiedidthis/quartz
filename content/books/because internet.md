@@ -7,7 +7,7 @@ publishers:
   - Penguin
 publishDate: 2019-07-23
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - language

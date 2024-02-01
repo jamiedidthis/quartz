@@ -7,7 +7,7 @@ publishers:
   - Simon and Schuster
 publishDate: 2021-07-06
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - literary

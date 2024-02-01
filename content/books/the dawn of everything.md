@@ -8,7 +8,7 @@ publishers:
   - Farrar, Straus and Giroux
 publishDate: 2021-11-09
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - history

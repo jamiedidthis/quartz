@@ -7,7 +7,7 @@ publishers:
   - Thames & Hudson
 publish: 2009-01-01
 series: 
-series_weight: 
+weight: 
 genres:
   - poetry
   - classics

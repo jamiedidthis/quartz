@@ -7,7 +7,7 @@ publishers:
   - Tate Publishing
 publish: 2007-03-01
 series: 
-series_weight: 
+weight: 
 genres:
   - poetry
   - classics

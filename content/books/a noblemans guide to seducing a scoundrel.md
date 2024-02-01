@@ -8,7 +8,7 @@ publishers:
 publishDate: 2023-09-19
 series:
   - Doomsday Books
-series_weight: 2
+weight: 2
 genres:
   - fiction
   - romance

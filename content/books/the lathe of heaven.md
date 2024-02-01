@@ -7,7 +7,7 @@ publishers:
   - Simon and Schuster
 publishDate: 2022-07-19
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

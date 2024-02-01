@@ -7,7 +7,7 @@ publishers:
   - HarperCollins
 publishDate: 2017-08-24
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - nature

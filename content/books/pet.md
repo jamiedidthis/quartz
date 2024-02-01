@@ -8,7 +8,7 @@ publishers:
 publishDate: 2019-09-10
 series:
   - Pet
-series_weight: 1
+weight: 1
 genres:
   - fiction
   - fantasy

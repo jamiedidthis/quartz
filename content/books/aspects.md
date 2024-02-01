@@ -7,7 +7,7 @@ publishers:
   - Tor Books
 publishDate: 2022-04-05
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - fantasy

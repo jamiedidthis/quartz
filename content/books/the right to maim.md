@@ -7,7 +7,7 @@ publishers:
   - Duke University Press
 publishDate: 2017-11-03
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - sociology

@@ -7,7 +7,7 @@ publishers:
   - KJC Books
 publishDate: 2017-12-01
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - horror

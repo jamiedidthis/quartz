@@ -8,7 +8,7 @@
                 </a>
             </div>
               <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>
-              {{ $order := .Params.series_weight }}
+              {{ $order := .Params.weight }}
                 {{ range .Params.series }}
                 <p>
                   <a href="{{ $baseUrl }}series/{{ . | urlize | lower }}">{{ . }}</a> 

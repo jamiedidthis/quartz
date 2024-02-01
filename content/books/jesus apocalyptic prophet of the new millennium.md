@@ -7,7 +7,7 @@ publishers:
   - Oxford University Press
 publishDate: 1999-09-23
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - religion

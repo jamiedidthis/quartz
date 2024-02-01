@@ -7,7 +7,7 @@ publishers:
   - HarperCollins
 publishDate: 2015-03-17
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - history

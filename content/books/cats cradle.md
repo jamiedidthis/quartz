@@ -7,7 +7,7 @@ publishers:
   - Dial Press
 publishDate: 2009-11-04
 series: 
-series_weight: 
+weight: 
 genres:
   - fiction
   - sci-fi

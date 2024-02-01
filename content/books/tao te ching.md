@@ -8,7 +8,7 @@ publishers:
   - Shambhala Publications
 publishDate: 2019-05-14
 series: 
-series_weight: 
+weight: 
 genres:
   - nonfiction
   - religion
