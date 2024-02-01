@@ -4,7 +4,7 @@ subtitle: A Deep Time Journey
 authors:
   - Robert Macfarlane
 publishers:
-  - W. W. Norton & Company
+  - WW Norton & Company
 publishDate: 2019-06-04
 series: 
 weight: 

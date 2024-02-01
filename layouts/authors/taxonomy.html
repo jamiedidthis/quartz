@@ -15,7 +15,7 @@
         <div class="tags columns">
             {{ range .Site.Taxonomies.authors.Alphabetical }}
             <div class="meta">
-                <p><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></p>
+                <p><a href="{{ .Page.Permalink }}" class="internal-link">{{ .Page.Title }}</a></p>
             </div>
             {{ end }}
         </div>
