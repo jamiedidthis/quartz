@@ -8,7 +8,7 @@ publishers:
 publishDate: 2023-10-24
 series:
   - Bright Falls
-series_weight: 3
+weight: 3
 genres:
   - fiction
   - romance
