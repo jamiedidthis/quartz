@@ -55,7 +55,7 @@
   <link href="{{$finalCss.Permalink}}" rel="stylesheet" />
 
   {{$lightSyntax := resources.Get "styles/_light_syntax.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "md5" | resources.Minify  }}
-  <link href="{{$lightSyntax.Permalink}}" rel="stylesheet" id="theme-link">
+  <link href="{{$lightSyntax.Permalink}}" rel="stylesheet" id="theme-link"> 
 
    <!-- Base scripts -->
   {{$scripts := (slice "js/darkmode.js" "js/util.js")}}
@@ -73,6 +73,8 @@
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
   <script defer src="{{$popover.Permalink}}"></script>
+
+  <script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
   <!-- Optional scripts -->
   {{ if $data.enableCodeBlockTitle | default $.Site.Data.config.enableCallouts }}
@@ -118,6 +120,18 @@
 
       const render = () => {
       // NOTE: everything within this callback will be executed for every page navigation. This is a good place to put JavaScript that loads or modifies data on the page, adds event listeners, etc. If you are only dealing with basic DOM replacement, use the init function
+      
+      // spoiler script
+      $(function() {
+      $('.spoiler').attr('title', 'show spoiler').click(function() {
+        $(this).toggleClass('noSpoiler spoiler');
+        var title = 'hide spoiler' ;
+        if( $(this).hasClass('spoiler')){
+          title = 'show spoiler';
+        };
+        $(this).attr('title', title);
+      });
+    }); //end spoiler script
 
       const siteBaseURL = new URL(BASE_URL);
       const pathBase = siteBaseURL.pathname;
@@ -246,18 +260,4 @@
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
   <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
   <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
-
-  <!-- spoiler script -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <script>$(document).ready(function(){
-      $('.spoiler').attr('title', 'show spoiler').click(function() {
-        $(this).toggleClass('noSpoiler spoiler');
-        var title = 'hide spoiler' ;
-        if( $(this).hasClass('spoiler')){
-          title = 'show spoiler';
-        };
-        $(this).attr('title', title);
-      });
-    });
-  </script>
 </head>

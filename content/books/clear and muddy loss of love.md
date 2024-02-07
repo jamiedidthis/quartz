@@ -36,7 +36,10 @@ A few more thoughts in list form:
 - If you’re gonna do a romance where one (nearly both) of the protagonists is underage at the beginning, then a 20-year timespan to get to the happy ending, with a complete flip of power balance, is the right choice to make.
 - Hurrah! It does the thing I love where obtaining the throne is not the happy ending—it’s detrimental to the happy ending, a problem to be solved.
 - The way the stress ruins Qi Yan’s health is so much more relatable and weirdly gratifying than the superhero protagonists who sail through plots unscathed.
-- There’s an absolutely bonkers side plot where QY %%offs a lecherous prince by kidnapping the young man he’s been aggressively harassing, drugging the young man, covering him in a poison that interacts with the liquor in the prince’s system (he’s an alcoholic) and makes the prince drop dead at first kiss.%% The extensive groundwork is laid for this, it’s a two-birds-one-stone solution to a problem, and it’s non-con as hell, but I was so far into the suspended reality of this book that I was equally impressed and appalled by the creativity. 😆
+- There’s an absolutely bonkers side plot where QY %%offs a lecherous prince by kidnapping the young man he’s been aggressively harassing, drugging the young man, covering him in a poison that interacts with the liquor in the prince’s system (he’s an alcoholic) and makes the prince drop dead at first kiss.%% The extensive groundwork is laid for this, it’s a two-birds-one-stone solution to a problem, and it’s non-con as hell, but I was so far into the suspended reality of the book that I was equally impressed and appalled by the creativity. 😆
+- After the following, I’m also impressed with how grounded and intimate a lot of the biggest reveals were. I was braced for melodrama, and it just didn’t go there as often as I expected. Bonkers spy plots but then real and honest conversations, just the way I like it.
+- At one point it was about wide-scale famine and grain storage and the intricate economics of a refugee crisis and that’s the kind of stuff I’ll eat up with spoon.
+- Note: I read the translation by [@meltsmelts](https://jwqs.carrd.co/) which I think got licensed for publication when I was in the home stretch, the last 50 chapters. I was hustling lest it get ripped out of my grubby hands. I think it’s still up for now, but heads up that the official publication should be coming soon.
 ---
 ## Reading Progress
 
@@ -50,4 +53,4 @@ I rarely do status updates as I go, but JWQS called for it and I wanted to prese
 - **81%** The inevitable exposing of Qi Yan’s identity is going the way I hoped it would. Not melodramatic but quiet and personal and intensely emotional. Particularly Jingnu’s reaction, and her instinctive loyalty. 😭 
 - **97%** This had me on my feet and pacing last night, I could not sit still with the plot twists. And that’s with knowing we’re fully in HEA territory too 🫢 (QIAN TONG, BOSS MOVE)
 
-[^1]: Note: my first impression was mistaken, this doesn’t qualify as a wuxia novel. It’s a historical c-novel, but it’s way more about court intrigue than martial arts and there’s no cultivation. My bad.
+[^1]: Note: I was mistaken, this wasn’t wuxia. It’s a historical c-novel, but it’s way more about court intrigue than martial arts and there’s no cultivation. My bad for being so hyped about the summary I didn’t notice the genre.

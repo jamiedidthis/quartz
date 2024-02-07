@@ -12,7 +12,7 @@ Internal wiki-type links are [[notes/wiggles|underlined]], external links are [i
 
 Books can also be sorted by <a href="/authors" class="internal-link">author</a>, <a href="/publishers" class="internal-link">publisher</a>, and <a href="/series" class="internal-link">series</a>.
 
-My spoiler policy for books is haphazard at best, but occasionally I will tag for a particularly spoilery bit. If you see redacted text like the following, you can hover or click on mobile to spoil yourself. <span class="spoiler">It was a ghost all along! 👻</span>
+My spoiler policy for books is haphazard at best, but occasionally I will tag for a particularly spoilery bit. If you see redacted text like the following, you can hover (or click on mobile) to spoil yourself. %%55%%It was a ghost all along! 👻%%
 
 ## A working philosophy 🍄
 
