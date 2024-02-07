@@ -23,6 +23,7 @@ shelves:
   - comfort-food
   - f-f
   - contemporary-fiction
+  - book-wifes
 date: 2024-01-19 13:38
 lastmod: 2024-01-19 13:38
 ---
@@ -30,7 +31,7 @@ This is the most strongly coded [[notes/autism|autistic]] protagonist I’ve rea
 
 > _I feel like I am operating my body like it’s a vehicle. I am conscious of when I blink, and of when I inhale._ 
 
-I’d worry it’s that thing where now that I have a hammer, everything looks like a nail. Except I just read *Iris Kelly Doesn’t Date*, where Stevie has anxiety… and it’s clearly anxiety. Or I recently reread *[[books/glitterland|Glitterland]]*, and Ash’s depression is clearly depression. This, on the other hand, is what autistic burnout feels like. I would give it to my therapist to illustrate the internal difference between the two.  
+I’d worry it’s that thing where now that I have a hammer, everything looks like a nail. Except I just read *[[books/iris kelly doesn't date|Iris Kelly Doesn’t Date]]*, where Stevie has anxiety… and it’s clearly anxiety. Or I recently reread *[[books/glitterland|Glitterland]]*, and Ash’s depression is clearly depression. This, on the other hand, is what autistic burnout feels like. I would give it to my therapist to illustrate the internal difference between the two.  
   
 So, death of the author and all that, that’s what spoke to me, whether or not Emily Austin intended it.  
   
