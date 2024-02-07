@@ -246,4 +246,18 @@
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
   <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
   <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+  <!-- spoiler script -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script>$(document).ready(function(){
+      $('.spoiler').attr('title', 'show spoiler').click(function() {
+        $(this).toggleClass('noSpoiler spoiler');
+        var title = 'hide spoiler' ;
+        if( $(this).hasClass('spoiler')){
+          title = 'show spoiler';
+        };
+        $(this).attr('title', title);
+      });
+    });
+  </script>
 </head>

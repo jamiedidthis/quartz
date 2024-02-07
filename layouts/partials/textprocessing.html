@@ -159,4 +159,11 @@
   {{$content = replace $content . $fixed}}
 {{end}}
 
+{{/* Make %%text%% into spoiler text */}}
+{{$mark := findRE "%%([^=\n]+)%%" $content}}
+{{range $mark}}
+  {{$fixed := printf "<span class='spoiler'>%s</span>" (replace . "%%" "")}}
+  {{$content = replace $content . $fixed}}
+{{end}}
+
 {{ $content | safeHTML }}
