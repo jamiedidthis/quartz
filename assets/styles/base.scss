@@ -829,15 +829,9 @@ mark {
 
 .spoiler:before {
 	position: static;
-	content: 'show spoiler';
-	color: var(--gray);
 	text-overflow: ellipsis;
 	overflow: hidden;
   display: inline-block;
-  min-width: 100px;
-  margin: 0 0 -10px 10px;
-  font-family: var(--font-mono);
-  font-size: .7em;
 }
 
 .spoiler:hover {
@@ -845,7 +839,7 @@ mark {
 }
 
 .noSpoiler {
-	background: var(--outlinegray);
+	background: var(--lightgray);
 }
 
 .noSpoiler:hover {
