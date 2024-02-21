@@ -9,7 +9,7 @@ publishDate: 2020-10-13
 series: 
 weight: 
 genres:
-  - graphic-novels
+  - graphic-novel-comic
   - young-adult
 shelves:
   - myths-and-folklore

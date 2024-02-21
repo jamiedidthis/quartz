@@ -10,6 +10,7 @@ series:
 weight: 
 genres:
   - fiction
+  - romance
 shelves:
   - f-f
   - baihe
@@ -23,7 +24,13 @@ shelves:
   - queerly-beloved
   - c-novel
   - geopolitical
-  - alt-history
+  - faux-history
+  - crafty-bastards
+  - cptsd
+  - trauma-therapy
+  - imperialism
+  - life-and-death
+  - spy-games
 date: 2024-02-01 16:20
 lastmod: 2024-02-01 16:20
 ---

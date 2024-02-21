@@ -12,7 +12,6 @@ genres:
 shelves:
   - cptsd
   - cover-love
-  - therapy
   - trauma-therapy
 date: 2024-01-02T15:15:00
 lastmod: 2024-01-02T15:15:00

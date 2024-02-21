@@ -27,7 +27,7 @@
                   </ul>
                   {{ $publish := .Params.publishDate }}
                   {{ range .Params.publishers }}
-                  <p>Published {{ $publish.Format "2006" }} by <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
+                  <p><span class="gray">Published {{ $publish.Format "2006" }} by</span> <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
                   {{ end }}
                 </div>
                   <ul class="tags">

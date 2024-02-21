@@ -7,6 +7,21 @@
   --font-mono: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", monospace;
 }
 
+//color bg
+@keyframes color {
+  0%   { background: var(--shade-0); }
+  20%  { background: var(--shade-20); }
+  40%  { background: var(--shade-40); }
+  60%  { background: var(--shade-60); }
+  80%  { background: var(--shade-80); }
+  100% { background: var(--shade-100); }
+}
+
+body {
+  background: var(--shade-0); /* Fallback */
+  animation: color 120s infinite linear alternate;
+}
+
 // typography
 html {
   scroll-behavior: smooth;
@@ -48,7 +63,7 @@ h1, h2, h3, h4, h5, h6, thead {
   padding: 2rem auto 1rem;
 
   &:hover > .hanchor {
-    color: var(--secondary);
+    color: var(--dark);
   }
 }
 
@@ -71,8 +86,8 @@ h3.allcaps {
 
 p, ul, text, a, tr, td, li, ol, ul {
   font-family: var(--font-body);
-  color: var(--gray);
-  fill: var(--gray);
+  color: var(--dark);
+  fill: var(--dark);
   font-weight: revert;
   margin: revert;
   padding: revert;
@@ -80,7 +95,7 @@ p, ul, text, a, tr, td, li, ol, ul {
 
 ul {
   & > li::marker {
-    color: var(--secondary);
+    color: var(--darkgray);
   }
 }
 
@@ -158,27 +173,30 @@ td, th {
 img {
   max-width: 100%;
   border-radius: 3px;
-  margin: 1em 0;
+  margin: 0.25em 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p > img + em {
   display: block;
-  transform: translateY(-1em);
+  // transform: translateY(-1em);
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: .75em;
 }
 
 .small, .epigraph { 
   font-family: var(--font-sans);
   font-size: 0.8em;
-  color: var(--gray);
+  color: var(--dark);
   opacity: 0.6;
 }
 
 .gray { 
-  color: var(--gray);
-  opacity: 0.6;
-  a:hover { 
-    color: var(--secondary) !important;
-  }
+  color: var(--dark);
+  opacity: 0.5;
 }
 
 .indextitle { 
@@ -193,7 +211,7 @@ sup {
 
 blockquote {
   margin: 2em 1em;
-  border-left: 4px solid var(--lightgray);
+  border-left: 2px solid var(--dark);
   padding-left: 1em;
 }
 
@@ -217,6 +235,7 @@ blockquote {
 
   .disabled {
     opacity: 0.2;
+    cursor: default;
   }
 
   & > li {
@@ -225,6 +244,9 @@ blockquote {
 
     & a {
       background-color: transparent !important;
+      font-family: var(--font-mono);
+      font-weight: 400;
+      font-size: .85em;
     }
 
     & a[href$="#"], &.active a {
@@ -249,7 +271,7 @@ article {
       font-weight: 600;
 
       &:hover { 
-        color: var(--secondary) !important;
+        color: var(--dark);
       }
     }
   }
@@ -275,21 +297,19 @@ article {
   }
 
   & a {
-    font-weight: 400;
+    font-weight: 600;
 
     &.internal-link {
-      color: var(--dark);
-      box-shadow: inset 0 -.08em var(--tertiary);
+      font-weight: 400;
+      box-shadow: inset 0 -.08em var(--dark);
       transition: all .15s ease-in;
-  
       &:hover {
-        color: var(--dark) !important;
         box-shadow: inset 0 -.175em var(--dark);
       }
-
       &.broken {
         opacity: 0.5;
       }
+
     }
   }
 
@@ -332,14 +352,17 @@ article {
     text-decoration: none;
     background-color: var(--lightgray);
     color: var(--dark);
+    box-shadow: none;
+    transition: all .25s ease-in;
     &::before {
       content: "#";
       margin-right: 0.2em;
-      color: #9b9b9b;
-      opacity: 0.65;
+      color: var(--dark);
+      opacity: 0.45;
     }
     &:hover { 
-      color: var(--secondary) !important;
+      background-color: var(--darkgray);
+      box-shadow: none !important;
     }
   }
 }
@@ -361,8 +384,8 @@ article {
 .backlinks a {
   font-weight: 400;
   text-decoration: none;
-  color: var(--gray);
-  box-shadow: inset 0 -.08em var(--tertiary);
+  color: var(--dark);
+  box-shadow: inset 0 -.08em var(--dark);
 	transition: all .15s ease-in;
   &:hover {
     box-shadow: inset 0 -.175em var(--dark);
@@ -401,7 +424,7 @@ article {
     color: var(--dark);
 
     &:hover { 
-      color: var(--secondary) !important;
+      color: var(--dark) !important;
     }
   }
 }
@@ -420,12 +443,12 @@ sup > a {
     font-family: var(--font-header);
     font-size: .65em;
     font-weight: 700;
-    color: var(--gray);
+    color: var(--dark);
     position: relative;
     top: -0.3em; 
 	  transition: all .2s ease-in;
     &:hover {
-      color: var(--secondary) !important;
+      color: var(--dark);
     }
   }
 }
@@ -434,10 +457,8 @@ a {
   font-size: 1em;
   font-weight: 700;
   text-decoration: none;
-  transition: all 0.3s ease;
-  color: var(--secondary);
   &:hover {
-    color: var(--dark) !important;
+    box-shadow: inset 0 -.175em var(--dark);
   }
 }
 
@@ -464,7 +485,7 @@ code {
 footer {
   margin: 4em 0;
   text-align: center;
-  border-top: 2px solid var(--outlinegray);
+  border-top: 2px solid var(--dark);
   & ul {
     padding-right: 0;
     float: right;
@@ -479,9 +500,7 @@ footer {
     font-family: var(--font-mono);
     font-weight: 400;
     color: var(--dark);
-    &:hover { 
-      color: var(--secondary) !important;
-    }
+    box-shadow: none;
   }
 }
 
@@ -498,13 +517,13 @@ footer {
     font-weight: 400;
     color: var(--dark);
     &:hover { 
-      color: var(--secondary) !important;
+      color: var(--dark);
     }
   }
 }
 
 hr {
-  border: 1px solid var(--outlinegray);
+  border: 1px solid var(--dark);
   margin: 2em 0;
 }
 
@@ -584,12 +603,16 @@ header {
     display: flex;
     align-items: center;
     cursor: pointer;
+    transition: all 0.5s ease;
     & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
       font-size: 0.7em;
       font-family: var(--font-mono);
       text-transform: lowercase;
+    }
+    &:hover {
+      background-color: var(--darkgray);
     }
   }
 
@@ -600,13 +623,14 @@ header {
     margin: 0 0.5em;
 
     &:hover .search-path {
-      stroke: var(--tertiary);
+      stroke: var(--dark);
     }
 
     .search-path {
-      stroke: var(--gray);
+      stroke: var(--dark);
       stroke-width: 2px;
       transition: stroke 0.5s ease;
+      opacity: .65;
     }
   }
 }
@@ -645,10 +669,9 @@ header {
       box-sizing: border-box;
       padding: 0.5em 1em;
       font-family: var(--font-body);
-      color: var(--dark);
+      color: var(--search-text);
       font-size: 1.1em;
       border: 1px solid var(--outlinegray);
-
       &:focus {
         outline: none;
       }
@@ -692,12 +715,14 @@ header {
         & > h3 {
           margin: 0;
           font-size: 1.4em;
+          color: var(--search-text);
         }
 
         & > p {
           margin: 0;
           font-size: 1.2em;
           line-height: 1.6em;
+          color: var(--search-text);
         }
       }
     }
@@ -706,7 +731,7 @@ header {
 
 .search-highlight {
   background-color: var(--highlighted);
-  color: var(--dark);
+  color: var(--search-text);
   padding: 0.05em 0.2em;
   border-radius: 3px;
 }
@@ -824,7 +849,8 @@ mark {
 .spoiler {
 	position: relative;
 	color: transparent;
-	background: var(--outlinegray);
+	background: var(--dark);
+  opacity: .2;
 }
 
 .spoiler:before {
@@ -853,6 +879,8 @@ mark {
 img.book-cover {
   max-width: 250px;
   border-radius: 12px;
+  opacity: .85;
+  margin: 0;
 }
 
 div.book-metadata {
@@ -864,7 +892,7 @@ div.book-metadata {
     line-height: 1.2em;
     padding: 0;
     margin: 0 0 0.5em 0;
-    color: rgb(155, 155, 155);
+    color: var(--gray);
   }
 
   h1 {
@@ -879,8 +907,8 @@ div.book-metadata {
     padding-top: 0;
     font-weight: 400;
     font-style: italic;
-    color: rgb(155, 155, 155);
-
+    color: var(--gray); 
+    opacity: .6;
     & > a {
       font-family: var(--font-body);
       font-weight: 400;
@@ -888,12 +916,15 @@ div.book-metadata {
   }
 
   a {
+    font-weight: 400;
     background-image: none;
     color: var(--dark);
     font-family: var(--font-mono);
-    
+    box-shadow: none;
+    transition: all 0.15s ease-in;
+    opacity: 1 !important;
     &:hover { 
-      color: var(--secondary) !important; 
+      box-shadow: inset 0 -.175em var(--dark);
     }
   }
 }
@@ -968,7 +999,8 @@ ul.authors li {
   line-height: 1.2em;
   margin: 5px 0 0 0;
   padding: 0;
-  color: rgb(155, 155, 155);
+  color: var(--gray);
+  opacity: .6;
 }
 
 #books p.sans {
@@ -990,15 +1022,18 @@ ul.authors li {
 #books ul li { 
   font-family: var(--font-mono);
   font-size: 0.75em;
-  color: rgb(155, 155, 155);
+  color: var(--gray);
   line-height: 1.2em;
+  opacity: .6;
 }
 
 #books a {
   font-family: inherit;
   color: inherit;
+  font-weight: 400;
+  transition: all .25s ease-in;
   &:hover {
-    color: var(--secondary) !important;
+    color: var(--dark);
   }
 }
 
@@ -1012,4 +1047,6 @@ div.book-image {
   height: 100%;
   object-fit: cover;
   border-radius: 7px;
+  opacity: .85;
+  margin: 0;
 }
