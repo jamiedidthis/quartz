@@ -8,11 +8,11 @@ I’m a freelance graphic designer, [[notes/vocateur|vocateur reader]], [[notes/
 
 ## Field guide 🌳
 
-Internal wiki-type links are [[notes/wiggles|underlined]], external links are [in color](https://theuselessweb.com/). You can browse by <a href="/tags" class="internal-link">tags</a> (for <a href="/notes" class="internal-link">notes</a>) or by <a href="/genres" class="internal-link">genres</a> and <a href="/shelves" class="internal-link">shelves</a> (for <a href="/books" class="internal-link">books</a>). Tags are different than genres or shelves—it’s the only way I could make the book sorting work—so it doesn’t hurt to look <a href="/tags/pleasure-and-play/" class="internal-link">both</a> <a href="/shelves/pleasure-and-play/" class="internal-link">places</a> for a topic.
+Internal wiki-type links are [[notes/wiggles|underlined]], external links are [bold text](https://theuselessweb.com/). You can browse by <a href="/tags" class="internal-link">tags</a> (for <a href="/notes" class="internal-link">notes</a>) or by <a href="/genres" class="internal-link">genres</a> and <a href="/shelves" class="internal-link">shelves</a> (for <a href="/books" class="internal-link">books</a>). Tags are different than genres or shelves—it’s the only way I could make the book sorting work—so it doesn’t hurt to look <a href="/tags/pleasure-and-play/" class="internal-link">both</a> <a href="/shelves/pleasure-and-play/" class="internal-link">places</a> for a topic.
 
 Books can also be sorted by <a href="/authors" class="internal-link">author</a>, <a href="/publishers" class="internal-link">publisher</a>, and <a href="/series" class="internal-link">series</a>.
 
-My spoiler policy for books is haphazard at best, but occasionally I will tag for a particularly spoilery bit. If you see redacted text like the following, you can hover (or click on mobile) to spoil yourself. %%55%%It was a ghost all along! 👻%%
+My spoiler policy for books is haphazard at best, but occasionally I will tag for a particularly spoilery bit. If you see redacted text like the following, you can click to spoil yourself. %%It was a ghost all along! 👻%%
 
 ## A working philosophy 🍄
 
@@ -24,6 +24,6 @@ My goal is that eventually, there won’t be a dead end, and each note and book 
 
 [Bear](https://bear.app/) gets all my raw thoughts, dumped in there like a junk drawer. [Obsidian](https://obsidian.md/) gets my edited, slightly-more-comprehensible notes. This site is built on [Quartz 3](https://github.com/jackyzha0/quartz/releases/tag/v3.3), which then takes the markdown notes from Obsidian and generates a  [Hugo](https://gohugo.io/)-based static site, hosted on [GitHub](https://github.com/jamiedidthis/quartz). 
 
-Huge thanks to Jacky Zhao for [Quartz](https://quartz.jzhao.xyz/)[^1], even though I customized the shit out of all the layouts and taxonomies. 😊
+Huge thanks to Jacky Zhao for [Quartz](https://quartz.jzhao.xyz/)[^1], even though I customized the heck out of all the layouts and taxonomies. 😊
 
 [^1]: [Quartz 4](https://quartz.jzhao.xyz/) is even more impressive, but I’m stuck with v3 for now due to how well Hugo suits my needs. 

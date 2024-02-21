@@ -223,6 +223,9 @@ blockquote {
   & a {
     font-family: var(--font-mono);
   }
+  & a.footnote-backref {
+    box-shadow: none;
+  }
 }
 
 .pagination {
@@ -298,6 +301,8 @@ article {
 
   & a {
     font-weight: 600;
+    box-shadow: inset 0 -.08em var(--dark);
+    transition: all .15s ease-in;
 
     &.internal-link {
       font-weight: 400;
@@ -435,6 +440,7 @@ sup > a {
   font-family: var(--font-mono);
   font-size: 0.85em;
   font-weight: 800;
+  box-shadow: none;
 }
 
 #page-title {
