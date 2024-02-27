@@ -21,10 +21,10 @@ shelves:
   - disability
   - life-and-death
   - medieval-times
-  - novella
   - f-f
   - arthurian
   - knights-warriors
+  - novellas
 date: 2024-01-28 12:25
 lastmod: 2024-01-28 12:25
 ---

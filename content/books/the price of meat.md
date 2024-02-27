@@ -19,8 +19,8 @@ shelves:
   - victorian
   - criminal-element
   - queerly-beloved
-  - novella
   - historical-romance
+  - novellas
 date: 2023-12-31T15:16:00
 lastmod: 2023-12-31T15:16:00
 ---

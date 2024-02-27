@@ -10,7 +10,7 @@
     <article>
       <div class="metadata">
         <div class="flex-container">
-          <img class="book-cover" src="{{ $.Site.BaseURL}}books/book-covers/{{ .Params.title | urlize | lower }}.jpg" alt="book cover for {{ .Params.title }}">
+          <img class="book-cover" src="{{ $.Site.BaseURL}}books/book-covers/{{if .Params.alttitle }}{{.Params.alttitle | urlize | lower }}{{else}}{{.Params.title | urlize | lower }}{{end}}.jpg" alt="book cover for {{ .Params.title }}">
             <div class="book-metadata">
               <h1>{{ .Title }}</h1>
               {{ with .Params.subtitle }}<h2>{{ . }}</h2>{{ end }}

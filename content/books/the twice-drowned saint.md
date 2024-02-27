@@ -16,12 +16,12 @@ shelves:
   - feats-of-dialect
   - angels-and-demons
   - geopolitical
-  - novella
   - middle-east
   - myths-and-folklore
   - spiritual-element
   - invented-language
   - paranormal-activity
+  - novellas
 date: 2024-02-07 13:40
 lastmod: 2024-02-07 13:40
 ---

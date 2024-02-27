@@ -20,7 +20,6 @@ shelves:
   - victorian
   - historical-romance
   - m-m
-  - ethical-non-monogamy
   - feats-of-dialect
   - queerly-beloved
   - gender-bender
@@ -33,6 +32,7 @@ shelves:
   - fanfic-positive
   - nonbinary
   - space-walk
+  - nonmonogamy
 date: 2024-01-29 21:11
 lastmod: 2024-01-29 21:11
 ---

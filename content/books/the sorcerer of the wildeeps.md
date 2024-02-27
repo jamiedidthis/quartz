@@ -25,10 +25,10 @@ shelves:
   - war-is-hell
   - myths-and-folklore
   - necromancing-the-bones
-  - novella
   - invented-language
   - brain-candy
   - paranormal-activity
+  - novellas
 date: 2024-01-08 14:10
 lastmod: 2024-01-08 14:10
 ---

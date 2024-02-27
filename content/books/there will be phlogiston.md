@@ -16,7 +16,6 @@ shelves:
   - steampunk
   - victorian
   - england
-  - ethical-non-monogamy
   - canonical-bisexuals
   - canon
   - alt-history
@@ -25,7 +24,8 @@ shelves:
   - london
   - wholesome-af
   - queerly-beloved
-  - novella
+  - novellas
+  - nonmonogamy
 date: 2024-01-29 21:24
 lastmod: 2024-01-29 21:24
 ---

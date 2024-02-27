@@ -4,7 +4,7 @@
             {{ $baseUrl := .Site.BaseURL }}
             <div class="book-image">
                 <a href="{{ .Permalink }}">
-                    <img src="{{ $baseUrl }}books/book-covers/{{ .Params.title | urlize | lower }}.jpg" alt="book cover for {{ .Params.title }}">
+                    <img src="{{ $baseUrl }}books/book-covers/{{if .Params.alttitle }}{{.Params.alttitle | urlize | lower }}{{else}}{{.Params.title | urlize | lower }}{{end}}.jpg" alt="book cover for {{ .Params.title }}">
                 </a>
             </div>
               <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>

@@ -18,7 +18,6 @@ shelves:
   - medieval-times
   - life-and-death
   - war-is-hell
-  - novella
   - m-f
   - fairytales
   - fae-folk
@@ -26,6 +25,7 @@ shelves:
   - knights-warriors
   - book-wifes
   - gods-and-monsters
+  - novellas
 date: 2024-01-29 16:08
 lastmod: 2024-01-29 16:08
 ---

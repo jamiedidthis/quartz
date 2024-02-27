@@ -22,8 +22,8 @@ shelves:
   - m-f
   - ace-spectrum
   - transgender
-  - novella
   - historical-romance
+  - novellas
 date: 2023-12-31T15:15:00
 lastmod: 2023-12-31T15:15:00
 ---

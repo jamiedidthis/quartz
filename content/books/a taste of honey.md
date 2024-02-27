@@ -18,7 +18,6 @@ shelves:
   - alien-contact
   - myths-and-folklore
   - m-m
-  - novella
   - aye-captain
   - queerly-beloved
   - africana
@@ -27,6 +26,7 @@ shelves:
   - gods-and-monsters
   - canonical-bisexuals
   - paranormal-activity
+  - novellas
 date: 2024-02-07 11:33
 lastmod: 2024-02-07 11:33
 ---

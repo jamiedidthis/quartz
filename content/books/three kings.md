@@ -22,11 +22,11 @@ shelves:
   - colombia
   - life-and-death
   - merry-happy-holiday
-  - novella
   - cover-love
   - aye-captain
   - myths-and-folklore
-  - ethical-non-monogamy
+  - novellas
+  - nonmonogamy
 date: 2024-01-26 15:10
 lastmod: 2024-01-26 15:10
 ---

@@ -20,8 +20,8 @@ shelves:
   - queerly-beloved
   - england
   - sex-games
-  - novella
   - historical-romance
+  - novellas
 date: 2023-12-30T22:35:00
 lastmod: 2023-12-30T22:35:00
 ---
