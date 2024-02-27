@@ -8,6 +8,7 @@ publishers:
 publishDate: 2023-02-28
 series:
   - Amina al-Sirafi
+order: 1
 weight: 1
 genres:
   - fiction

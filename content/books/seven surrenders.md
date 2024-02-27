@@ -8,6 +8,7 @@ publishers:
 publishDate: 2017-03-07
 series:
   - Terra Ignota
+order: "2"
 weight: 2
 genres:
   - fiction

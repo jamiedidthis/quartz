@@ -8,6 +8,7 @@ publishers:
 publishDate: "1998"
 series:
   - Earthseed
+order: "2"
 weight: 2
 genres:
   - fiction

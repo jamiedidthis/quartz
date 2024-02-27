@@ -8,6 +8,7 @@ publishers:
 publishDate: 1975-07-01
 series:
   - Hainish Cycle
+order: "6"
 weight: 6
 genres:
   - fiction

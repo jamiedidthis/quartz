@@ -8,6 +8,7 @@ publishers:
 publishDate: 2023-03-07
 series:
   - Doomsday Books
+order: 1
 weight: 1
 genres:
   - fiction

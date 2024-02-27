@@ -8,6 +8,7 @@ publishers:
 publishDate: 2015-09-01
 series:
   - The Sorcerer of the Wildeeps
+order: "1"
 weight: 1
 genres:
   - fiction

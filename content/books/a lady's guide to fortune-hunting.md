@@ -8,6 +8,7 @@ publishers:
 publishDate: 2022-07-12
 series:
   - A Lady’s Guide
+order: "1"
 weight: 1
 genres:
   - fiction

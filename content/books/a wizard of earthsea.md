@@ -8,6 +8,7 @@ publishers:
 publishDate: "2012"
 series:
   - Earthsea Cycle
+order: "1"
 weight: 1
 genres:
   - fiction

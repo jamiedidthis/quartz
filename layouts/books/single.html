@@ -14,7 +14,7 @@
             <div class="book-metadata">
               <h1>{{ .Title }}</h1>
               {{ with .Params.subtitle }}<h2>{{ . }}</h2>{{ end }}
-              {{ $order := .Params.weight }}
+              {{ $order := .Params.order }}
                 {{ range .Params.series }}
                 <h2>
                   <a href="{{ $.Site.BaseURL}}series/{{ . | urlize | lower }}">{{ . }}</a> 

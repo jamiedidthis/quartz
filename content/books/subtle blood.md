@@ -8,6 +8,7 @@ publishers:
 publishDate: 2021-06-19
 series:
   - Will Darling Adventures
+order: 3
 weight: 3
 genres:
   - fiction

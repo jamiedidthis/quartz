@@ -8,6 +8,7 @@ publishers:
 publishDate: 2019-09-10
 series:
   - The Locked Tomb
+order: "1"
 weight: 1
 genres:
   - fiction

@@ -8,6 +8,7 @@ publishers:
 publishDate: 2023-01-17
 series:
   - Spires
+order: "1"
 weight: 1
 genres:
   - fiction

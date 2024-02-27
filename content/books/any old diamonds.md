@@ -8,7 +8,8 @@ publishers:
 publishDate: 2019-01-30
 series:
   - Lilywhite Boys
-weight: 1
+order: "1"
+weight: 2
 genres:
   - fiction
   - romance

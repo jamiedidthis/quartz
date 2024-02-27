@@ -8,6 +8,7 @@ publishers:
 publishDate: "2018"
 series:
   - Prosperityverse
+order: "5"
 weight: 3
 genres:
   - fiction

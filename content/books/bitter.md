@@ -8,6 +8,7 @@ publishers:
 publishDate: 2022-02-15
 series:
   - Pet
+order: "2"
 weight: 2
 genres:
   - fiction

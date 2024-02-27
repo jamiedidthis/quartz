@@ -8,6 +8,7 @@ publishers:
 publishDate: 2000-07-01
 series:
   - Hainish Cycle
+order: "4"
 weight: 4
 genres:
   - fiction

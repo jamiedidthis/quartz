@@ -7,6 +7,7 @@ publishers:
   - "{{publisher}}"
 publishDate: "{{publishDate}}"
 series: 
+order: 
 weight: 
 genres:
   - "{{category}}"

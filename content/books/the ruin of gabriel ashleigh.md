@@ -8,7 +8,8 @@ publishers:
 publishDate: 2015-10-27
 series:
   - Society of Gentlemen
-weight: 0.5
+order: 0.5
+weight: 1
 genres:
   - fiction
   - romance

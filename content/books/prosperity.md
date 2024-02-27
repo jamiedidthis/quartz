@@ -8,6 +8,7 @@ publishers:
 publishDate: 2014-10-27
 series:
   - Prosperityverse
+order: "1"
 weight: 1
 genres:
   - fiction
