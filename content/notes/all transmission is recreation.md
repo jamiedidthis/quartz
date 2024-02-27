@@ -2,7 +2,7 @@
 title: All transmission is recreation
 tags:
   - fanfic
-  - creative-process
+  - creative-practice
 date: 2024-01-28 12:50
 lastmod: 2024-01-28 12:50
 ---

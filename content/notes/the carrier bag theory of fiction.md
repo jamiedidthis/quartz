@@ -2,7 +2,7 @@
 title: The Carrier Bag Theory of Fiction
 tags:
   - storytelling
-  - creative-process
+  - creative-practice
 date: 2024-01-15T15:01:00
 lastmod: 2024-01-15T15:01:00
 ---

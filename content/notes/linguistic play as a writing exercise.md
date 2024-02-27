@@ -2,8 +2,8 @@
 title: Linguistic play as a writing exercise
 tags:
   - language
-  - creative-process
   - pleasure-and-play
+  - creative-practice
 date: 2024-01-15T12:08:00
 lastmod: 2024-01-15T12:08:00
 ---

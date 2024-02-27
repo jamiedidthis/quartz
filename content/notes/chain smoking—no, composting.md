@@ -1,7 +1,7 @@
 ---
 title: Chain smoking—no, composting
 tags:
-  - creative-process
+  - creative-practice
 date: 2023-08-07T14:15:00
 lastmod: 2023-08-07T14:15:00
 ---
