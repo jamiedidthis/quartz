@@ -21,6 +21,8 @@ shelves:
   - novellas
   - feats-of-dialect
   - comfort-food
+  - queerly-beloved
+  - disability
 date: 2024-02-27 15:48
 lastmod: 2024-02-27 15:48
 ---
