@@ -28,7 +28,7 @@ shelves:
   - life-and-death
   - cover-love
   - spy-games
-  - ghosts-and-ghouls
+  - ghosts-and-spirits
 date: 2024-02-27 21:49
 lastmod: 2024-02-27 21:49
 ---

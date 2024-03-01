@@ -22,7 +22,7 @@ shelves:
   - haunted-house
   - gothic
   - gods-and-monsters
-  - ghosts-and-ghouls
+  - ghosts-and-spirits
 date: 2024-02-27 21:57
 lastmod: 2024-02-27 21:57
 ---

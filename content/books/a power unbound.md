@@ -29,7 +29,7 @@ shelves:
   - fae-folk
   - historical-romance
   - imperialism
-  - ghosts-and-ghouls
+  - ghosts-and-spirits
 date: 2024-02-27 21:51
 lastmod: 2024-02-27 21:51
 ---
