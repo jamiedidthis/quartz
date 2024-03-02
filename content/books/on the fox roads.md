@@ -25,6 +25,9 @@ shelves:
   - myths-and-folklore
   - criminal-element
   - road-trip
+  - canonical-bisexuals
+  - americana
+  - hi
 date: 2024-03-01 15:23
 lastmod: 2024-03-01 15:23
 ---
