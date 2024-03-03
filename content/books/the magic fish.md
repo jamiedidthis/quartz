@@ -17,6 +17,7 @@ shelves:
   - queerly-beloved
   - comfort-food
   - life-and-death
+  - asia
 date: 2024-01-31 15:58
 lastmod: 2024-01-31 15:58
 ---

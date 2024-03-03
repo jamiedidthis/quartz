@@ -16,6 +16,7 @@ shelves:
   - translation
   - china
   - spiritual-element
+  - asia
 date: 2024-02-27 13:36
 lastmod: 2024-02-27 13:36
 ---

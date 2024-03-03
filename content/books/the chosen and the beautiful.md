@@ -24,6 +24,7 @@ shelves:
   - immigrant-experience
   - activism-and-resistence
   - myths-and-folklore
+  - asia
 date: 2024-01-02 23:15
 lastmod: 2024-01-02 23:15
 ---

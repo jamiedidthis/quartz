@@ -21,7 +21,7 @@ shelves:
   - imperialism
   - queerly-beloved
   - alt-history
-  - china
+  - asia
 date: 2024-03-01 18:02
 lastmod: 2024-03-01 18:02
 ---

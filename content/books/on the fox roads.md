@@ -28,6 +28,7 @@ shelves:
   - canonical-bisexuals
   - americana
   - hi
+  - asia
 date: 2024-03-01 15:23
 lastmod: 2024-03-01 15:23
 ---

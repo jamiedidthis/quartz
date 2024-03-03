@@ -36,6 +36,7 @@ shelves:
   - japan
   - mars
   - hopepunk
+  - asia
 date: 2024-01-02 16:11
 lastmod: 2024-01-02 16:11
 ---

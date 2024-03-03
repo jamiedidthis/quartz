@@ -17,6 +17,7 @@ shelves:
   - china
   - spiritual-element
   - canon
+  - asia
 date: 2024-01-02 23:13
 lastmod: 2024-01-02 23:13
 ---

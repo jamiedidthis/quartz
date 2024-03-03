@@ -24,6 +24,7 @@ shelves:
   - magical-realism
   - angels-and-demons
   - fae-folk
+  - asia
 date: 2024-03-01 22:16
 lastmod: 2024-03-01 22:16
 ---
