@@ -23,6 +23,10 @@ shelves:
   - myths-and-folklore
   - war-is-hell
   - asia
+  - imperialism
+  - activism-and-resistence
+  - m-m
 date: 2024-03-03 15:40
 lastmod: 2024-03-03 15:40
 ---
+Note from my future self: this makes an excellent prequel, I should have started with [[books/the red threads of fortune|book 2]]!
