@@ -1,0 +1,3 @@
+---
+title: Seven Seas Entertainment
+---

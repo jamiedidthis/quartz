@@ -27,9 +27,9 @@ shelves:
   - road-trip
   - canonical-bisexuals
   - americana
-  - hi
   - asia
+  - historical-fiction
 date: 2024-03-01 15:23
 lastmod: 2024-03-01 15:23
 ---
-Nghi Vo can write queer Jazz Age fanfic for me all day any day. (Also excellent: the Venn diagram of her Chinese and Vietnamese characters, the overlapping similarities and the differences.)
+Nghi Vo can write [[books/the chosen and the beautiful|queer Jazz Age fanfic]] for me all day any day. (Also excellent: the Venn diagram of her Chinese and Vietnamese characters, the overlapping similarities and the differences.)

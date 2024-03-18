@@ -4,7 +4,7 @@ tags:
   - activism
   - language
 date: 2024-01-08T14:47:00
-lastmod: 2024-01-08T14:47:00
+lastmod: 2024-03-17T14:47:00
 ---
 In *[[books/the right to maim|The Right to Maim]]*, [[authors/jasbir puar|Jasbir Puar]] uses the concept of “debility”—bodily injury and social exclusion brought on by economic and political factors—to disrupt the category of disability and the neoliberal concept of disability justice.
 
@@ -18,5 +18,16 @@ It’s back to that same concept of [[notes/worthy victims|worthy victims]] and 
 
 > When repression is globalized, our solidarity must be, too.
 
-[^1]: Jesse Meadows, [What Does Disability Justice Mean in Palestine?](https://sluggish.substack.com/p/what-does-disability-justice-mean) 
+---
+
+Currently, we’re seeing the same thing happen in the US with COVID and the subsequent debilitating experience of Long COVID. In response to NPR platforming a woman who sees her disabled husband’s new social limitations as an irritation he is personally inflicting on her, rather than an institutional problem being inflicted on all of us, Julia Doubleday calls out the injustice for what it is. [She writes](https://www.thegauntlet.news/p/disabled-peoples-exclusion-from-indoor):
+
+> This article is not merely an upsetting look at an individual’s victim-blaming mindset about her husband’s indefinite exclusion from public spaces. It is a piece of propaganda intended to further the perception that demands for COVID mitigation are unreasonable complaints, rather than critical activism for basic public health infrastructure.
+
+It’s the same denial of civil rights, blaming the victim instead of urging awareness and action.
+
+> It is a classically neoliberal world view, one that places the onus of the difficult situation on the *individual* over the collective, that blames the sufferer rather than investigating the underlying root causes of the suffering. “My husband can’t dine indoors because every restaurant is currently violating the ADA” is not a piece NPR will ever publish; it is, however, both a more accurate summation of the problem, as well as one that invites action rather than acceptance.[^3]
+
+[^1]: https://sluggish.substack.com/p/what-does-disability-justice-mean
 [^2]: ibid
+[^3]: https://www.thegauntlet.news/p/disabled-peoples-exclusion-from-indoor
