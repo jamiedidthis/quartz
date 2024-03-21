@@ -427,10 +427,13 @@ article {
     text-decoration: none;
     background-color: var(--lightgray);
     color: var(--dark);
+    box-shadow: none;
+    transition: all .25s ease-in;
 
-    &:hover { 
-      color: var(--dark) !important;
-    }
+      &:hover { 
+        background-color: var(--darkgray);
+        box-shadow: none !important;
+      }
   }
 }
 
@@ -1050,7 +1053,7 @@ ul.authors li {
 
 div.book-image {
   height: 225px;
-  margin: 0 0 30px 0;
+  margin: 0 0 15px 0;
 }
 
 #books img {
