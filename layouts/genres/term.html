@@ -12,9 +12,7 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-        {{with .Content}}
-            <p>{{.}}</p>
-        {{end}}
+        {{partial "textprocessing.html" . }}
         {{partial "page-list-published.html" .Paginator.Pages.ByTitle }}
         {{ template "_internal/pagination.html" . }}
     </article>
