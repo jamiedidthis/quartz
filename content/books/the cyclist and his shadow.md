@@ -20,7 +20,7 @@ shelves:
 date: 2024-01-02 23:40
 lastmod: 2024-01-02 23:40
 ---
-I like how right away, in the forward, Thomazeau François is pitting this book against _The Rider_ as the seminal classic of cycling literature. I arched a skeptical eyebrow, and… was in total agreement by like, chapter 3.  
+I like how right away, in the forward, Thomazeau François is pitting this book against *[[books/the rider|The Rider]]* as the seminal classic of cycling literature. I arched a skeptical eyebrow, and… was in total agreement by like, chapter 3.  
   
 Brilliant. Insane. Philosophical. Spiritual. Erotic. I read it during the nearly-hallucinatory six hours of Milan—San Remo and feel like bits of it have embedded in my brain like gravel, because I think of it every time I watch a race.  
   

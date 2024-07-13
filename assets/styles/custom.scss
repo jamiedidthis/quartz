@@ -8,7 +8,7 @@
   --visited: #cbc3c3;
   --primary: #d33a56;
   --gray: #rgba(0, 0, 0, 0.2);
-  --lightgray: rgba(255, 255, 255, 0.5);
+  --lightgray: rgba(234, 234, 234, 0.5);
   --darkgray: rgba(255, 255, 255, 0.9);
   --outlinegray: #dadada;
   --search-text: #333333;
@@ -25,19 +25,19 @@
 
 [saved-theme="dark"] {
   --light: #1e2125 !important;
-  --dark: #000000 !important;
+  --dark: #b9b9b9 !important;
   --secondary: #4bb48f !important;
   --visited: #8d7180 !important;
   --tertiary: #275b49 !important;
   --primary: #f58382 !important;
   --gray: rgba(0, 0, 0, 0.75) !important;
-  --lightgray: rgba(0, 0, 0, 0.085) !important;
+  --lightgray: rgba(149, 149, 149, 0.09) !important;
   --darkgray: rgba(0, 0, 0, 0.2) !important;
   --outlinegray: #575a5f !important;
   --search-text: #cccccc !important;
   --highlighted: rgba(138, 245, 204, 0.251) !important;
 
-  --shade-0: #a6a6a6;
+  --shade-0: #555555;
   --shade-20: #1b7d4f;
   --shade-40: #518fa6;
   --shade-60: #72567b;

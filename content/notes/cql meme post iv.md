@@ -79,13 +79,13 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 ![[images/cql-meme-35-8.jpg]]
 ![[images/cql-meme-35-9.jpg]]
 ![[images/cql-meme-35-10.jpg]]
+![[images/cql-meme-35-13.jpg]]
 ![[images/cql-meme-35-11.jpg]]
 ![[images/cql-meme-35-12.jpg]]
 
 ---
 
 # Episode 36
-
 ![[images/cql-meme-36-1.jpg]]
 ![[images/cql-meme-36-2.jpg]]
 ![[images/cql-meme-36-10.jpg]]
@@ -147,6 +147,7 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 ![[images/cql-meme-40-3.jpg]]
 ![[images/cql-meme-40-4.jpg]]
 ![[images/cql-meme-40-5.jpg]]*LWJ rolling up to Lanling like*
+![[images/cql-meme-40-11.jpg]]
 
 ![[images/cql-meme-40-6.jpg]]
 ![[images/cql-meme-40-7.jpg]]
