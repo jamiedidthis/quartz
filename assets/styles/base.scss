@@ -1,13 +1,14 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&family=Ysabeau+Office:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
-  --font-body: 'Source Serif 4', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
-  --font-header: 'Source Serif 4', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
+  --font-body: 'Ysabeau Office', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
+  --font-header: 'Ysabeau Office', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
   --font-sans: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
   --font-mono: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", monospace;
 }
 
 //color bg
+
 @keyframes color {
   0%   { background: var(--shade-0); }
   20%  { background: var(--shade-20); }
@@ -19,13 +20,14 @@
 
 body {
   background: var(--shade-0); /* Fallback */
-  animation: color 120s infinite linear alternate;
+  animation: color 20s infinite linear alternate;
 }
+
 
 // typography
 html {
   scroll-behavior: smooth;
-  font-size: 16px;
+  font-size: 18px;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
       direction: rtl;
@@ -191,7 +193,7 @@ p > img + em {
 
 .small, .epigraph { 
   font-family: var(--font-sans);
-  font-size: 0.8em;
+  font-size: 0.6em;
   color: var(--dark);
   opacity: 0.6;
 }
@@ -220,7 +222,7 @@ blockquote {
 .footnotes p {
   margin: 0.3em 0;
   font-family: var(--font-mono);
-  font-size: 0.8em;
+  font-size: 0.6em;
   line-height: 1.5em;
   & a {
     font-family: var(--font-mono);
@@ -308,7 +310,7 @@ article {
 
     &.internal-link {
       font-weight: 400;
-      box-shadow: inset 0 -.08em var(--dark);
+      box-shadow: inset 0 -.08em var(--outlinegray);
       transition: all .15s ease-in;
       &:hover {
         box-shadow: inset 0 -.175em var(--dark);
@@ -615,12 +617,19 @@ header {
     align-items: center;
     cursor: pointer;
     transition: all 0.5s ease;
+      @media (max-width: 600px) {
+        background-color: transparent;
+      }
     & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
       font-size: 0.75em;
       font-family: var(--font-mono);
       text-transform: lowercase;
+
+        @media (max-width: 600px) {
+         display: none;
+        }
     }
     &:hover {
       background-color: var(--darkgray);
@@ -641,19 +650,7 @@ header {
       stroke: var(--dark);
       stroke-width: 2px;
       transition: stroke 0.5s ease;
-      opacity: .65;
     }
-  }
-}
-
-.darkmode svg {
-  fill: var(--dark) !important;
-  opacity: .65;
-}
-
-@media (max-width: 450px) {
-  .darkmode {
-    padding: 0 0 0 .4em !important;
   }
 }
 
@@ -762,6 +759,17 @@ header {
   border-radius: 3px;
 }
 
+.darkmode svg {
+  fill: var(--dark) !important;
+  opacity: .65;
+}
+
+@media (max-width: 450px) {
+  .darkmode {
+    padding: 0 0 0 .4em !important;
+  }
+}
+
 .section-ul {
   list-style: none;
   margin-top: 2em;
@@ -792,7 +800,7 @@ header {
   & .meta {
     opacity: 0.6;
     font-family: var(--font-mono);
-    font-size: 0.8em;
+    font-size: 0.6em;
   }
 }
 
@@ -847,8 +855,8 @@ header {
   & .meta {
     margin-top: 0.25rem;
     opacity: 0.5;
-    font-family: var(--font-mono);
-    font-size: 0.8rem;
+    font-family: var(--font-body);
+    font-size: 0.6rem;
   }
 
   & > p {
@@ -1048,7 +1056,7 @@ ul.authors li {
 
 #books ul li { 
   font-family: var(--font-mono);
-  font-size: 0.85em;
+  font-size: 0.8em;
   color: var(--dark);
   line-height: 1.2em;
   opacity: .6;
@@ -1091,8 +1099,7 @@ div.book-image {
  * prefixes.
  */
 
-#menuToggle
-{
+#menuToggle {
  display: block;
  position: relative;
  top: 0px;
@@ -1105,22 +1112,20 @@ div.book-image {
       user-select: none;
 }
 
-#menuToggle a
-{
+#menuToggle a {
  text-decoration: none;
- color: #232323;
+ color: var(--dark);
  
  transition: color 0.3s ease;
 }
 
-#menuToggle a:hover
-{
+#menuToggle a:hover {
  color: tomato;
+ box-shadow: none;
 }
 
 
-#menuToggle input
-{
+#menuToggle input {
  display: block;
  width: 40px;
  height: 32px;
@@ -1139,8 +1144,7 @@ div.book-image {
 /*
 * Just a quick hamburger
 */
-#menuToggle span
-{
+#menuToggle span {
  display: block;
  width: 20px;
  height: 2px;
@@ -1159,13 +1163,11 @@ div.book-image {
              opacity 0.55s ease;
 }
 
-#menuToggle span:first-child
-{
+#menuToggle span:first-child {
  transform-origin: 0% 0%;
 }
 
-#menuToggle span:nth-last-child(2)
-{
+#menuToggle span:nth-last-child(2) {
  transform-origin: 0% 100%;
 }
 
@@ -1173,8 +1175,7 @@ div.book-image {
 * Transform all the slices of hamburger
 * into a crossmark.
 */
-#menuToggle input:checked ~ span
-{
+#menuToggle input:checked ~ span {
  opacity: 1;
  transform: rotate(45deg) translate(1px, 3px);
  background: var(--dark);
@@ -1183,8 +1184,7 @@ div.book-image {
 /*
 * But let's hide the middle one.
 */
-#menuToggle input:checked ~ span:nth-last-child(3)
-{
+#menuToggle input:checked ~ span:nth-last-child(3) {
  opacity: 0;
  transform: rotate(0deg) scale(0.2, 0.2);
 }
@@ -1192,8 +1192,7 @@ div.book-image {
 /*
 * Ohyeah and the last one should go the other direction
 */
-#menuToggle input:checked ~ span:nth-last-child(2)
-{
+#menuToggle input:checked ~ span:nth-last-child(2) {
  transform: rotate(-45deg) translate(0, -1px);
 }
 
@@ -1201,34 +1200,38 @@ div.book-image {
 * Make this absolute positioned
 * at the top left of the screen
 */
-#menu
-{
+#menu {
  box-sizing: border-box;
  position: fixed;
  top: 0;
- width: 300px;
+ width: 420px;
  height: 100%;
- padding: 50px;
+ padding: 60px;
  padding-top: 125px;
  margin:0;
- background: var(--darkgray);
+ background: var(--light);
  list-style-type: none;
  -webkit-font-smoothing: antialiased;
- left: -300px;
+ left: -420px;
  transition: 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 
-#menu li
-{
- padding: 10px 0;
- font-size: 22px;
+#menu li {
+ padding: 10px 0 5px;
+ font-size: 1.25em;
 }
 
+ul ul {
+  padding: 0 0 5px 15px !important;
+  & > li {
+    
+    padding: 0 0 5px 0 !important;
+  }
+}
 /*
 * And let's slide it in from the left
 */
-#menuToggle input:checked ~ ul
-{
+#menuToggle input:checked ~ ul {
  transition: 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
  left: 0;
 }

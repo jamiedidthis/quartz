@@ -28,11 +28,18 @@
     but hey, it's pure CSS magic.
     -->
     <ul id="menu">
-      <a href="#"><li>Home</li></a>
-      <a href="#"><li>About</li></a>
-      <a href="#"><li>Info</li></a>
-      <a href="#"><li>Contact</li></a>
-      <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+      <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
+      <li><a href="{{ $.Site.BaseURL}}notes/">Notes</a></li>
+      <li><a href="{{ $.Site.BaseURL}}books/">Books</a></li>
+        <ul>
+          <li><a href="{{ $.Site.BaseURL}}genres/">Genres</a></li>
+          <li><a href="{{ $.Site.BaseURL}}shelves/">Shelves</a></li>
+          <li><a href="{{ $.Site.BaseURL}}authors/">Authors</a></li>
+          <li><a href="{{ $.Site.BaseURL}}series/">Series</a></li>
+          <li><a href="{{ $.Site.BaseURL}}publishers/">Publishers</a></li>
+        </ul>
+      <li><a href="{{ $.Site.BaseURL}}tags/">Tags</a></li>
+      <li><a href="{{ $.Site.BaseURL}}info/">Info</a></li>
     </ul>
   </div>
 </nav>
