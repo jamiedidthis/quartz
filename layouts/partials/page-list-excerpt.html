@@ -1,0 +1,27 @@
+<ul class="section-ul">
+    {{- range . -}}
+
+        <article>
+            <h1><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>
+            <p class="meta">
+                {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
+            </p>
+            <ul class="tags">
+                {{ range first 5 (.GetTerms "tags") }}
+                <li><a href="{{ .Permalink }}" class="internal-link">{{ .LinkTitle }}</a></li>
+                {{ end }}
+            </ul>
+            <div style="clear: both;"></div>
+            
+            {{ partial "summary.html" . }}
+    
+      {{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <div>
+        <p><a href="{{ .RelPermalink }}">Read More…</a></p>
+      </div>
+      {{ end }}
+        </article>
+
+    {{- end -}}
+</ul>

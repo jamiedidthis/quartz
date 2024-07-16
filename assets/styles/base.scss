@@ -43,6 +43,7 @@ html {
   padding: 2em 5vw;
   margin: 0 auto;
   max-width: 700px;
+  min-height: 100%;
   background: var(--light);
   @media all and (max-width: 1200px) {
     padding: 25px 8vw;
@@ -1041,7 +1042,6 @@ ul.authors li {
   line-height: 1.2em;
   margin: 5px 0 0 0;
   padding: 0;
-  color: var(--gray);
   opacity: .6;
 }
 

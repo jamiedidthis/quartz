@@ -1,0 +1,12 @@
+<div class="content-list">
+    <!--
+    You can also configure this to find related pages!
+    All you need to pass into the "page-list.html" partial
+    is a collection of pages.
+    https://gohugo.io/content-management/related/
+    -->
+    {{$notes := where $.Site.RegularPages.ByLastmod.Reverse "Section" "notes" }}
+    {{partial "page-list-excerpt.html" (first 5 $notes) }}
+  </div>
+  
+  
