@@ -7,12 +7,12 @@
                     <img src="{{ $baseUrl }}books/book-covers/{{if .Params.alttitle }}{{.Params.alttitle | urlize | lower }}{{else}}{{.Params.title | urlize | lower }}{{end}}.jpg" alt="book cover for {{ .Params.title }}">
                 </a>
             </div>
-              <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>
+              <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}" class="internal-link">{{- .Title -}}</a></h1>
               
               {{ $order := .Params.order }}
                 {{ range .Params.series }}
                 <p>
-                  <a href="{{ $baseUrl }}series/{{ . | urlize | lower }}">{{ . }}</a> 
+                  <a href="{{ $baseUrl }}series/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a> 
                   &num;{{ $order }}
                 </p>
                 {{ end }}

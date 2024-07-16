@@ -6,14 +6,18 @@
     <footer>
         {{ $name := $data.name | default $.Site.Data.config.name }}
         {{ $year := dateFormat "2006" now }}
-        <p class="gray">{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} <a href="https://jamieharris.co">jlh</a></p>
-        <ul>
-            {{ if not .IsHome }}
-            <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" | lower }}</a></li>
-            {{end}}
-            <li><a href="{{ $.Site.BaseURL}}notes/">notes</a></li>
-            <li><a href="{{ $.Site.BaseURL}}books/">books</a></li>
-            <li><a href="{{ $.Site.BaseURL}}info/">info</a></li>
-        </ul>
+
+        <div class="links-wrapper">
+            <ul>
+                {{ if not .IsHome }}
+                <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
+                {{end}}
+                <li><a href="{{ $.Site.BaseURL}}notes/">Notes</a></li>
+                <li><a href="{{ $.Site.BaseURL}}books/">Books</a></li>
+                <li><a href="{{ $.Site.BaseURL}}tags/">Tags</a></li>
+                <li><a href="{{ $.Site.BaseURL}}info/">Info</a></li>
+            </ul>
+            <p class="gray">Powered by <a href="https://quartz.jzhao.xyz/">Quartz</a>, made with &#9825; &nbsp;//&nbsp; {{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} <a href="https://jamieharris.co">Jamie Harris</a></p>
+        </div>
     </footer>
 </div>

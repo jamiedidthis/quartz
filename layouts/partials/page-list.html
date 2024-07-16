@@ -8,7 +8,7 @@
             <div class="spacer"></div>
             <ul class="tags">
                 {{ range first 2 (.GetTerms "tags") }}
-                <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                <li><a href="{{ .Permalink }}" class="internal-link">{{ .LinkTitle }}</a></li>
                 {{ end }}
             </ul>
         </div>

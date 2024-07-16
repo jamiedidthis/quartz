@@ -1,10 +1,10 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&family=Ysabeau+Office:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap');
 :root {
   --font-body: 'Ysabeau Office', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
   --font-header: 'Ysabeau Office', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", georgia, serif;
-  --font-sans: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
-  --font-mono: 'Cousine', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", monospace;
+  --font-sans: 'Reddit Mono', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+  --font-mono: 'Reddit Mono', "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", monospace;
 }
 
 //color bg
@@ -62,7 +62,7 @@ body {
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
-  font-weight: 600;
+  font-weight: 700;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 
@@ -84,7 +84,7 @@ h3.allcaps {
   font-family: var(--font-header);
   font-weight: 400;
   transition: color 0.5s ease;
-  color: transparent;
+  color: var(--outlinegray);
   padding-left: 5px;
 }
 
@@ -92,14 +92,15 @@ p, ul, text, a, tr, td, li, ol, ul {
   font-family: var(--font-body);
   color: var(--dark);
   fill: var(--dark);
-  font-weight: revert;
+  font-weight: 500;
   margin: revert;
   padding: revert;
 }
 
 ul {
   & > li::marker {
-    color: var(--outlinegray);
+    color: var(--medgray);
+    opacity: .6;
   }
 }
 
@@ -108,7 +109,7 @@ ol {
     font-family: var(--font-mono);
     font-size: 0.8em;
     font-weight: 600;
-    color: var(--outlinegray);
+    color: var(--medgray);
   }
 }
 
@@ -228,6 +229,10 @@ blockquote {
   }
 }
 
+.footnotes ol { 
+  padding: 1.5em;
+}
+
 .pagination {
   list-style: none;
   padding-left: 0;
@@ -248,8 +253,9 @@ blockquote {
     & a {
       background-color: transparent !important;
       font-family: var(--font-mono);
-      font-weight: 400;
       font-size: .85em;
+      box-shadow: none;
+      font-weight: 400;
     }
 
     & a[href$="#"], &.active a {
@@ -271,7 +277,6 @@ article {
 
     a {
       color: var(--dark);
-      font-weight: 600;
       box-shadow: none;
 
       &:hover { 
@@ -301,12 +306,12 @@ article {
   }
 
   & a {
-    font-weight: 600;
+    font-weight: 750;
     box-shadow: inset 0 -.08em var(--outlinegray);
     transition: all .15s ease-in;
 
     &.internal-link {
-      font-weight: 400;
+      font-weight: 500;
       box-shadow: inset 0 -.08em var(--outlinegray);
       transition: all .15s ease-in;
       &:hover {
@@ -388,7 +393,7 @@ article {
 }
 
 .backlinks a {
-  font-weight: 400;
+  font-weight: inherit;
   text-decoration: none;
   color: var(--dark);
   box-shadow: inset 0 -.08em var(--outlinegray);
@@ -493,25 +498,27 @@ code {
 }
 
 footer {
-  margin: 4em 0;
-  text-align: center;
+  margin: 4em 0 1em;
+  padding: 1.5em 0 0 0;
   border-top: 2px solid var(--outlinegray);
   & ul {
-    padding-right: 0;
-    float: right;
-    margin: 12px 0;
+    padding: 0;
   }
   & p {
-    font-family: var(--font-mono);
-    font-size: 0.75em;
-    float: left;
+    font-size: 0.8em;
+    margin: 0;
   }
   & a { 
-    font-family: var(--font-mono);
     font-weight: 400;
     color: var(--dark);
     box-shadow: none;
   }
+}
+
+footer .links-wrapper { 
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 #contact_buttons ul {
@@ -522,9 +529,9 @@ footer {
   }
 
   li a {
-    margin: 0 0 0 2em;
-    font-size: 0.75em;
-    font-weight: 400;
+    margin: 0 1em;
+    font-size: 1em;
+    font-weight: 700;
     color: var(--dark);
     &:hover { 
       color: var(--dark);
@@ -915,20 +922,21 @@ img.book-cover {
 }
 
 div.book-metadata {
-  margin: 0 0 1.5em 0;
+  margin: 1.5em 0 1.5em 0;
 
-  p {
+  p, li {
     font-family: var(--font-mono);
-    font-size: 0.9em;
-    line-height: 1.2em;
+    font-size: 0.75em;
+    font-weight: 400;
+    line-height: 1.6em;
     padding: 0;
-    margin: 0 0 0.5em 0;
+    margin: 0;
     color: var(--gray);
   }
 
   h1 {
     font-style: italic;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 2em;
     line-height: 1.2em;
     padding-top: .5em;
@@ -937,21 +945,21 @@ div.book-metadata {
   h2 {
     margin: 0.2em 0;
     padding-top: 0;
-    font-weight: 400;
+    font-weight: 450;
     font-style: italic;
     opacity: .6;
     & > a {
       font-family: var(--font-body);
-      font-weight: 400;
+      font-weight: 450;
       box-shadow: none;
     }
   }
 
   a {
-    font-weight: 400;
     background-image: none;
     color: var(--dark);
     font-family: var(--font-mono);
+    font-weight: 400;
     box-shadow: none;
     transition: all 0.15s ease-in;
     opacity: 1 !important;
@@ -962,13 +970,16 @@ div.book-metadata {
 }
 
 div.author-publisher {
-  font-size: 0.8em;
   margin: 0;
   line-height: 1em;
 }
 
 ul.tags { 
   margin: 0.2em 0 0;
+  & > li {
+    margin: 0 0.5em 0 0;
+    font-size: .7em;
+  }
 }
 
 ul.authors { 
@@ -986,7 +997,6 @@ ul.authors li {
   width: auto;
   list-style: none;
   font-family: var(--font-mono);
-  font-size: 0.9em;
   display: inline;
 }
 
@@ -1019,7 +1029,7 @@ ul.authors li {
 
 #books {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 148px);  
+  grid-template-columns: repeat(auto-fill, 144px);  
   grid-gap: 2rem;
   justify-content: left;
   margin-top: 1.5em;
@@ -1045,6 +1055,9 @@ ul.authors li {
   font-style: italic;
   line-height: 1.2em;
   margin: 0 0 5px 0;
+  & > a {
+    font-weight: 500;
+  }
 }
 
 #books ul { 
@@ -1053,9 +1066,9 @@ ul.authors li {
 
 #books ul li { 
   font-family: var(--font-mono);
-  font-size: 0.8em;
+  font-size: 0.7em;
   color: var(--dark);
-  line-height: 1.2em;
+  line-height: 1em;
   opacity: .6;
 }
 
@@ -1201,7 +1214,7 @@ div.book-image {
  box-sizing: border-box;
  position: fixed;
  top: 0;
- width: 420px;
+ width: 260px;
  height: 100%;
  padding: 60px;
  padding-top: 125px;
@@ -1209,8 +1222,12 @@ div.book-image {
  background: var(--light);
  list-style-type: none;
  -webkit-font-smoothing: antialiased;
- left: -420px;
+ left: -300px;
  transition: 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+ 
+  @media all and (max-width: 1250px) {
+    box-shadow: 2px 0px 18px 0px rgba(0, 0, 0, 0.2);
+  } 
 }
 
 #menu li {

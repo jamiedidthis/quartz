@@ -17,17 +17,17 @@
               {{ $order := .Params.order }}
                 {{ range .Params.series }}
                 <h2>
-                  <a href="{{ $.Site.BaseURL}}series/{{ . | urlize | lower }}">{{ . }}</a> 
+                  <a href="{{ $.Site.BaseURL}}series/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a> 
                   &num;{{ $order }}
                 </h2>
                 {{ end }}
                 <div class="author-publisher" style="margin-bottom: 1em;">
                   <ul class="authors">
-                    {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | urlize | lower }}">{{ . }}</a></li>{{ end }}
+                    {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a></li>{{ end }}
                   </ul>
                   {{ $publish := .Params.publishDate }}
                   {{ range .Params.publishers }}
-                  <p><span class="gray">Published {{ $publish.Format "2006" }} by</span> <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}">{{ . }}</a></p>
+                  <p><span class="gray">Published {{ $publish.Format "2006" }} by</span> <a href="{{ $.Site.BaseURL}}publishers/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a></p>
                   {{ end }}
                 </div>
                   <ul class="tags">
