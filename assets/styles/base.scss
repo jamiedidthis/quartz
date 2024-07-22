@@ -314,7 +314,7 @@ article {
 
   & a {
     font-weight: 750;
-    
+    text-decoration-color: var(--outlinegray);
     transition: all .15s ease-in;
     &.internal-link {
       font-weight: 500;
@@ -1027,7 +1027,7 @@ ul.authors li {
 
 #books {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 140px);  
+  grid-template-columns: repeat(auto-fill, 136px);  
   grid-gap: 2rem;
   justify-content: left;
   margin-top: 1.5em;
