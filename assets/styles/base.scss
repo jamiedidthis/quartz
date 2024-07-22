@@ -314,7 +314,7 @@ article {
 
   & a {
     font-weight: 750;
-    text-decoration: 2px underline var(--outlinegray);
+    
     transition: all .15s ease-in;
     &.internal-link {
       font-weight: 500;
@@ -497,7 +497,7 @@ code {
 footer {
   margin: 4em 0 1em;
   padding: 1.5em 0 0 0;
-  height: 100px;
+  height: 120px;
   border-top: 2px solid var(--outlinegray);
   & ul {
     padding: 0;
@@ -529,7 +529,7 @@ footer .links-wrapper {
   }
 
   li a {
-    margin: 0 1em;
+    margin: 0 .5em;
     font-size: 1em;
     font-weight: 700;
     color: var(--dark);
@@ -968,7 +968,7 @@ div.book-metadata {
 }
 
 div.author-publisher {
-  margin: 0.8em 0 0 0;
+  margin: 0;
   line-height: 1em;
 }
 
@@ -1027,7 +1027,7 @@ ul.authors li {
 
 #books {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 144px);  
+  grid-template-columns: repeat(auto-fill, 140px);  
   grid-gap: 2rem;
   justify-content: left;
   margin-top: 1.5em;

@@ -21,7 +21,7 @@
                   &num;{{ $order }}
                 </h2>
                 {{ end }}
-                <div class="author-publisher" style="margin-bottom: 1em;">
+                <div class="author-publisher" style="margin: 0.8em 0 1em 0;">
                   <ul class="authors">
                     {{ range .Params.authors }}<li class="authors"><a href="{{ $.Site.BaseURL}}authors/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a></li>{{ end }}
                   </ul>
