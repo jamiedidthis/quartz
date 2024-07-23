@@ -3,7 +3,7 @@
 :root {
   --light: #ffffff;
   --dark: #333333;
-  --secondary: #4bb48f;
+  --secondary: #f18686;
   --tertiary: #73c8aa;
   --visited: #cbc3c3;
   --primary: #d33a56;
@@ -11,6 +11,7 @@
   --lightgray: rgba(234, 234, 234, 0.5);
   --medgray: rgba(44, 44, 44, 0.5);
   --darkgray: rgba(255, 255, 255, 0.9);
+  --gray-text: #a7a7a7;
   --outlinegray: #dadada;
   --search-text: #333333;
   --menu-bg: #eaeaea;
@@ -28,7 +29,7 @@
 [saved-theme="dark"] {
   --light: #1e2125 !important;
   --dark: #b9b9b9 !important;
-  --secondary: #4bb48f !important;
+  --secondary: #e16d8e !important;
   --visited: #8d7180 !important;
   --tertiary: #275b49 !important;
   --primary: #f58382 !important;
@@ -36,6 +37,7 @@
   --lightgray: rgba(149, 149, 149, 0.09) !important;
   --medgray: rgba(44, 44, 44, 0.5) !important;
   --darkgray: rgba(0, 0, 0, 0.2) !important;
+  --gray-text: #757980 !important;
   --outlinegray: #575a5f !important;
   --search-text: #cccccc !important;
   --menu-bg: #2a2e34;

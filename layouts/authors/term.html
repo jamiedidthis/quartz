@@ -13,7 +13,7 @@
             <p>{{.}}</p>
         {{end}}
         {{with .Content}}
-            {{ partial "textprocessing.html" . }}
+            <p>{{.}}</p>
         {{end}}
         {{partial "page-list-books.html" .Paginator.Pages.ByPublishDate.Reverse}}
         {{ template "_internal/pagination.html" . }}

@@ -315,10 +315,15 @@ article {
   & a {
     font-weight: 750;
     text-decoration-color: var(--outlinegray);
-    transition: all .15s ease-in;
+    text-decoration-thickness: 2px;
+    transition: all .2s ease-in;
+    &:hover {
+      color: var(--secondary);
+      text-decoration-color: var(--secondary);
+    }
     &.internal-link {
       font-weight: 500;
-      transition: all .15s ease-in;
+      transition: all .2s ease-in;
       &:hover {
         color: var(--secondary);
         text-decoration-color: var(--secondary);
@@ -1027,7 +1032,7 @@ ul.authors li {
 
 #books {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 144px);  
+  grid-template-columns: repeat(auto-fill, 148px);  
   grid-gap: 2rem;
   justify-content: left;
   margin-top: 1.5em;
@@ -1067,9 +1072,8 @@ ul.authors li {
 #books ul li { 
   font-family: var(--font-mono);
   font-size: 0.7em;
-  color: var(--dark);
+  color: var(--gray-text);
   line-height: 1em;
-  opacity: .6;
 }
 
 #books a {
@@ -1320,4 +1324,47 @@ html, body {
   to {
     transform: translateY(-2000px);
   }
+}
+
+/// arrow link icon
+.icon-wrap {
+  white-space: nowrap;
+  transition: transform .15s ease;
+  overflow: hidden;
+  height: 22px;
+  display: inline-block;
+  color: var(--gray-text);
+}
+
+.icon {
+  width: 1.8rem;
+  margin-left: .5rem;
+}
+
+.icon-arrow {
+  width: 1.5rem;
+}
+
+p .icon-arrow,
+.p .icon-arrow {
+  width: 1rem;
+  height: 20px;
+  margin-top: 7px;
+}
+
+
+h2 .icon-arrow,
+.h2 .icon-arrow {
+  width: 1.2rem;
+}
+
+/* arrow animation */
+.animate-arrow .icon-arrow path {
+  transform: translateX(-0.25rem);
+  transition: transform .15s ease;
+}
+
+.animate-arrow:hover .icon-arrow path {
+  transform: translateX(-0.05rem);
+  color: var(--secondary);
 }
