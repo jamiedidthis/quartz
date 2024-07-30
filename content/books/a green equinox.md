@@ -18,7 +18,6 @@ shelves:
   - england
   - cover-love
   - pandemic-times
-  - 1970s
   - gothic
 date: 2024-07-18 00:02
 lastmod: 2024-07-18 00:02

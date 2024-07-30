@@ -1,0 +1,3 @@
+---
+title: Jessica Kingsley Publishers
+---

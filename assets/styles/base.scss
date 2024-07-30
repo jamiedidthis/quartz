@@ -69,10 +69,6 @@ h1, h2, h3, h4, h5, h6, thead {
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 
-  & a {
-    text-decoration: none;
-  }
-
   &:hover > .hanchor {
     color: var(--dark);
   }
@@ -272,7 +268,6 @@ blockquote {
 }
 
 article {
-  padding-bottom: 1em;
   
   & > h1 {
     margin: 2em 0 0 0;
@@ -322,7 +317,7 @@ article {
       text-decoration-color: var(--secondary);
     }
     &.internal-link {
-      font-weight: 500;
+      font-weight: inherit;
       transition: all .2s ease-in;
       &:hover {
         color: var(--secondary);
@@ -473,6 +468,7 @@ sup > a {
     position: relative;
     top: -0.3em; 
 	  transition: all .2s ease-in;
+    text-decoration: none;
     &:hover {
       color: var(--dark);
     }
