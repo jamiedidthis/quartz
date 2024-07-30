@@ -1,3 +1,4 @@
+<hr>
 <div class="content-list">
   <h2 id="recent_notes"><a href="{{ $.Site.BaseURL}}notes/" class="animate-arrow">{{ i18n "recent_notes" }}<span class="icon-wrap"><svg
     viewBox="0 0 14 10"
@@ -17,5 +18,6 @@
   -->
   {{$notes := where $.Site.RegularPages.ByLastmod.Reverse "Section" "notes"}}
   {{partial "page-list.html" (first 5 $notes)}}
+
 </div>
 

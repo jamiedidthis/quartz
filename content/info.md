@@ -4,6 +4,12 @@ tags: []
 date: 2024-01-23T16:29:00
 lastmod: 2024-01-23T16:30:00
 ---
+Hi! I’m [[info|Jamie]], and this is part scratchpad, part library, part second brain, a repository of whatever I’m reading or learning at the moment, evolving as I do.
+
+I think in [[notes/bottom-up processing|nonlinear fashion]], so the content is more of [[notes/rhizomatic thinking|a web of connections]] than a chronological blog. Choose your own adventure—there’s no wrong place to start.
+
+## About me 👀
+
 I’m a freelance graphic designer, [[notes/vocateur|vocateur reader]], [[notes/amateur|amateur]] writer, artist, and book collector living in rural NC. The <a href="/books" class="internal-link">book collection</a> here is actually highly incomplete, find me on [Goodreads](https://www.goodreads.com/jamieharris) for the more extensive (yet still not exhaustive) list. I also occasionally appear on [Instagram](https://instagram.com/jamiedidthis) when I’m not in hibernation.
 
 ## Field guide 🌳

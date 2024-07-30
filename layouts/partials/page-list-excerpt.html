@@ -2,16 +2,7 @@
     {{- range . -}}
 
         <article>
-            <h1><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h1>
-            <p class="meta">
-                {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
-            </p>
-            <ul class="tags">
-                {{ range first 5 (.GetTerms "tags") }}
-                <li><a href="{{ .Permalink }}" class="internal-link">{{ .LinkTitle }}</a></li>
-                {{ end }}
-            </ul>
-            <div style="clear: both;"></div>
+            <h2 style="padding-bottom: 0.5em;"><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h2>
             
             {{ partial "summary.html" . }}
     
