@@ -19,7 +19,6 @@ shelves:
   - war-is-hell
   - spy-games
   - england
-  - jewish
   - life-and-death
   - m-m
   - crafty-bastards
@@ -27,6 +26,7 @@ shelves:
   - kinky-books
   - pulp-fiction
   - historical-romance
+  - judaism
 date: 2024-01-02T16:30:00
 lastmod: 2024-01-02T16:30:00
 ---

@@ -15,10 +15,10 @@ genres:
 shelves:
   - losing-my-religion
   - jesus-etc
-  - jewish
   - greece
   - geopolitical
   - myths-and-folklore
+  - judaism
 date: 2024-01-15 15:02
 lastmod: 2024-01-15 15:02
 ---

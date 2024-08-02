@@ -29,6 +29,7 @@ shelves:
   - sex-work
   - cover-love
   - life-and-death
+  - collage-novels
 date: 2024-07-30 12:49
 lastmod: 2024-07-30 12:49
 ---

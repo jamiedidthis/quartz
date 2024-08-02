@@ -14,7 +14,7 @@ genres:
 shelves:
   - palestine
   - jesus-etc
-  - jewish
+  - judaism
 date: 2024-01-02 14:54
 lastmod: 2024-01-02 14:54
 ---
