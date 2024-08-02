@@ -13,6 +13,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 
 ![[images/cql-meme-11-1.jpg]]
 ![[images/cql-meme-11-2.jpg]]
+![[images/cql-meme-11-8.jpg]]
 ![[images/cql-meme-11-3.jpg]]
 ![[images/cql-meme-11-4.jpg]]
 ![[images/cql-meme-11-5.jpg]]
@@ -26,6 +27,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 ![[images/cql-meme-12-7.jpg]]
 ![[images/cql-meme-12-2.jpg]]
 ![[images/cql-meme-12-3.jpg]]
+![[images/cql-meme-12-9.jpg]]
 ![[images/cql-meme-12-4.jpg]]
 ![[images/cql-meme-12-6.jpg]]
 
@@ -67,6 +69,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 ![[images/cql-meme-16-1.jpg]]
 ![[images/cql-meme-16-2.jpg]]
 ![[images/cql-meme-16-3.jpg]]
+![[images/cql-meme-16-5.jpg]]
 ![[images/cql-meme-16-4.jpg]]
 
 ---
@@ -75,6 +78,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 ![[images/cql-meme-17-1.jpg]]
 ![[images/cql-meme-17-2.jpg]]
 ![[images/cql-meme-17-3.jpg]]
+![[images/cql-meme-17-5.jpg]]
 ![[images/cql-meme-17-4.jpg]]
 
 ---

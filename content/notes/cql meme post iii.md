@@ -85,6 +85,7 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 
 ![[images/cql-meme-26-1.jpg]]
 ![[images/cql-meme-26-2.jpg]]
+![[images/cql-meme-26-13.jpg]]
 ![[images/cql-meme-26-4.jpg]]
 ![[images/cql-meme-26-12.jpg]]
 ![[images/cql-meme-26-5.jpg]]
@@ -139,6 +140,7 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 ![[images/cql-meme-29-8.jpg]]
 ![[images/cql-meme-29-9.jpg]]
 ![[images/cql-meme-29-10.jpg]]
+![[images/cql-meme-29-12.jpg]]
 ![[images/cql-meme-29-11.jpg]]
 
 ---

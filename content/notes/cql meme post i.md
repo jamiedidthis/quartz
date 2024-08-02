@@ -22,7 +22,7 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 
 ![[images/cql-meme-1-1.jpg]]
 ![[images/cql-meme-1-2.jpg]]
-![[images/cql-meme-1-3.jpg|400]] *bahahahaha*
+![[images/cql-meme-1-3.jpg|400]]*bahahahahaha* 
 ![[images/cql-meme-1-4.jpg]]
 ![[images/cql-meme-1-5.jpg]]
 ![[images/cql-meme-1-6.jpg]]
@@ -54,6 +54,9 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 ![[images/cql-meme-3-2.jpg]]
 ![[images/cql-meme-3-3.jpg]]
 ![[images/cql-meme-3-6.jpg]]
+![[images/cql-meme-3-10.jpg]]
+![[images/cql-meme-3-8.jpg]]
+![[images/cql-meme-3-7.jpg]]
 ![[images/cql-meme-3-4.jpg]]
 ![[images/cql-meme-3-5.jpg]]
 
@@ -73,6 +76,7 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 
 # Episode 5
 
+![[images/cql-meme-5-10.jpg]]
 ![[images/cql-meme-5-1.jpg]]
 ![[images/cql-meme-5-2.jpg]]
 ![[images/cql-meme-5-3.jpg]]
@@ -87,6 +91,7 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 
 # Episode 6
 
+![[images/cql-meme-6-7.jpg]]
 ![[images/cql-meme-6-1.jpg]]
 ![[images/cql-meme-6-2.jpg]]
 ![[images/cql-meme-6-3.jpg]]
@@ -98,6 +103,7 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 
 # Episode 7
 
+![[images/cql-meme-7-7.jpg]]
 ![[images/cql-meme-7-1.jpg]]
 ![[images/cql-meme-7-2.jpg]]
 ![[images/cql-meme-7-3.jpg]]
@@ -126,6 +132,7 @@ Episode recap of *The Untamed*, via memes and shitposts only.[^1] 100% accurate 
 ![[images/cql-meme-9-1.jpg]]
 ![[images/cql-meme-9-2.jpg]]
 ![[images/cql-meme-9-3.jpg]]
+![[images/cql-meme-9-7.jpg]]
 ![[images/cql-meme-9-4.jpg]]
 ![[images/cql-meme-9-5.jpg]]
 ![[images/cql-meme-9-6.jpg]]

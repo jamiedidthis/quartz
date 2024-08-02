@@ -48,10 +48,11 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 ![[images/cql-meme-43-1.jpg]]
 ![[images/cql-meme-43-2.jpg]]
 ![[images/cql-meme-43-9.jpg]]
+![[images/cql-meme-43-6.jpg]]
 ![[images/cql-meme-43-3.jpg]]
 ![[images/cql-meme-43-4.jpg]]
 ![[images/cql-meme-43-5.jpg]]
-![[images/cql-meme-43-6.jpg]]
+![[images/cql-meme-43-10.jpg]]
 ![[images/cql-meme-43-7.jpg]]
 ![[images/cql-meme-43-8.jpg]]
 

@@ -88,8 +88,12 @@ h3.allcaps {
   font-weight: 400;
   transition: color 0.5s ease;
   color: var(--outlinegray);
+  text-decoration: none;
   padding-left: 5px;
   cursor: pointer;
+}
+a.hanchor-text {
+  text-decoration: none;
 }
 
 p, ul, text, a, tr, td, li, ol, ul {
@@ -194,6 +198,7 @@ p > img + em {
   text-align: center;
   font-family: var(--font-mono);
   font-size: .75em;
+  opacity: .5;
 }
 
 .small, .epigraph { 
@@ -328,7 +333,6 @@ article {
       &.broken {
         opacity: 0.5;
       }
-
     }
   }
 

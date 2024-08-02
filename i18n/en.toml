@@ -62,4 +62,4 @@ other = "Search for something..."
 other = "Table of Contents"
 
 [copyright]
-other = "©{{ .year }}"
+other = "©2023–{{ .year }}"

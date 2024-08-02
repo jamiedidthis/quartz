@@ -13,6 +13,7 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 # Episode 31
 
 ![[images/cql-meme-31-1.jpg]]
+![[images/cql-meme-31-8.jpg]]
 ![[images/cql-meme-31-2.jpg]]
 ![[images/cql-meme-31-3.jpg]]
 ![[images/cql-meme-31-4.jpg]]
@@ -47,7 +48,8 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 ![[images/cql-meme-33-8.jpg]]
 ![[images/cql-meme-33-9.jpg]]
 ![[images/cql-meme-33-10.jpg]]
-![[images/cql-meme-33-11.jpg]] *seriously tho, if white = mourning clothes, doesn’t that make LWJ the ultimate goth??*
+![[images/cql-meme-33-11.jpg]]*seriously tho, if white = mourning clothes, doesn’t that make LWJ the ultimate goth??*
+![[images/cql-meme-33-7b.jpg]]
 
 ---
 
@@ -89,6 +91,7 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 ![[images/cql-meme-36-1.jpg]]
 ![[images/cql-meme-36-2.jpg]]
 ![[images/cql-meme-36-10.jpg]]
+![[images/cql-meme-36-12.jpg|500]]
 ![[images/cql-meme-36-3.jpg]]
 ![[images/cql-meme-36-4.jpg]]
 ![[images/cql-meme-36-5.jpg]]
@@ -154,6 +157,7 @@ Episodes 31–40, FLASHBACK ENDS! Major Character Deaths (plural) → Major Char
 ![[images/cql-meme-40-8.jpg]]
 ![[images/cql-meme-40-9.jpg]]
 ![[images/cql-meme-40-10.jpg]]
+![[images/cql-meme-40-12.jpg]]
 
 ---
 

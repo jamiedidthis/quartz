@@ -116,7 +116,7 @@
 {{end}}
 
 {{/* Add jumpable anchors */}}
-{{ $content = $content | replaceRE "(<h[1-9] id=\"([^\"]+)\">)(.+)(</h[1-9]>)" `<a href="#${2}">${1}${3}<span class="hanchor" ariaLabel="Anchor"> &#9901;</span>${4}</a>` }}
+{{ $content = $content | replaceRE "(<h[1-9] id=\"([^\"]+)\">)(.+)(</h[1-9]>)" `<a href="#${2}" class="hanchor-text">${1}${3}<span class="hanchor" ariaLabel="Anchor"> &#9901;</span>${4}</a>` }}
 
 {{/* Callouts */}}
 {{if $.Site.Data.config.enableCallouts}}
