@@ -955,11 +955,12 @@ div.book-metadata {
     padding-top: 0;
     font-weight: 450;
     font-style: italic;
-    opacity: .6;
+    color: var(--medgray);
     & > a {
       font-family: var(--font-body);
       font-weight: 450;
       box-shadow: none;
+      color: var(--medgray);
     }
   }
 
