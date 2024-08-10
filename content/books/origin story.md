@@ -29,6 +29,7 @@ shelves:
   - judaism
   - jesus-etc
   - collage-novels
+  - arc
 date: 2024-08-02 12:00
 lastmod: 2024-08-02 12:00
 ---
@@ -39,3 +40,5 @@ But oh yes—the story. Peter, a social worker in 1990’s NYC, comes of age in 
 One thorny part is that various people on page ascribe Peter’s kinkiness to the childhood incest, much like homosexuality would have been ascribed to that a generation before. That’s pretty faithful to the characters and the time period, especially with the specter of AIDS and unsafe sex, but while in every other way I appreciated the 1990’s verisimilitude of it all—not 1990’s through the lens and vocabulary of 2024—I still yearned for a little glimpse of authorial pushback on that assumption. Thankfully though, it’s indicated near the end that it’s not really Peter “healing” from his kink so much as it is Julian meeting him halfway and embracing his own kinkiness, safely. There’s also a *smidge* of Zionism, which feels true to the Ashkenazi Jewish character(s) it comes from, but sticks out painfully with the current genocide in Palestine.
 
 All in all, a complex book of messy characters that was worth the read. Well done, Jendi Reiter.
+
+*ARC kindly provided by the publisher via NetGalley in exchange for an honest review.*

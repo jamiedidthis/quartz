@@ -14,7 +14,6 @@ genres:
   - literary
 shelves:
   - queerly-beloved
-  - big-friendship
   - contemporary-fiction
   - historical-fiction
   - queer-history
@@ -30,6 +29,7 @@ shelves:
   - cover-love
   - life-and-death
   - collage-novels
+  - autofiction
 date: 2024-07-30 12:49
 lastmod: 2024-07-30 12:49
 ---

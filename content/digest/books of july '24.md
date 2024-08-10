@@ -1,0 +1,64 @@
+---
+title: Books of July ’24
+tags: 
+date: 2024-08-09 22:22
+lastmod: 2024-08-09 22:22
+---
+July was a hellacious month, both work-wise and heat-wise, but I finished a (lucky number) 13 books. ARCs aplenty, plus some anticipated new releases, plus clearing out the TBR means I mostly read books published in the last 24 months. Gasp! I’m gonna need some dusty, mothballed books soon.
+
+---
+#### *[[books/yellowface|Yellowface]]* — R.F. Kuang (2023)
+After witnessing the accidental death of her frenemy Athena Liu, failed author June Hayward refashions herself as Juniper Song and steals Athena’s posthumous masterpiece to pass it off as her own. Cue white woman tears, as she’s victimized and vilified by the consequences of her own egregious actions. It’s compulsively readable, as dishy as a Buzzfeed scoop, a horror-thriller of The Discourse™ and the chronically online. True to RF Kuang form, though, it repeatedly goes after the lowest hanging fruit in frustrating fashion, and, not unlike *Babel*, seemingly condemns the status quo while actually reinforcing it. (Do not drink a shot every time you read the word Yale.) There are times where there’s not enough framing to tell what is the author’s voice or the narrator’s, which is crucial in satire. Once she discovers the intersectionality of race *and* class, watch out. RFK will be a force to be reckoned with. Right now, she’s almost there, just missing an elephant in the room. 
+
+---
+#### *[[books/a woman is no man|A Woman is No Man]]* — Etaf Rum (2019)
+We need more books by Palestinian and Arab authors. I intend to read more by Etaf Rum. But it pains me to say… I think this could have been a (powerful) short story. The structure and even dialogue is very repetitive, in a way that I’m sure is meant to illustrate the cyclical and generational cycle of abuse, but instead means you could skim chapters and not miss anything. The dialogue is simultaneously wooden and histrionic, and the mystery of Deya’s parents is clear from the start. More complexity, a tighter edit, and this would shine.
+
+---
+#### *[[books/origin story|Origin Story]]* — Jendi Reiter (2024)
+Peter, a social worker in 1990’s NYC, comes of age in his late 20’s, dealing with childhood abuse while navigating a relationship with his boyfriend Julian, who’s escaping family demons of his own, widowed by the loss of his first love to HIV. Collaborating with Tai (/Tyler), a kickass genderfluid teen, Peter starts to write his way back through his memories, exorcising the most painful parts of his past in comic book form. There’s a whole chorus of characters who all get a voice: an HIV-positive teacher who’s trying to adopt a child with his husband; a Christian bodybuilder/political bodyman who’s the “successful” product of conversion therapy; a model-turned-mystical-guru of the self-help set; Peter’s marvelous and plain-speaking half-sister Prue… and on and on. Steeped in nerd culture, and a celebration of queer culture in the midst of the AIDS apocalypse, there’s more joy and kink and friendship and healing than the heavier description of trauma would imply. (Longer review [[books/origin story|here]].)
+
+All in all, a complex book of messy characters that was worth the read. Well done, Jendi Reiter. 
+- - -
+#### *[[books/emma of 83rd street|Emma of 83rd Street]]* — Audrey Bellezza and Emily Harding (2023)
+*Emma* is my favorite Austen, and arguably the most difficult to modernize without losing the spirit of the story. I don’t envy any author who attempts it, but this one lost me in the weeds, with pacing that seems twice the length of Austen with half the page count. It goes the predictable contemporary romance route, dual POVs that reduce Knightley and Emma to a horny executive and a snobbish socialite. Gone is the communal voice, the class friction, the tapestry of complex characters with rich inner lives of their own, propelled by the roles society forces them to inhabit, who can’t be reduced to stereotypes like “country bumpkin” or “sleazy misogynist.” Instead of trenchant social commentary, we get fashion designers namedropped like glitter and the LA offices of Knightley Capital (!!). That shifts the dynamics of the story beyond recognition. (And I’m sorry, but greenwashing the investments of your [horny] venture capitalist, or taking a few swipes at nepotism does not a social commentary make.)
+
+It’s the phenomenon that bothers me most in modern retellings, where what was subversive and fairly radical in Austen’s day is now old fashioned, so the point is missed entirely, and flattened into a generic HEA and token girlboss feminism, if not an outright regressive worldview. The Austen window dressing without the spirit, wit, or politics. (It works better if you say it’s a *Clueless* adaptation, but it still lacks the idealism of that one too, and the charm.)
+
+- - -
+#### *[[books/our history is the future|Our History is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance]]* — Nick Estes (2019) 
+An excellent re-issue of a book that's been on my to-read list since it first published in 2019. I'm glad it finally prompted me to get to it. It’s the history of two centuries of indigenous activism in the context of even broader indigenous exploitation and resistance, and it needs to be more widely known. The introduction alone, how water is kin, how rivers are sovereign beings who should be protected in their own right, not just for the way it affects our human health, should be read loudly and often.
+
+---
+#### *[[books/the second safest mountain|The Second Safest Mountain]]* — Otava Heikkilä (2023)
+What even is Otava Heikkilä’s brain? There are nuns and orgies and authoritarian patriarchal tentacle gods, and it maps completely onto the experience of being outcast in our world, for simply being true to yourself. As with *[[books/shattered spear|Shattered Spear]]*, the images are more powerful than words. There are two pages I kept flipping between: Aru thrown off the mountain, then surrounded by the rest of the broken, unfit exiles, arriving to carry them home.
+
+---
+#### *[[books/hanami|Hanami: You, Me, & 200 Sq Ft in Japan]]* — Julia Cejas (2024)
+The art is beautiful! The story is *stressful*. I have known various people in my life where, let’s just say their enthusiasm for an idea exceeds their preparation for the reality of it. I’ve suffered the consequences of this (when it’s a parent), tried to mitigate the damage (when it’s a sibling), or offered consolation in the aftermath (when it’s a friend). This triggered some memories that I don’t care to ever revisit. In lovely comic form! But still. 
+- - -
+#### *[[books/the duke at hazard|The Duke at Hazard]]* — KJ Charles (2024)
+I have a few auto-buy (auto-preorder) authors, but KJ Charles is the only one where I drop everything to start reading the day a new book comes out. Here, that impatience is rewarded with a tender, slow-blooming romance-on-the-run between Daizell, a disgraced non-scoundrel scoundrel (he’s paying for the sins of his father), and Cassian, aka The Duke, aka Vernon Fortescue Cassian George de Vere Crosse, the fourth Duke of Severn, the Earl of Harmsford, Baron Crosse of Wotton, and Baron Vere, who’s incognito for a month to hunt down a thief and win a wager (he’s burdened with the premature inheritance of his father’s title). If you’re sensing a theme, then yes. KJC is as genius at plots as she is with names, and there’s a brilliant echo and contrast with both men, who they’re believed to be vs. who they are vs. who they wish to become, and the shadow their respective fathers cast across it all. She’s also the type of writer who can shamelessly open chapter six with the line, “There was only one bed,” but then wring the most profound emotional truths out of that tropey confection. 
+
+I loved every character (Martin! Eliza!), I loved the kink (somnophilia! the gorgeous consent and negotiation thereof!), I loved the cameos at the end ([[books/the gentle art of fortune hunting|Hart! Robin! Lady Wintour!]]). And now I have to live with the fact that a novel *with a duke* is going to crack my top 5 KJC rankings. How dare she. What’s more, I read the ebook, as the paperback doesn’t publish in the U.S. until October. Which I’ve already preordered, so I can repeat the lovely experience of it arriving again. 
+- - -
+#### *[[books/untypical|Untypical: How the World Isn’t Built for Autistic People and What We Should All Do About It]]* — Pete Wharmby (2023)
+Part memoir of a late-diagnosed autistic person (straight white British male version); part comprehensive outline of accommodations that would make the world a safer, more autistic-friendly place. Some are so laughably trivial that it’s shameful they even have to be requested in the first place—but alas, that’s the world we live in. A good entry into the burgeoning autistic memoir genre, and a great resource for anyone wanting to better understand the autistic people in their life. (Because everyone has an autistic person in their life, whether they know it yet or not.)
+- - -
+#### *[[books/the brides of high hill|The Brides of High Hill]]* — Nghi Vo (2024)
+Cleric Chih accompanies the bridal party of Pham Nhung to the estate of her potential husband, a man with monstrous secrets. For the first two acts, there are no stories-within-a-story, and no Almost Brilliant, in a way that indicates they’re connected—Chih keeps requesting to hear stories, but people refuse or prevaricate, until we miss the niexin as keenly as Chih does. Chih, however, falls helplessly into a crush on Pham Nhung, as do I, which makes the swift and brilliant third act twist all the more effective. One story is swapped for another, with a literal take on *stories save lives*. Dare I say this one ranks with *[[books/into the riverlands|Riverlands]]* as my favorite entries in the series thus far?
+- - -
+#### *[[books/liars|Liars]]* — Sarah Manguso (2024)
+Brilliant, merciless, couldn’t put it down. Jane marries John (Bridges, but might as well be Doe, for all the universality implied), and misery ensues as John exploits the patriarchal society and his own insecurities to make Jane’s life hell. Written as autofiction with a dash of crime fiction, it’s an autopsy of a 21st century marriage between two (eventually wealthy) white straight people, who are best placed to reap the benefits of modern feminism and equality, and instead expose the grotesque flaws and inequalities. I was briefly worried that the liars of the title, plural, would go the false equivalency route, saying Jane lied just as much as John did and is therefore complicit in her own downfall. Yes, that’s true—*and* it’s revealed that the only lies she ever told were telling herself that things were good when they weren’t, that they would be okay when they would not. For a book called *Liars*, it’s full of searing, harsh truth, the kind that sets you free.
+- - -
+#### *[[books/the fox wife|The Fox Wife]]* — Yangsze Choo (2024)
+Not the right choice to follow Nghi Vo’s [[books/the brides of high hill|fox-spirit tale]]. Atmospheric, but I feel talked down to and everything is over-explained. This is why I like sticking to genre for Asian fantasy instead of litfic. DNF @ pg 60. (I did flip through the rest because the hardcover had wide margins for sidenotes, but there were… barely any? And just random stuff too, like Snow’s uncle the pyrotechnic expert. Such a wasted opportunity!)
+- - -
+#### *[[books/something extraordinary|Something Extraordinary]]* — Alexis Hall (2024)
+The high-strung Belle has left behind her heroine era, and the drama-prone Rufus has left behind his Sir Horley Comewithers era. Together they embark on the worst elopement in history (per Belle, it’s not vainglorious to claim that when it’s true), and what ensues is a meditation on friendship, love, sexuality, identity, self-discovery, society, and *home* in a way that only Alexis Hall can do it. There’s a meet-cute with a highwayman just responding to a personals ad; Belle’s dalliance with Sir Horley’s theologically-inclined jilted fiancé; a wayward, thieving steward who just needs some kink, care, and tenderness; and through it all, the rock solid foundation of trust and support Belle and ~~Sir Horley~~ Rufus start to build for themselves. 
+
+I was lucky to get an ARC, so I can’t add my usual wall of quotes until it’s published in December. But I will be re-reading then, and if the first two books are any indication, for many times to come, whenever I need belly laughs and a balm for my soul. (Longer review [[books/something extraordinary|here]].)
+
+---
+
+**Previously: [[digest/books of june '24|Books of June ’24]]**

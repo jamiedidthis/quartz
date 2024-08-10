@@ -9,7 +9,7 @@ publishDate: 2024-07-18
 series:
   - Gentlemen of Uncertain Fortune
 order: "2"
-weight: 2
+weight: 3
 genres:
   - fiction
   - romance
