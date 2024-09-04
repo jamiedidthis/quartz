@@ -15,6 +15,7 @@ shelves:
   - italy
   - faux-history
   - magical-realism
+  - cover-love
 date: 2024-01-26 15:49
 lastmod: 2024-01-26 15:49
 ---

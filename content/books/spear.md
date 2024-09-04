@@ -23,8 +23,8 @@ shelves:
   - medieval-times
   - f-f
   - arthurian
-  - knights-warriors
   - novellas
+  - knights-and-warriors
 date: 2024-01-28 12:25
 lastmod: 2024-01-28 12:25
 ---

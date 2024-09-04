@@ -22,10 +22,10 @@ shelves:
   - fairytales
   - fae-folk
   - islam
-  - knights-warriors
   - book-wifes
   - gods-and-monsters
   - novellas
+  - knights-and-warriors
 date: 2024-01-29 16:08
 lastmod: 2024-01-29 16:08
 ---

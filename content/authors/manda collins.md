@@ -1,0 +1,3 @@
+---
+title: Manda Collins
+---
