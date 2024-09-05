@@ -5,7 +5,7 @@ tags:
 date: 2024-01-15T15:09:00
 lastmod: 2024-01-15T15:09:00
 ---
-Ha @ [[authors/jo walton|Jo Walton]] describing herself as a vocateur reader on the [Ex Urbe Ad Astra podcast](https://exurbe.libsyn.com/)! Totally fits because as much as I love her as an author ([[Lent]]! [[books/among others|Among Others]]!), I always say Jo is my favorite reader. 
+Ha @ [[authors/jo walton|Jo Walton]] describing herself as a vocateur reader on the [Ex Urbe Ad Astra podcast](https://exurbe.libsyn.com/)! Totally fits because as much as I love her as an author ([[books/lent]]! [[books/among others|Among Others]]!), I always say Jo is my favorite reader. 
 
 I was trying to find out if [[authors/ada palmer|Ada Palmer]] coined vocateur in the [[series/terra ignota|Terra Ignota]] series, and just a cursory google search all give her credit for the term. The only early citation I could find is [a JSTOR article](https://www.jstor.org/stable/26281186) from 1983 which, from the preview, seems to be discussing Arno Schmidt’s *Leviathan*. So maybe an obscure term (possibly in translation?) that Ada popularized, at least? 
 
