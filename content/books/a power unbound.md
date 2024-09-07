@@ -47,9 +47,9 @@ Either way, it was excellent, I would read it straightaway again. Just given my 
   
 A few stray notes:  
   
-- The whole Roman storyline was utter catnip for me: concept, commentary, and execution. Best inclusion of an erotica-novel plot [[books/a noblemans guide to seducing a scoundrel|since Jonathan: And The Struggles of Virtue]].  
+- The whole Roman storyline was utter catnip for me: concept, commentary, and execution. Best inclusion of an erotica-novel plot since *[[books/a noblemans guide to seducing a scoundrel|Jonathan: And The Struggles of Virtue]].*  
 - Actually, come to think of it, a lot of what earned the five stars for *[[books/a noblemans guide to seducing a scoundrel|Nobleman’s Guide to Seducing a Scoundrel]]* was the same kind of thing that earned high marks from me here. What can I say, I’m predictable.
 - If Marske developed the idea for Alan’s powers just so she could drop the line “Master Perturbator”… NOTHING BUT RESPECT 😆
 - All the sniping back and forth that didn’t disappear but got more pointed as they grew closer… that’s the kind of delicious bite the first books were missing.
 - “It’s alarming that forgery is your first instinct,” he said, “but I admire it.” / “If the rules are stupid, sod the rules.” (See! KJC-style is more fun for everyone.)
-- I absolutely loved the %%Robin-Adelaide marriage%%. It felt like it came out of nowhere when they announced it, but I didn’t even care, I love how that got folded right into the happy ending. See: [[books/infamous|my thoughts on the ending to Infamous too]].
+- I absolutely loved the %%Robin-Adelaide marriage%%. It felt like it came out of nowhere when they announced it, but I didn’t even care, I love how that got folded right into the happy ending. See: my thoughts on the ending to *[[books/infamous|Infamous]]* too.

@@ -5,7 +5,7 @@ authors:
   - Lois McMaster Bujold
 publishers:
   - Baen Books
-publishDate: "1993"
+publishDate: 1993-09-01
 series: 
 order: 
 weight: 
