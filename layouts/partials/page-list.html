@@ -6,7 +6,7 @@
               <p><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></p>
             </div>
             <div class="spacer"></div>
-            <ul class="tags">
+            <ul class="notes-list-tags">
                 {{ range first 2 (.GetTerms "tags") }}
                 <li><a href="{{ .Permalink }}" class="internal-link">{{ .LinkTitle }}</a></li>
                 {{ end }}

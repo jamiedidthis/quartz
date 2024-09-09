@@ -4,7 +4,7 @@ subtitle: ""
 authors:
   - Kate Bateman
 publishers:
-  - St Martin’s Paperbacks
+  - St Martin’s Griffin
 publishDate: 2024-08-20
 series: 
 order: 

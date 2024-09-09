@@ -6,7 +6,7 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
+summaryLength = 45
 paginate = 24
 enableGitInfo = true
 buildFuture = true
