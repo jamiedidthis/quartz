@@ -3,7 +3,7 @@ title: Books of August ’24
 tags:
   - book-digest
 date: 2024-09-07 14:06
-lastmod: 2024-09-07 14:06
+lastmod: 2024-09-10T14:06:00
 ---
 A pretty even mix of great and not-great this month. The highs were high (*Gathered Heat!* Adib Khorram’s romcom! Kingfisher and Borges!) but the lows were low with a streak of disappointing historical romances. I’m almost ready for a solid three-star mediocre read to decompress. A lucky number 13 once again, but that’s with stranding four (excellent) books that I’m within a couple chapters of finishing—stay tuned for September.
 
