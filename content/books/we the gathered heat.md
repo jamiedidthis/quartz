@@ -53,4 +53,4 @@ shelves:
 date: 2024-09-07 21:57
 lastmod: 2024-09-07 21:57
 ---
-Superb. This is how to do an anthology, where the disparate voices are the point—how do we even define AAPI except as “the other,” non-white? Who is the “we” in question? To whom is that category useful? The poems are sorted into themes of “mourn,” “pronounce,” “fight,” “love,” each as powerful as the last. A cacophony, a mosaic, a sum that is more than the whole of its parts. As the subtitle indicates, it leans heavily on the oral tradition, and I would love to hear these pieces performed out loud. 
+Superb. This is how to do an anthology, where the disparate voices are the point—how do we even define AAPI except as “the other,” non-white? Who is the “we” in question? To whom is that category useful? The poems are sorted into themes of “mourn,” “pronounce,” “fight,” “love,” each as powerful as the last. A cacophony, a mosaic, a whole that is more than the sum of its parts. As the subtitle indicates, it leans heavily on the oral tradition, and I would love to hear these pieces performed out loud. 
