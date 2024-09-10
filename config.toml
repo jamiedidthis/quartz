@@ -29,7 +29,7 @@ removePathAccents = true
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        date = ["date", "lastmod"]
+        date = ["date", "lastmod", ":git"]
         lastmod = ["lastmod", "date", ":git", "publishDate"]
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
