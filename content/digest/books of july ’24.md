@@ -3,9 +3,9 @@ title: Books of July ’24
 tags:
   - book-digest
 date: 2024-08-09 22:22
-lastmod: 2024-08-09 22:22
+lastmod: 2024-09-10T22:22:00
 ---
-July was a hellacious month, both work-wise and heat-wise, but I finished a (lucky number) 13 books. ARCs aplenty, plus some anticipated new releases, plus clearing out the TBR means I mostly read books published in the last 24 months. Gasp! I’m gonna need some dusty, mothballed books soon.
+July was a hellacious month, both work-wise and heat-wise, but I finished (a lucky number) 13 books. ARCs aplenty, plus some anticipated new releases, plus clearing out the TBR means I mostly read books published in the last 24 months. Gasp! I’m gonna need some dusty, mothballed books soon.
 
 ---
 #### *[[books/yellowface|Yellowface]]* — [[authors/rf kuang|R.F. Kuang]] (2023)
@@ -22,7 +22,7 @@ Peter, a social worker in 1990’s NYC, comes of age in his late 20’s, dealing
 All in all, a complex book of messy characters that was worth the read. Well done, Jendi Reiter. 
 - - -
 #### *[[books/emma of 83rd street|Emma of 83rd Street]]* — [[authors/audrey bellezza|Audrey Bellezza]] and [[authors/emily harding|Emily Harding]] (2023)
-*Emma* is my favorite Austen, and arguably the most difficult to modernize without losing the spirit of the story. I don’t envy any author who attempts it, but this one lost me in the weeds, with pacing that seems twice the length of Austen with half the page count. It goes the predictable contemporary romance route, dual POVs that reduce Knightley and Emma to a horny executive and a snobbish socialite. Gone is the communal voice, the class friction, the tapestry of complex characters with rich inner lives of their own, propelled by the roles society forces them to inhabit, who can’t be reduced to stereotypes like “country bumpkin” or “sleazy misogynist.” Instead of trenchant social commentary, we get fashion designers namedropped like glitter and the LA offices of Knightley Capital (!!). That shifts the dynamics of the story beyond recognition. (And I’m sorry, but greenwashing the investments of your [horny] venture capitalist, or taking a few swipes at nepotism does not a social commentary make.)
+*Emma* is my favorite Austen, and arguably the most difficult to modernize without losing the spirit of the story. I don’t envy any author who attempts it, but this one lost me in the weeds, with pacing that seems twice the length of Austen with half the page count. It goes the predictable contemporary romance route, dual POVs that reduce Knightley and Emma to a horny executive and a snobbish socialite. Gone is the communal voice, the class friction, the tapestry of complex characters with rich inner lives of their own, propelled by the roles society forces them to inhabit, who can’t be reduced to stereotypes like “country bumpkin” or “sleazy misogynist.” Instead of trenchant social commentary, we get fashion designers namedropped like glitter and the LA offices of Knightley Capital. That shifts the dynamics of the story beyond recognition. (And I’m sorry, but greenwashing the investments of your [horny] venture capitalist, or taking a few swipes at nepotism does not a social commentary make.)
 
 It’s the phenomenon that bothers me most in modern retellings, where what was subversive and fairly radical in Austen’s day is now old fashioned, so the point is missed entirely, and flattened into a generic HEA and token girlboss feminism, if not an outright regressive worldview. The Austen window dressing without the spirit, wit, or politics. (It works better if you say it’s a *Clueless* adaptation, but it still lacks the idealism of that one too, and the charm.)
 
