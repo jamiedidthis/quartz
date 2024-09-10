@@ -5,10 +5,9 @@ tags:
 date: 2024-07-30 13:24
 lastmod: 2024-07-30 13:24
 ---
-I finished around fifteen books in June, even though the weather got too hot, too fast, for hammock time. Rufi Thorpe swooped in hot with one of my favorite books for the month (and year), but she was far from the only highlight. Let’s give this digest idea a whirl!
+I finished around fifteen books in June, even though the weather got too hot, too fast, for hammock time. Rufi Thorpe swooped in hot with one of my favorite books for the month (and year), but she was far from the only highlight. Let’s give this digest idea a whirl.
 
 ---
-
 #### *[[books/mammoths at the gates|Mammoths at the Gates]]* — [[authors/nghi vo|Nghi Vo]] (2023)
 Our beloved cleric Chih returns home to the Singing Hills Abbey, only to find (spoiler alert) mammoths at the gates, an imperial delegation come to collect one of their own. A lovely mediation on grief, change, and love, through a plot revealed as always in the layers and sediment of myth. Almost Brilliant gets a daughter, and an uncle, and a vast network of kin, and at long last we see more of the inner workings of the neixin (talking [hoopoes](https://en.wikipedia.org/wiki/Eurasian_hoopoe) who serve as the generational memory of the monastery). Nghi Vo continues to crush every single novella in this series, creating an ongoing rich tapestry. I’m so glad there’s going to be at least eight in total. (I’d try to bargain for twenty.)
 
