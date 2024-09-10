@@ -3,7 +3,7 @@ title: Books of June ’24
 tags:
   - book-digest
 date: 2024-07-30 13:24
-lastmod: 2024-07-30 13:24
+lastmod: 2024-09-10T13:24:00
 ---
 I finished around fifteen books in June, even though the weather got too hot, too fast, for hammock time. Rufi Thorpe swooped in hot with one of my favorite books for the month (and year), but she was far from the only highlight. Let’s give this digest idea a whirl.
 
