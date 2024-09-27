@@ -4,8 +4,8 @@ subtitle: ""
 authors:
   - Alexis Hall
 publishers:
-  - Alexis Hall Books
-publishDate: "2018"
+  - Riptide Publishing
+publishDate: 2014-12-06
 series:
   - Prosperityverse
 order: "5"

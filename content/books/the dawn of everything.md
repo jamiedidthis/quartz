@@ -28,7 +28,7 @@ For example: in trying to locate the so-called “agricultural revolution,” we
 
 We need to approach the evidence of the human past with fresh eyes. Read nonfiction as fiction. Are there not more interesting and important questions we could be asking?
 
-* Even Rousseau and Hobbes is like having a Garden of Eden, there was once some “original state” more natural than the rest 
+* Even [[authors/jean-jacques rousseau|Rousseau]] and [[authors/thomas hobbes|Hobbes]] is like having a Garden of Eden, there was once some “original state” more natural than the rest 
 * A false premise, a false binary—helpful once upon a time to shake out some older ideas, but now it’s getting us nowhere
 * “Inequality” is almost a fatalistic acceptance, some condition that can only be tweaked instead of ended (kings or governments can be overthrown, a vague notion cannot)
 * We imagine people in the past to be more dumb/“primitive” than we are
@@ -36,12 +36,12 @@ We need to approach the evidence of the human past with fresh eyes. Read nonfict
 
 > This is not, then, a book about the origins of inequality. But it aims to answer many of the same questions in a different way. There is no doubt that something has gone terribly wrong with the world. A very small percentage of its population do control the fates of almost everyone else, and they are doing it in an increasingly disastrous fashion. To understand how this situation came about, we should trace the problem back to what first made possible the emergence of kings, priests, overseers and judges. But we no longer have the luxury of assuming we already know in advance what the precise answers will turn out to be.
 
-* This different view of the past is basically [[Science fictional behavior]]
+* This different view of the past is basically [[notes/science fiction futures|science fictional behaviors]]
 * The myth of the agricultural revolution 
-* Seasonal variations of social structure  (reminds me of seasonal gender in [[books/the left hand of darkness]]
+* Seasonal variations of social structure  (reminds me of seasonal gender in *[[books/the left hand of darkness|The Left Hand of Darkness]]*
 * Also seasonal flooding with flood retreat farming (cf. [[notes/seasonal time|seasonal time]], [[notes/taoism|Taoism]])
 * schismogenesis
-* Many rebuttals to Yuval Harari (debunking Harari, Jared Diamond, as well as Rousseau)
+* Many rebuttals to Yuval Harari (debunking Harari, Jared Diamond, as well as [[authors/jean-jacques rousseau|Rousseau]])
 * When we tell these stories of losses of primordial innocence, women get written out of the picture (cf. [[notes/the carrier bag theory of fiction|The Carrier Bag Theory of Fiction]])
 
 > Instead of fixed fields, they exploited alluvial soils on the margins of lakes and springs, which shifted location from year to year. Instead of hewing wood, tilling fields and carrying water, they found ways of ‘persuading’ nature to do much of this labour for them. Theirs was not a science of domination and classification, but one of bending and coaxing, nurturing and cajoling, or even tricking the forces of nature, to increase the likelihood of securing a favourable outcome. Their ‘laboratory’ was the real world of plants and animals, whose innate tendencies they exploited through close observation and experimentation. This Neolithic mode of cultivation was, moreover, highly successful.

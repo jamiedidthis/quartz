@@ -30,6 +30,7 @@ shelves:
   - jesus-etc
   - collage-novels
   - arc
+  - tarot
 date: 2024-08-02 12:00
 lastmod: 2024-08-02 12:00
 ---

@@ -4,7 +4,7 @@ subtitle: ""
 authors:
   - Alexis Hall
 publishers:
-  - Alexis Hall Books
+  - Riptide Publishing
 publishDate: 2014-10-27
 series:
   - Prosperityverse

@@ -11,11 +11,11 @@
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{partial "recent-excerpt.html" . }}
+        <hr>
+        {{partial "recent-books.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
-        <hr>
-        {{partial "recent-books.html" . }}
     </article>
     {{partial "contact.html" .}}
 </div>

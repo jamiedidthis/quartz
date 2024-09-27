@@ -27,7 +27,6 @@ shelves:
   - short-stories
   - satire
   - arc
-  - manhua
 date: 2024-09-07 14:07
 lastmod: 2024-09-07 14:07
 ---

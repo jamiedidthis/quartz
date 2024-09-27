@@ -50,7 +50,9 @@ Also, when anybody is outraged about “kids these days” on the internet, reme
 
 ETA: With all the hubbub and handwringing around the demise of Twitter, all I think is how will Gretchen do her research! 
 
+---
 ## Pull quotes
+
 > “Every generation has talked slightly differently from its parents: otherwise, we’d all still be talking like Shakespeare.”
 
 > “Like how money is just squiggles on paper or on a screen until it determines whether you can eat lunch, ::words are just meat twitches:: until they determine whether you can get a job—or whether someone will even deign to tell you where the shoe section is.”

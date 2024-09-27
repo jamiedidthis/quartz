@@ -19,7 +19,7 @@ shelves:
 date: 2024-01-02 15:22
 lastmod: 2024-01-02 15:22
 ---
-In an explicit riposte to social Darwinists, Kropotkin argues against the theories that emphasize competition and survival of the fittest, and against the romantic depictions by writers such as Jean-Jacques Rousseau, who thought that cooperation was motivated by universal love. Instead, he spoke for an alternative school of Darwinism that emerged in Russia, emphasizing cooperation, not competition, as the driver of evolutionary change.
+In an explicit riposte to social Darwinists, Kropotkin argues against the theories that emphasize competition and survival of the fittest, and against the romantic depictions by writers such as [[authors/jean-jacques rousseau|Jean-Jacques Rousseau]], who thought that cooperation was motivated by universal love. Instead, he spoke for an alternative school of Darwinism that emerged in Russia, emphasizing cooperation, not competition, as the driver of evolutionary change.
 
 Note: it’s fitting that this edition has an introduction by [[authors/david graeber|David Graeber]], because I came across it in the first place due to Graeber’s quote below: 
 

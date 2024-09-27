@@ -18,7 +18,7 @@ by [[authors/ursula k le guin|Ursula K. Le Guin]]
 > 
 >That story not only has Action, it has a Hero. Heroes are powerful. Before you know it, the men and women in the wild-oat patch and their kids and the skills of makers and the thoughts of the thoughtful and the songs of the singers are all part of it, have all been pressed into service in the tale of the Hero. But it isn’t their story. It’s his.
 > 
-> When she was planning the book that ended up as _Three Guineas_, Virginia Woolf wrote a heading in her notebook, “Glossary”; she had thought of reinventing English according to her new plan, in order to tell a different story. ==One of the entries in this glossary is _heroism_, defined as “botulism.” And _hero_, in Woolf’s dictionary, is “bottle.” The hero as bottle, a stringent reevaluation. I now propose the bottle as hero.==
+> When she was planning the book that ended up as _Three Guineas_, [[authors/virginia woolf|Virginia Woolf]] wrote a heading in her notebook, “Glossary”; she had thought of reinventing English according to her new plan, in order to tell a different story. ==One of the entries in this glossary is _heroism_, defined as “botulism.” And _hero_, in Woolf’s dictionary, is “bottle.” The hero as bottle, a stringent reevaluation. I now propose the bottle as hero.==
 > 
 > Not just the bottle of gin or wine, but bottle in its older sense of container in general, a thing that holds something else.
 > 
