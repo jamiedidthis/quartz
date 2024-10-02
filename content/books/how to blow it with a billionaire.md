@@ -4,7 +4,7 @@ subtitle: ""
 authors:
   - Alexis Hall
 publishers:
-  - Forever Yours
+  - Forever
 publishDate: 2017-12-12
 series:
   - Arden St Ives
