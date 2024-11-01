@@ -16,4 +16,5 @@ shelves:
   - myths-and-folklore
 date: 2024-10-07 16:03
 lastmod: 2024-10-07 16:03
+alttitle: the collected works of cg jung
 ---
