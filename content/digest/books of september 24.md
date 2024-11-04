@@ -10,7 +10,7 @@ A whopping 20 books this month, including the start of a spontaneous re-read of 
 ---
 #### *[[books/jane austen the secret radical|Jane Austen, The Secret Radical]]* — [[authors/helena kelly|Helena Kelly]] (2016)
 
-Superb and long-overdue reevaluation of Jane Austen and the context in which she wrote her beloved novels. For many people, I imagine “radical” is the word in the subtitle that lifts eyebrows; for me, it’s the word “secret.” Austen’s politics have always felt clear on the page, and this is how I’ve read her, even lacking some of the well-researched context Helena Kelly provides here. 
+Superb and long-overdue reevaluation of Jane Austen and the context in which she wrote her beloved novels. For many people, I imagine “radical” is the word in the title that lifts eyebrows; for me, it’s the word “secret.” Austen’s politics have always felt clear on the page, and this is how I’ve read her, even lacking some of the well-researched context Helena Kelly provides here. 
 
 I understand romance readers, myself included, who get tetchy at the suggestion that the romance genre is inferior, and a book must earn in its way into the canon by being Serious and Important. But I also stand by my conviction that Jane Austen wrote only one romance—*[[books/pride and prejudice|Pride and Prejudice]]*—and had to warp all societal conventions to do it, and it’s important to understand why. She is first and foremost a political writer to me, and however you read her endings, the domestic *is* political, who we’re permitted or forbidden to love *is* political. When Kelly agrees that Austen deserves to be in the same conversation as [[authors/mary wollstonecraft|Mary Wollstonecraft]] or Thomas Paine, I cheer. 
 
@@ -78,7 +78,7 @@ I’d prefer a bit less Joseph Campbell and Cognitive Behavioral Therapy, but ov
 
 Man takes *[[books/the great gatsby|The Great Gatsby]]* as a how-to manual, right down to the narcissism and body count, just with more explicit gay sex. (As in, *Gatsby* the way the good lord intended.) It’s unpleasant to read in the way obscene wealth always is, but it’s beautifully structured and compellingly written, an interesting artifact of both the era in which it’s set and when it’s written. And also, the era in which it’s printed, given it was edited and published posthumously by Merrick’s longtime partner, Charles G. Hulse.
 
-(Note: I flipped through my copy of *[[books/a history of gay literature|A History of Gay Literature]]* to see if Merrick was mentioned, and he was not. Wild that someone who wrote gay romances in the 1970’s that topped the NYT charts didn’t merit a mention… why is he obscure now?)
+(Note: I consulted my copy of *[[books/a history of gay literature|A History of Gay Literature]]* to see if Merrick was mentioned, and he was not. Wild that someone who wrote gay romances in the 1970’s that topped the NYT charts didn’t merit a mention… why is he obscure now?)
 
 ---
 #### *[[books/the worst duke in london|The Worst Duke in London]]* — [[authors/amalie howard|Amalie Howard]] (2024)
@@ -102,7 +102,7 @@ I relish Sade for his boldness; I’m disturbed by Sade for the same. If *[[book
 ---
 #### *[[books/pride and prejudice|Pride and Prejudice]]* — [[authors/jane austen|Jane Austen]] (1813)
 
-Speaking of radical politics… yes, Austen is so compulsively readable that I’ve already accomplished my re-read of *Pride and Prejudice* too. And no, don’t worry, I’m not about to be the killjoy that strips the romance from it this time. This novel *is* romantic, a true meeting of minds with the happiest ending Jane Austen has on offer. It still reeks of radical philosophy though, and benefits from a much closer reading, noting the larger class themes at work and the transgressive choices Austen makes. For example, it’s easy to see Collins as the definitive buffoon, Lady Catherine as a belligerent absurdity. It’s harder to see, through the layers of time and distance, the larger (and utterly blistering) critique against the Church of England and the aristocracy. Or the lengths to which Darcy and Elizabeth transgress propriety. That context makes the relationship and character growth all the more meaningful, and all the more relevant in any age. Overturning our prejudices indeed, not just individually and romantically for a pair of fine eyes, but socially, culturally, at large. (Many many more notes and quotes [[books/pride and prejudice|here]].)
+Speaking of radical politics… yes, Austen is so compulsively readable that I’ve already accomplished my re-read of *Pride and Prejudice* too. And no, don’t worry, I’m not about to be the killjoy that strips the romance from it this time. This novel *is* romantic, a true meeting of minds with the happiest ending Jane Austen has on offer.A fairy tale through and through, it’s just that it’s a *political* fairy-tale as much as a romantic one, and benefits from a much closer reading, noting the larger class themes at work and the transgressive choices Austen makes. For example, it’s easy to see Collins as the definitive buffoon, Lady Catherine as a belligerent absurdity. It’s harder to see, through the layers of time and distance, the larger (and utterly blistering) critique against the Church of England and the aristocracy. Or the lengths to which Darcy and Elizabeth transgress propriety. That context makes the relationship and character growth all the more meaningful, and all the more relevant in any age. Overturning our prejudices indeed, not just individually and romantically for a pair of fine eyes, but socially, culturally, at large. (Many many more notes and quotes [[books/pride and prejudice|here]].)
 
 ---
 #### *[[books/i cross-dressed for the irl meetup|I Cross-Dressed for the IRL Meetup #1]]* — [[authors/kurano|Kurano]] (2024)
@@ -123,4 +123,4 @@ I now understand the I Ching a fraction more than I did before! It’s a great a
 
 ---
 
-**Previously:** [[digest/books of august ’24|Books of August ’24]]
+**Previously: [[digest/books of august ’24|Books of August ’24]]**

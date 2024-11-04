@@ -21,9 +21,38 @@ shelves:
 date: 2024-09-09 15:31
 lastmod: 2024-09-09 15:31
 ---
-Austen is so compulsively readable that I’ve already accomplished my re-read of *Pride and Prejudice* too. And don’t worry, I’m not about to be the killjoy that strips the romance from it this time. This novel *is* romantic, a true meeting of minds with the happiest ending Jane Austen has on offer. It still reeks of radical philosophy though, and benefits from a much closer reading, noting the larger class themes at work and the transgressive choices Austen makes. For example, it’s easy to see Collins as the definitive buffoon, Lady Catherine as a belligerent absurdity. It’s harder to see, through the layers of time, the larger (and utterly blistering) critique against the Church of England and the aristocracy. Or the lengths to which Darcy and Elizabeth transgress propriety. That context makes the relationship and character growth all the more meaningful, and all the more relevant in any age. Overturning our prejudices indeed, not just individually and romantically for a pair of fine eyes, but socially, culturally, at large.
+Austen is so compulsively readable that I’ve already accomplished my re-read of *Pride and Prejudice* too. And don’t worry, I’m not about to be the killjoy that strips the romance from it this time. This novel *is* romantic, a true meeting of minds with the happiest ending Jane Austen has on offer. A fairy tale through and through, it’s just that it’s a *political* fairy-tale as much as a romantic one, and benefits from a much closer reading, noting the larger class themes at work and the transgressive choices Austen makes. For example, it’s easy to see Collins as the definitive buffoon, Lady Catherine as a belligerent absurdity. It’s harder to see, through the layers of time, the larger (and utterly blistering) critique of the Church of England and the aristocracy. Or the lengths to which Darcy and Elizabeth transgress propriety. That context makes the relationship and character growth all the more meaningful, and all the more relevant in any age. Overturning our prejudices indeed, not just individually and romantically for a pair of fine eyes, but socially, culturally, at large.
 
 (Note: I never thought I’d be comparing Austen to [[authors/marquis de sade|de Sade]], but since I read *[[books/gothic tales|Gothic Tales]]* recently, they’re both similar in the way I wish their political context was better known.)
+
+---
+
+## A few notes
+
+- After *[[books/sense and sensibility|Sense and Sensibility]]*, *Pride and Prejudice* is so warm, its emotions genuine. I laugh at how quickly Darcy is swept off his feet by Elizabeth—love at second sight?—but then he goes about building a foundation for it, unselfish in ways great and small. There’s no double-speak this time, the actions not matching the words.
+- It’s also quite pleasant to be back on straightforward, solid ground with a reliable narrator. If anything, reading this back to back with *Sense and Sensibility* highlights exactly how destabilizing the text of *Sense and Sensibility* is. *Pride and Prejudice* is not deploying those narrative tricks.
+- I also want it on the record that I love book Darcy so much. Due to reasons of sexual orientation and personal taste, I’m not the biggest fan of the ubiquitous Colin Firth Darcy or even the slightly less ubiquitous Matthew MacFadyn Darcy—basically, sex symbol Darcy. Book Darcy, though, should not get tainted by association in my eyes. Rude, bookish, intelligent, open-minded Darcy. [[series/mo dao zu shi novel|Big Lan Zhan vibes]] tbh.
+
+- [[authors/helena kelly|Helena Kelly]] makes a convincing case that Edmund Burke’s *Reflections on the Revolution in France* is the key to Austen’s language here. 
+  
+  > “Prejudice,” then, in the 1790s, isn’t simply bias or judging without all the facts; it’s tradition, “inbred sentiments,” unquestioned cultural assumptions. It’s the entire edifice of society. The monarchy, the government, the judicial system, organized religion, the class system: all are to be upheld simply because they’ve been around for a long time. “Awe,” “duty,” “reverence,” “respect”—these are the “old prejudices.” They are to be clung to, a raft swirling in the maelstrom of revolution.
+  
+  Note those words: when they’re in the mouth of a character, it’s Collins, or Lady Catherine, or Darcy 1.0 in the beginning. Mary Bennett from time to time. The characters who are priggish and insufferable. Every single trait that Austen sets about correcting or condemning. She’s reassessing the way society works on a fundamental level, challenging every single one of Burke’s “prejudices.”
+  
+- I forgot just how scathing Austen’s portrayal of the aristocracy + the clergy is. Like, I always felt it was unflattering, but it is vicious. 
+
+
+- The entailment, parish tithes, and significance of Cheapside
+Every single reader can enjoy the absurdity of Collins and de Bourgh; I think the larger context is often missed, though, where the aristocracy is the most absurd person in the book, and the only person slavering over the aristocracy is the clergy. None of Austen’s clergymen are admirable. Collins takes self-interest to new heights, and his primary interest in his parish is how to collect tithes. Lady Catherine concerns herself with the poor villagers only to silence and bully them into contentment with their lot. The other popular literature of the time glorifies both the aristocracy and the church; Austen is fairly unique and scathing in her criticism, yet done with so clever a hand that one may only see Collins the buffoon or De Bourgh the grotesque, and miss the larger pattern. 
+
+- A big thing modern audiences lack context for: the social introductions.
+- Social introductions are referred to thirty times in _Pride and Prejudice_. To compare this with the other novels of slightly greater length, there are nineteen incidences in _Mansfield Park_, twenty-three in _Emma_, and fifteen in _Sense and Sensibility_. In several scenes, the exact form and correctness of introductions are explicitly addressed, as when Mr. Collins introduces himself, very improperly, to Mr. Darcy.
+
+
+
+
+
+---
 
 ## *Pride and Prejudice* in context
 

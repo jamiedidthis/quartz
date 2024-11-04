@@ -23,7 +23,7 @@ shelves:
 date: 2024-09-09 15:15
 lastmod: 2024-09-09 15:15
 ---
-Superb and long-overdue reevaluation of Jane Austen and the context in which she wrote her beloved novels. For many people, I imagine “radical” is the word in the subtitle that lifts eyebrows; for me, it’s the word “secret.” Austen’s politics have always felt clear on the page, and this is how I’ve read her, even lacking some of the well-researched context Helena Kelly provides here. 
+Superb and long-overdue reevaluation of Jane Austen and the context in which she wrote her beloved novels. For many people, I imagine “radical” is the word in the title that lifts eyebrows; for me, it’s the word “secret.” Austen’s politics have always felt clear on the page, and this is how I’ve read her, even lacking some of the well-researched context Helena Kelly provides here. 
 
 I understand romance readers, myself included, who get tetchy at the suggestion that the romance genre is inferior, and a book must earn in its way into the canon by being Serious and Important. But I also stand by my conviction that Jane Austen wrote only one romance—*[[books/pride and prejudice|Pride and Prejudice]]*—and had to warp all societal conventions to do it, and it’s important to understand why. She is first and foremost a political writer to me, and however you read her endings, the domestic *is* political, who we’re permitted or forbidden to love *is* political. When Kelly agrees that Austen deserves to be in the same conversation as [[authors/mary wollstonecraft|Mary Wollstonecraft]] or Thomas Paine, I cheer. 
 

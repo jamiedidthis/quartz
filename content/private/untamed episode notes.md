@@ -1,8 +1,8 @@
 ---
 title: The Untamed episode notes 《陈情令》
 tags:
-  - mdzs
   - fandom
+  - cql
 date: 2024-01-15T15:09:00
 lastmod: 2024-01-15T15:09:00
 ---
@@ -102,7 +102,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - Alllll up in his personal space while LXC smirks
 - Wen Ning goes to save Su She, WWX goes to save Wen Ning, LWJ goes to save WWX… seems about right
 	- Can’t you just hold me? Here, take my hand! / I don’t touch other people. / But we’re so intimate! / Not close at all. 
-- WWX giving WQ the talisman to protect WN… so that’s what he sees on the body in [[notes/untamed episode notes#Ep 26|ep 26]] 😭
+- WWX giving WQ the talisman to protect WN… so that’s what he sees on the body in [[private/untamed episode notes#Ep 26|ep 26]] 😭
 - Comb is an emblem of lovesickness
 - LWJ: what WWX said is not unreasonable 
 
@@ -681,7 +681,7 @@ My raw notes for *The Untamed*, started when I was trying to make sense of the p
 - First thing WWX does is defend JC to LWJ, which hits so different for LWJ now that LWJ KNOWS 
 - The right time for lotus seeds—usually early harvest is July–Aug, late harvest is **Oct–Nov**
 - So it’s been fall, heading into winter if it’s snowing in Cloud Recesses 
-- Blossoms when they’re walking into town—but could be plum blossoms? Still winter? See [[notes/untamed episode notes#Ep 23|ep 23]]
+- Blossoms when they’re walking into town—but could be plum blossoms? Still winter? See [[private/untamed episode notes#Ep 23|ep 23]]
 
 ---
 ## Ep 47
