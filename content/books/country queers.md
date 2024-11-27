@@ -22,6 +22,7 @@ shelves:
   - transgender
   - queer-history
   - arc
+  - aids-crisis
 date: 2024-10-07 15:42
 lastmod: 2024-10-07 15:42
 ---

@@ -36,7 +36,7 @@ I’m gonna steal [So Mayer’s phrase](https://www.lunate.co.uk/features/books-
 
 > “They’re our mistakes, I suppose… it’s not surprising they’re so hungry to haunt us—the histories we forgot, the crimes we buried. Devils know I’ve buried mine.”
 
- Given that Chandrasekera wrote this one to, quote, [suit the market](https://vajra.me/2024/01/25/walpolitics/), I’m even more excited to see what he unleashes in *Rakesfall* this summer. And give [his blog](https://vajra.me/blog/) a follow—his essays have rapidly become some of the best in my rss feed.
+ Given that Chandrasekera wrote this one to, quote, [suit the market](https://vajra.me/2024/01/25/walpolitics/), I’m even more excited to see what he unleashes in *[[books/rakesfall|Rakesfall]]* this summer. And give [his blog](https://vajra.me/blog/) a follow—his essays have rapidly become some of the best in my rss feed.
  
 ---
 

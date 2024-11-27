@@ -30,6 +30,7 @@ shelves:
   - life-and-death
   - collage-novels
   - autofiction
+  - aids-crisis
 date: 2024-07-30 12:49
 lastmod: 2024-07-30 12:49
 ---

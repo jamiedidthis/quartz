@@ -34,7 +34,7 @@ There’s a fascinating layer to all of this, where we as readers, centuries rem
 
 What’s *not* there tells the story. Austen does so much sleight of hand that genre writers, horror and SFF alike, could take a page from her book on how to destabilize a narrative and make it unsettling as fuck. (Then again, the effect has arguably been missed by generations of readers, so perhaps it’s too subtle.) (Then *again* again, readers of those genres would be way more attuned to those vibes than those expecting straight romance? Maybe that’s why it seems incredibly clear to me??? I dunno, interesting to think about.)
 
-If [[notes/mary wollstonecraft shelley|Mary Shelley]] invented science fiction, then I’m entertaining bold claims of Austen’s own genre inventions, is what I’m saying.
+If [[authors/mary wollstonecraft shelley|Mary Shelley]] invented science fiction, then I’m entertaining bold claims of Austen’s own genre inventions, is what I’m saying.
 
 But it’s the elder [[authors/mary wollstonecraft|Wollstonecraft]], Mary Shelley’s mother, who is the necessary touchstone. Themes resonate, often loudly, with Austen using parallel phrases as well. Helena Kelly delves into it further, but here are a few relevant quotes from her chapter on *Sense and Sensibility*:
 
