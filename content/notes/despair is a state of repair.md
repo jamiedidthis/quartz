@@ -29,4 +29,4 @@ Basically, you could say it is a waveform, not a prison:
 
 > We take the first steps out of despair by taking on its full weight and coming fully to ground in our wish not to be here. We let our bodies and we let our world breathe again. In that place, strangely, despair cannot do anything but change into something else, into some other season, as it was meant to do, from the beginning.
 
-That makes me think of [[ecclesiastes|Ecclesiastes]], *to everything a season*. And [[authors/alan watts|Alan Watts]]’ [[wiggles]]. And [[authors/walt whitman|Walt Whitman]]’s “Song of Myself.”
+That makes me think of [[notes/ecclesiastes as a protest manifesto|Ecclesiastes]], *to everything a season*. And [[authors/alan watts|Alan Watts]]’ [[notes/we are wiggles]]. And [[authors/walt whitman|Walt Whitman]]’s “Song of Myself.”

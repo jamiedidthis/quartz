@@ -1,0 +1,3 @@
+---
+title: Meister Eckhart
+---

@@ -2,6 +2,7 @@
 title: Enshittification
 tags:
   - working-theories
+  - emergence
 date: 2024-01-28 15:20
 lastmod: 2024-02-20T15:20:00
 ---

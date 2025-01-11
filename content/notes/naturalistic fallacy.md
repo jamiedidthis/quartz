@@ -23,7 +23,7 @@ Interestingly, the better option seems to be *is it harmful?* instead of *is it 
 
 > For social conservatives, the damage might even be seen as inflicted on symbolic bodies—“America,” for example, “the Church,” “society,” or “the sanctity of marriage.” ==Saying that a behavior is “harmful to America” or that it’s “destructive to society” is a bit like giving corporations the legal status of personhood. That is, it only makes sense to those with an agenda.== The scientific definition of a “person” as a carbon-based life-form resembles nothing of the circuitous legal definition that enables a profit-driven corporation to claim that same status. Likewise, pain and distress can occur only at the level of a subjectively experiencing organism (human or animal) in possession of pain receptors and a nervous system able to register emotional trauma, not at the level of an abstract entity without a brain. ==The problem of sexual harm concerns living, breathing creatures, not political parties, nations, or worldviews.==
 
-And in an ideal world, we’d be more aware too of [[notes/culture-bound syndrome|symbolic disgust]] and [[notes/moral dumbfounding|moral dumbfounding]].
+And in an ideal world, we’d be more aware too of [[notes/disgust is a culture-bound syndrome|symbolic disgust]] and [[notes/moral dumbfounding is not moral reasoning|moral dumbfounding is not moral reasoning]].
 
 ---
 

@@ -73,7 +73,7 @@ I’d prefer a bit less Joseph Campbell and Cognitive Behavioral Therapy,[^1] bu
 
 > We tend to think of contemplation as having to do with thinking, but it is really more a creative process of coming into dialogue with other forces, such as emotions. The prefix con-, meaning “with,” tells us that it’s a collaborative process, and templum, the Latin word for temple, connotes a sacred space where a deity was believed to reside. And so to contemplate is to engage in spiritual dialogue, which, like all dialogues, is going to involve both speaking and listening.
 
-> What if, for example, rather than seeing ourselves as taking a walk through the woods, we see ourselves as being a wave of energy rippling through the consciousness of a family of redwoods? How would this change the way we move through the environments we dwell in? How would it change the way we relate to our experiences? (cf. [[notes/wiggles|You’re a wiggle, and the world is wiggling you.]])
+> What if, for example, rather than seeing ourselves as taking a walk through the woods, we see ourselves as being a wave of energy rippling through the consciousness of a family of redwoods? How would this change the way we move through the environments we dwell in? How would it change the way we relate to our experiences? (cf. [[notes/we are wiggles|You’re a wiggle, and the world is wiggling you.]])
 
 > Water is an apt symbol for emotion in part because, like the archetypal trickster, it is slippery in the way that it can penetrate walls and boundaries invisibly, going from over here to over there without ever being seen.
 

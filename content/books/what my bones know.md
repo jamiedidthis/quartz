@@ -16,7 +16,6 @@ shelves:
 date: 2024-01-02T15:15:00
 lastmod: 2024-01-02T15:15:00
 ---
-
 Incredible memoir. One of the best books I’ve read about healing from abuse, dysfunction, and trauma. So much to relate to on every page (and not just because she had the same [Jimmy Eat World song ](https://www.youtube.com/watch?v=FV-HPOHu8mY) as a lifeline in the early aughts).
 
 It’s heartbreaking and eye-opening that her upbringing (Asian, middle-class, immigrant; raised in what she correctly calls the wreckage of America’s brutal proxy wars against communism) is almost a 1:1 overlap with what was going on behind the scenes for almost everyone I knew growing up (white, middle-class, evangelical; basically the inheritors of the “American dream”). 

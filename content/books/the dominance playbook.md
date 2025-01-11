@@ -21,7 +21,7 @@ shelves:
 date: 2024-09-21 23:17
 lastmod: 2024-09-21 23:17
 ---
-There’s a wealth of good relationship knowledge hidden in here, apart from any kink or power play stuff, like: [[notes/how to recognize abuse|Abuse is best recognized by the effect it has on the abused]].
+There’s a wealth of good relationship knowledge hidden in here, apart from any kink or power play stuff, like: [[notes/abuse is best recognized by the effect it has on the abused|Abuse is best recognized by the effect it has on the abused]].
   
 In fact, he has a list of questions to ask yourself when you’re involved in any type of relationship, and I’m gonna recap it here, because it should be mandatory reading, and deserves a much wider audience than people reading kink books:  
   

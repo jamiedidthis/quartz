@@ -32,11 +32,11 @@ The takeaway: 19th century biological essentialism is bunk (duh), and the majori
 * Gender distortions and appalling racism interlinked
 * “Complementarianism” is rooted in 18th century philosophy that justifies unequal distribution of rights ([[authors/jean-jacques rousseau|Rousseau]])
 * Getting “Steinached” in the 1920’s
-* PMS: a western myth and self-fulfilling prophecy? cf: [[notes/culture-bound syndrome|culture-bound syndrome]]
+* PMS: a western myth and self-fulfilling prophecy? cf: [[notes/disgust is a culture-bound syndrome|disgust is a culture-bound syndrome]]
 * The menstrual distress questionnaire: individuals who had never menstruated were indistinguishable from those who had
 * No focus on the positive behavioral changes and improved cognition, cf. *[[books/the woman in the body|The Woman in the Body]]*
-* [[notes/behaviorist theory|Behaviorism]]: a school of thought based on the idea that it’s not only appropriate but perfectly acceptable to extrapolate from animal to human behavior
-* Complementarianism linked to evolutionary theory and then used as justification for existing social hierarchies ([[notes/moral dumbfounding|moral dumbfounding]]?)
+* [[notes/behaviorist theory proves retributive justice does not work|Behaviorism]]: a school of thought based on the idea that it’s not only appropriate but perfectly acceptable to extrapolate from animal to human behavior
+* Complementarianism linked to evolutionary theory and then used as justification for existing social hierarchies ([[notes/moral dumbfounding is not moral reasoning|moral dumbfounding is not moral reasoning]]?)
 * “Evolutionary psychologists come firmly under the heading of scientists-as-explainers-of-the-status-quo.”
 * “Sex difference” studies reflect a biased perspective, preexisting beliefs, foregone conclusions, and misrepresented findings
 * Patterns of behavior are rarely stable but will change according to external circumstances; if what your participants do and say change when someone else is present, then the pattern of behavior cannot be interpreted as innate, fixed, or hardwired 
@@ -45,7 +45,7 @@ The takeaway: 19th century biological essentialism is bunk (duh), and the majori
 * ==If studies don’t report effect sizes, alarm bells should ring== 
 * Neurotrash and neurohype—research applied out of context to create dramatic headlines, push thinly veiled ideological arguments, or support particular policy agendas 
 * [[authors/mary wollstonecraft|Mary Wollstonecraft]]: “What a weak barrier is truth when it stands in the way of an hypothesis!”
-* Lifelong plasticity—brains reflect the lives they have lived, not just the sex of their owners (cf. [[notes/erotic plasticity|erotic plasticity]])
+* Lifelong plasticity—brains reflect the lives they have lived, not just the sex of their owners (cf. [[notes/our sense of the erotic is more plastic than we think|our sense of the erotic is more plastic than we think]])
 * The social brain network has some of the evolutionarily oldest parts of our brain as well as the very newest
 * Even when our brain is at rest, our “self” networks are active 
 * Our “self” and “other” identity responses—the groups that we feel we belong to are closely tied to our personal identity, which means how these groups are perceived is entangled with our own view of ourselves 

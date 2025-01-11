@@ -28,16 +28,6 @@ Brilliant. Insane. Philosophical. Spiritual. Erotic. I read it during the nearly
 
 ---
 
-### Our porous bodies
-
-Thinking of this description of the peloton each time I watch, and… isn’t this a description of our bodies in general? We are [[private/holobionts|holobionts]].
-
-> Its cohesion is so real that the limits of the individual are porous. Skewered by the marrow, every rider sheds some blood in the melting pot of the peloton's formidable heart, puts existence and breath at the service of the monster with a hundred mouths. Even when you consider those who ride apart from one another, the effort of a rider is never totally independent from the efforts of all the others.
-> 
-> The hydra has the dimensions of the sea and the fluidity of water.
-
----
-
 ### On Armstrong, Froome, and the gratuitous fascination of doping
 
 > Lance Armstrong, whose arrogance and cruelty I believe were unique.

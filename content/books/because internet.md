@@ -39,9 +39,9 @@ Highlights and takeaways, an incomplete list:
 * Irony, paradoxically, creates space for sincerity  
 * [[notes/language is a network|Language is a network]]
 * Godwin’s law was an experiment on memes
-* Memes and needlework are [[notes/collective folk texts|collective folk texts]]
-* [[notes/all fiction is fanfiction|Writing that builds on the universe of other writing is among our oldest forms of storytelling]]
-* [[notes/the culturally bound notion of authorship|We’ve had the right to adapt longer than we’ve had the right to prevent copying]]
+* [[notes/both memes and needlework are collective folk texts|Both memes and needlework are collective folk texts]]
+* Writing that builds on the universe of other writing is among our oldest forms of storytelling—[[notes/all fiction is fanfiction|all fiction is fanfiction]]
+* [[notes/we’ve had the right to adapt longer than we’ve had the right to prevent copying|We’ve had the right to adapt longer than we’ve had the right to prevent copying]]
 * There is no doing it wrong, we’re creating as we go
 
 If you’re into linguistics (🙋🏻‍♀️), like clever and informative books (🙋🏻‍♀️), are an elder millennial (🙋🏻‍♀️), remember the AOL dialup (🙋🏻‍♀️), use social media as your third place (🙋🏻‍♀️), find yourself hooked on Wordle (🙋🏻‍♀️), or want some hope for the future (🙋🏻‍♀️), don’t miss this book.

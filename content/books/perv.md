@@ -27,8 +27,8 @@ lastmod: 2024-09-21 15:28
 - Instead of “natural” or “unnatural”: Is it harmful?
 - [[notes/moral panics and mass hysteria|The pig-man hunts of New Haven]]
 - Even the term “bestiality” is religious, first appearing in the King James Version of the Bible in 1611 to falsely cleave apart human beings from all other animals
-- [[notes/moral dumbfounding|Moral dumbfounding]]
-- The symbolic disgust response is a [[notes/culture-bound syndrome|culture-bound syndrome]]
+- [[notes/moral dumbfounding is not moral reasoning|moral dumbfounding is not moral reasoning]]
+- The symbolic disgust response is a [[notes/disgust is a culture-bound syndrome|disgust is a culture-bound syndrome]]
 - The concept of the “perversions” (or “going against what is right”) is entirely a phantom of the moralizing human mind.
 - “Harm” must be understood as harm experienced by the parties involved, not by us as “disgusted” onlookers
 - ==Morality isn’t “out there” in the world; it’s a *way of seeing*, and it’s constantly evolving==
@@ -42,8 +42,8 @@ lastmod: 2024-09-21 15:28
 - Melissaphile (sounds like a cute moniker for someone who only wants to be with women named Melissa, but in fact it’s an erotic attraction to bees, with melissa being Greek for “honeybee”)
 - Using the acronym PNOS, for “paraphilia not otherwise specified” 😂 
 - The first category of paraphilias involves an unusual subject of desire, whereas the second centers on an unusual activity. It’s a useful distinction in thinking about abnormal sexuality, but note that these categories aren’t mutually exclusive.
-- Is bisexuality impacted by [[notes/erotic plasticity]]?
-- [[notes/how to recognize abuse|Abuse is best recognized by the effect it has on the abused]]—even tickling can be abuse (actually used as torture by Han dynasty!)
+- [[notes/bisexuality might be erotic plasticity|Bisexuality might be erotic plasticity]]
+- [[notes/abuse is best recognized by the effect it has on the abused|Abuse is best recognized by the effect it has on the abused]]—even tickling can be abuse (actually used as torture by Han dynasty!)
 - There’s no “correct” way to experience a sex act, only individual differences in subjective realities
 - ==7,088,343,857 shared subjective realities do not add up to a single objective fact (or to rephrase: one person’s horror story is another’s erotica)==
 - [[authors/jean-jacques rousseau|Rousseau]]: children are intrinsically pure “blank slates,” social *tabulae rasae*, displacing the older idea that they are adults in miniature

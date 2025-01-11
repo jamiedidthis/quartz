@@ -16,8 +16,10 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 
 # Episode 41
 
+![[images/cql-meme-41-9.jpg]]
 ![[images/cql-meme-41-1.jpg]]
 ![[images/cql-meme-41-2.jpg]]
+![[images/cql-meme-41-8.jpg]]
 ![[images/cql-meme-41-3.jpg]]
 ![[images/cql-meme-41-4.jpg]]
 ![[images/cql-meme-41-5.jpg]]
@@ -37,7 +39,10 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 ![[images/cql-meme-42-7.jpg]]
 ![[images/cql-meme-42-8.jpg]]
 ![[images/cql-meme-42-9.jpg]]
+![[images/cql-meme-42-15.jpg]]
 ![[images/cql-meme-42-10.jpg]]
+![[images/cql-meme-42-13.jpg]]
+![[images/cql-meme-42-14.jpg]]
 ![[images/cql-meme-42-11.jpg]]
 ![[images/cql-meme-42-12.jpg]]
 
@@ -66,6 +71,7 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 ![[images/cql-meme-44-4.jpg]]
 ![[images/cql-meme-44-5.jpg]]
 ![[images/cql-meme-44-6.jpg]]
+![[images/cql-meme-44-12.jpg]]
 ![[images/cql-meme-44-7.jpg]]
 ![[images/cql-meme-44-8.jpg]]
 ![[images/cql-meme-44-9.jpg]]
@@ -113,6 +119,7 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 ![[images/cql-meme-47-4.jpg]]
 ![[images/cql-meme-47-5.jpg]]
 ![[images/cql-meme-47-6.jpg]]
+![[images/cql-meme-47-9.jpg|500]]
 ![[images/cql-meme-47-7.jpg]]
 ![[images/cql-meme-47-8.jpg]]
 
@@ -129,6 +136,7 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 ![[images/cql-meme-48-10.jpg]]
 ![[images/cql-meme-48-8.jpg]]
 ![[images/cql-meme-48-7.jpg]]
+![[images/cql-meme-48-11.jpg]]
 ![[images/cql-meme-48-9.jpg]]
 
 ---
@@ -150,9 +158,11 @@ Episodes 41–50 aka the reckoning aka THE END (in which censorship tries to pre
 
 # Episode 50
 
+![[images/cql-meme-50-14.jpg]]
 ![[images/cql-meme-50-1.jpg]]
 ![[images/cql-meme-50-2.jpg]]
 ![[images/cql-meme-50-3.jpg]]
+![[images/cql-meme-50-15.jpg]]
 ![[images/cql-meme-50-12.jpg]]
 ![[images/cql-meme-50-5.jpg]]
 ![[images/cql-meme-50-6.jpg]]

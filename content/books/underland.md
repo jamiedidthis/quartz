@@ -25,4 +25,4 @@ lastmod: 2024-01-08 14:49
 ---
 > _For to think in deep time can be a means not of escaping our troubled present, but rather of re-imagining it; countermanding its quick greeds and furies with older, slower stories of making and unmaking._  
   
-Three different siren calls for me: geology, linguistics, and [[notes/deep time|deep time]]. Make that four: storytelling. Brilliant, beautiful, haunting, and thought-provoking book.
+Three different siren calls for me: geology, linguistics, and [[notes/deep time decenters the human|deep time]]. Make that four: storytelling. Brilliant, beautiful, haunting, and thought-provoking book.

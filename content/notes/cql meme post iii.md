@@ -10,6 +10,9 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 
 \[ [[notes/cql meme post i|part 1]], [[notes/cql meme post ii|part 2]], part 3, [[notes/cql meme post iv|part 4]], [[notes/cql meme post v|part 5]] \]
 
+![[images/cql-meme-0-4.jpg]]
+
+---
 # Episode 21
 
 ![[images/cql-meme-21-1.jpg]]
@@ -28,8 +31,10 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 
 # Episode 22
 
+![[images/cql-meme-22-9.jpg]]
 ![[images/cql-meme-22-1.jpg]]
 ![[images/cql-meme-22-8.jpg]]
+![[images/cql-meme-22-10.jpg]]
 ![[images/cql-meme-22-2.jpg]]
 ![[images/cql-meme-22-7.jpg]]*objection: there’s gotta be way more fake blood than fake tears in the budget*
 ![[images/cql-meme-22-3.jpg]]
@@ -44,6 +49,7 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 ![[images/cql-meme-23-2.jpg]]
 ![[images/cql-meme-23-3.jpg]]
 ![[images/cql-meme-23-4.jpg]]
+![[images/cql-meme-23-10.jpg]]
 ![[images/cql-meme-23-5.jpg]]
 ![[images/cql-meme-23-6.jpg]]
 ![[images/cql-meme-23-7.jpg]]
@@ -83,15 +89,19 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 
 # Episode 26
 
+![[images/cql-meme-26-16.jpg]]
 ![[images/cql-meme-26-1.jpg]]
 ![[images/cql-meme-26-2.jpg]]
 ![[images/cql-meme-26-13.jpg]]
+![[images/cql-meme-26-17.jpg]]
 ![[images/cql-meme-26-4.jpg]]
 ![[images/cql-meme-26-12.jpg]]
+![[images/cql-meme-26-14.jpg]]
 ![[images/cql-meme-26-5.jpg]]
-![[images/cql-meme-26-6.jpg]]
 ![[images/cql-meme-26-6b.jpg]]
+![[images/cql-meme-26-6.jpg]]
 ![[images/cql-meme-26-7.jpg]]
+![[images/cql-meme-26-15.jpg]]
 ![[images/cql-meme-26-8.jpg]]
 ![[images/cql-meme-26-9.jpg]]
 ![[images/cql-meme-26-10.jpg]]
@@ -123,8 +133,10 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 ![[images/cql-meme-28-5.jpg]]
 ![[images/cql-meme-28-6.jpg]]
 ![[images/cql-meme-28-7.jpg]]
+![[images/cql-meme-28-11.jpg]]
 ![[images/cql-meme-28-8.jpg]]
 ![[images/cql-meme-28-9.jpg]]
+![[images/cql-meme-28-12.jpg]]
 ![[images/cql-meme-28-10.jpg]]
 
 ---
@@ -151,6 +163,9 @@ Episodes 21–30, Sunshot campaign → setting up camp in the Burial Mounds. i.e
 ![[images/cql-meme-30-2.jpg]]
 ![[images/cql-meme-30-3.jpg]]
 ![[images/cql-meme-30-4.jpg]]
+![[images/cql-meme-30-9.jpg]]
+![[images/cql-meme-30-10.jpg]]
+![[images/cql-meme-30-8.jpg]]
 ![[images/cql-meme-30-5.jpg]]
 ![[images/cql-meme-30-6.jpg]]
 ![[images/cql-meme-30-7.jpg]]

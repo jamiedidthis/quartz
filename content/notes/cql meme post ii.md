@@ -9,12 +9,17 @@ lastmod: 2024-02-18 11:32
 Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angst City!!)
 
 \[ [[notes/cql meme post i|part 1]], part 2, [[notes/cql meme post iii|part 3]], [[notes/cql meme post iv|part 4]], [[notes/cql meme post v|part 5]] \]
+
+![[images/cql-meme-0-5.jpg]]
+
+---
 # Episode 11
 
 ![[images/cql-meme-11-1.jpg]]
 ![[images/cql-meme-11-2.jpg]]
 ![[images/cql-meme-11-8.jpg]]
-![[images/cql-meme-11-3.jpg]]
+![[images/cql-meme-11-9.jpg]]
+![[images/cql-meme-11-10.jpg]]
 ![[images/cql-meme-11-4.jpg]]
 ![[images/cql-meme-11-5.jpg]]
 ![[images/cql-meme-11-6.jpg]]
@@ -28,14 +33,18 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 ![[images/cql-meme-12-2.jpg]]
 ![[images/cql-meme-12-3.jpg]]
 ![[images/cql-meme-12-9.jpg]]
+![[images/cql-meme-12-11.jpg]]
 ![[images/cql-meme-12-4.jpg]]
+![[images/cql-meme-12-10.jpg]]
 ![[images/cql-meme-12-6.jpg]]
 
 ---
 
 # Episode 13
 
+![[images/cql-meme-13-13.jpg]]
 ![[images/cql-meme-13-1.jpg]]
+![[images/cql-meme-13-12.jpg]]
 ![[images/cql-meme-13-2.jpg]]
 ![[images/cql-meme-13-3.jpg]]
 ![[images/cql-meme-13-4.jpg]]
@@ -67,6 +76,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 # Episode 16
 
 ![[images/cql-meme-16-1.jpg]]
+![[images/cql-meme-16-6.jpg]]
 ![[images/cql-meme-16-2.jpg]]
 ![[images/cql-meme-16-3.jpg]]
 ![[images/cql-meme-16-5.jpg]]
@@ -77,6 +87,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 
 ![[images/cql-meme-17-1.jpg]]
 ![[images/cql-meme-17-2.jpg]]
+![[images/cql-meme-17-6.jpg]]
 ![[images/cql-meme-17-3.jpg]]
 ![[images/cql-meme-17-5.jpg]]
 ![[images/cql-meme-17-4.jpg]]
@@ -88,6 +99,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 ![[images/cql-meme-18-2.jpg]]
 ![[images/cql-meme-18-3.jpg]]
 ![[images/cql-meme-18-4.jpg]]
+![[images/cql-meme-18-5.jpg]]
 
 ---
 # Episode 19
@@ -104,6 +116,7 @@ Episodes 11–20, slaughter tortoises → basically just lots of slaughter (Angs
 # Episode 20
 
 ![[images/cql-meme-20-1.jpg]]
+![[images/cql-meme-20-6.jpg]]
 ![[images/cql-meme-20-2.jpg]]
 ![[images/cql-meme-20-3.jpg]]
 ![[images/cql-meme-20-4.jpg]]
