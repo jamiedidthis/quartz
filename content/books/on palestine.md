@@ -18,7 +18,7 @@ shelves:
   - political-science
   - palestine
   - middle-east
-  - activism-and-resistence
+  - activism
   - war-is-hell
   - essays
   - human-rights

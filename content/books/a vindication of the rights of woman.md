@@ -15,7 +15,7 @@ genres:
   - classics
 shelves:
   - cover-love
-  - activism-and-resistence
+  - activism
   - gender-studies
   - feminist-theory
   - political-science

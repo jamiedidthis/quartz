@@ -20,7 +20,7 @@ shelves:
   - class-politics
   - renaissance
   - edwardian
-  - enlightenment
+  - age-of-enlightenment
 date: 2024-09-09 14:42
 lastmod: 2024-09-09 14:42
 ---

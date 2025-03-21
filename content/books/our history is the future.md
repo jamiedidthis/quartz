@@ -14,7 +14,7 @@ genres:
   - history
   - sociology
 shelves:
-  - activism-and-resistence
+  - activism
   - indigenous
   - colonialism
   - social-justice

@@ -14,7 +14,7 @@ genres:
 shelves:
   - palestine
   - war-is-hell
-  - activism-and-resistence
+  - activism
   - racial-justice
   - imperialism
   - disability

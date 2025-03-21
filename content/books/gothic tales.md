@@ -19,10 +19,10 @@ shelves:
   - taboo
   - france
   - losing-my-religion
-  - enlightenment
   - gothic
   - short-stories
   - arc
+  - age-of-enlightenment
 date: 2024-09-03 16:40
 lastmod: 2024-09-03 16:40
 ---

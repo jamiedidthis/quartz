@@ -2,6 +2,7 @@
 title: Healthy stories are fluid, not fixed
 tags:
   - storytelling
+  - narrative
 date: 2023-06-08T14:01:00
 lastmod: 2023-06-08T14:01:00
 ---
@@ -17,7 +18,7 @@ Just calling it a trapdoor, an escape hatch, reminds me of *[[books/the body kee
 
 It’s what Bridger does—what [[authors/ada palmer|Ada Palmer]] does—in the series [[series/terra ignota|Terra Ignota]], rewriting the future on a galactic scale. We made the archetypes up to begin with, we make the choice to enact them, and we have the power to remake them at any time.
 
-> But it is a lie that says the story is eternal, that these roles Lover, Beloved, Villain—are primordial. We made them up, and if we act them, still that is our choice, ==eternal only while we assent to keep performing==. Each time the curtain rises on the final scene, the hero could declare, “I am not this,” and walk away. We want to stop it, urge them in our minds: Valmont, Othello, vengeful Clytemnestra, let it go! Each generation gets a little better, I think, at walking away, warned by past generations’ sad examples, yet the archetypes, once met, live in us always, dormant like viruses that can awaken when some other virus cruel like *she*—attacks. 
+> But it is a lie that says the story is eternal, that these roles Lover, Beloved, Villain—are primordial. We made them up, and if we act them, still that is our choice, ==eternal only while we assent to keep performing==. Each time the curtain rises on the final scene, the hero could declare, “I am not this,” and walk away. We want to stop it, urge them in our minds: Valmont, Othello, vengeful Clytemnestra, let it go! Each generation gets a little better, I think, at walking away, warned by past generations’ sad examples, yet the archetypes, once met, live in us always, dormant like viruses that can awaken when some other virus cruel like *she*—attacks. —[[authors/ada palmer|Ada Palmer]], *[[books/perhaps the stars|Perhaps the Stars]]*
 
 ---
 - see also: [[notes/all transmission is recreation|all transmission is recreation]]—we are part of the creation just through the act of transmission

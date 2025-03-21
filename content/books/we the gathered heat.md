@@ -43,7 +43,7 @@ shelves:
   - thailand
   - india
   - singapore
-  - activism-and-resistence
+  - activism
   - imperialism
   - colonialism
   - immigrant-experience

@@ -22,7 +22,7 @@ shelves:
   - life-and-death
   - americana
   - immigrant-experience
-  - activism-and-resistence
+  - activism
   - myths-and-folklore
   - asia
 date: 2024-01-02 23:15

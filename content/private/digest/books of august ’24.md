@@ -82,4 +82,4 @@ Trans rights are human rights, and to learn more or take action, I can personall
 
 ---
 
-**Previously: [[digest/books of july ’24|Books of July ’24]]**
+**Previously: [[private/digest/books of july ’24|Books of July ’24]]**

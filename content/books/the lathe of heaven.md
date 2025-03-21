@@ -15,7 +15,7 @@ shelves:
   - taoism
   - americana
   - space-walk
-  - activism-and-resistence
+  - activism
   - cover-love
   - canon
   - geopolitical

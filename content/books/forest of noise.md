@@ -22,7 +22,7 @@ shelves:
   - islam
   - arab
   - human-rights
-  - activism-and-resistence
+  - activism
 date: 2024-11-04 21:57
 lastmod: 2024-11-04 21:57
 ---

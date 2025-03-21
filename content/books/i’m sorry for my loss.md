@@ -15,7 +15,7 @@ genres:
   - sociology
 shelves:
   - cover-love
-  - activism-and-resistence
+  - activism
   - mental-health
   - grief
   - human-rights

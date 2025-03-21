@@ -13,4 +13,5 @@ All of us are embedded in our own safe “reality,” shaping what we see and kn
 
 ---
 - see also: [[notes/the most hideous ideologies are the ones we believe without realizing it|the most hideous ideologies are the ones we believe without realizing it]] — the ones so natural and obvious it’s like air and water, and we can’t see any alternatives
-- see also: [[notes/everything is fiction|everything is fiction]]
+- see also: [[notes/everything is fiction|everything is fiction]], we shape and invent our reality all the time
+- alternately: [[notes/a social construct doesn’t mean it’s not real|a social construct doesn’t mean it’s not real]]

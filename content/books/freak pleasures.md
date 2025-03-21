@@ -15,7 +15,7 @@ shelves:
   - kinky-books
   - queerly-beloved
   - protest-art
-  - activism-and-resistence
+  - activism
   - sex-work
   - pleasure-and-play
   - censorship

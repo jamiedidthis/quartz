@@ -37,7 +37,7 @@ shelves:
   - japan
   - mars
   - hopepunk
-  - activism-and-resistence
+  - activism
   - first-contact
   - asia
   - god-tier

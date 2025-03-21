@@ -19,7 +19,7 @@ shelves:
   - class-politics
   - feminist-theory
   - queer-theory
-  - activism-and-resistence
+  - activism
   - social-justice
 date: 2024-10-07 15:13
 lastmod: 2024-10-07 15:13

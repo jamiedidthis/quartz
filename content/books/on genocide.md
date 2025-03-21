@@ -19,7 +19,7 @@ shelves:
   - imperialism
   - colonialism
   - human-rights
-  - activism-and-resistence
+  - activism
   - asia
   - geopolitical
 date: 2024-11-26 23:37

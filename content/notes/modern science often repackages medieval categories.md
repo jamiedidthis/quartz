@@ -16,4 +16,4 @@ Other examples, a far from incomplete list:
 - Hysteria → nymphomania (“Nymphomania was just a fancy new way of saying “madness from the womb,” really, with just as much going for it as a scientific concept.” —[[authors/jesse bering|Jesse Bering]], *[[books/perv|Perv: The Sexual Deviant in All of Us]]*)
 
 ---
-- see also: [[notes/we rediscover and rename old ideas all the time|we rediscover and rename old ideas all the time]]—the process isn’t necessarily negative
+- see also: [[notes/everything old is new again|everything old is new again]]—the process isn’t necessarily negative

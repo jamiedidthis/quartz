@@ -19,7 +19,7 @@ shelves:
   - m-m
   - criminal-element
   - victorian
-  - activism-and-resistence
+  - activism
 date: 2023-12-16T15:11:00
 lastmod: 2023-12-16T15:11:00
 ---

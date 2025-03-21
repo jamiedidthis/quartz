@@ -24,7 +24,7 @@ shelves:
   - london
   - m-m
   - regency
-  - activism-and-resistence
+  - activism
 date: 2023-12-22T14:49:00
 lastmod: 2023-12-26T11:33:00
 ---

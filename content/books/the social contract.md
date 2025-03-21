@@ -14,10 +14,10 @@ genres:
   - philosophy
   - classics
 shelves:
-  - enlightenment
   - translation
   - france
   - political-science
+  - age-of-enlightenment
 date: 2024-09-22 00:16
 lastmod: 2024-09-22 00:16
 ---

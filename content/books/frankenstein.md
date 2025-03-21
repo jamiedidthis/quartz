@@ -23,4 +23,5 @@ shelves:
   - regency
 date: 2024-10-06 21:31
 lastmod: 2024-10-06 21:31
+alttitle: frankenstein
 ---

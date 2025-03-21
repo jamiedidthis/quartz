@@ -14,7 +14,7 @@ genres:
   - history
 shelves:
   - political-science
-  - activism-and-resistence
+  - activism
 date: 2024-01-01T15:16:00
 lastmod: 2024-01-01T15:16:00
 ---

@@ -2,6 +2,8 @@
 title: The relationship abuse checklist
 tags:
   - checklist
+  - abuse
+  - relationships
 date: 2024-12-21 12:35
 lastmod: 2024-12-21 12:35
 ---

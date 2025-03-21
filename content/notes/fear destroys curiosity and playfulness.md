@@ -2,6 +2,7 @@
 title: Fear destroys curiosity and playfulness
 tags:
   - pleasure-and-play
+  - curiosity
 date: 2024-12-21 23:05
 lastmod: 2024-12-21 23:05
 ---

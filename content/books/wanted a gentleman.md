@@ -22,7 +22,7 @@ shelves:
   - london
   - m-m
   - georgian
-  - activism-and-resistence
+  - activism
 date: 2023-12-31T15:14:00
 lastmod: 2023-12-31T15:14:00
 ---

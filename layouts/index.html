@@ -10,8 +10,7 @@
     <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
-        {{partial "recent-excerpt.html" . }}
-        <hr>
+
         {{partial "recent-books.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}

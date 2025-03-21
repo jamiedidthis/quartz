@@ -20,7 +20,7 @@ shelves:
   - new-england
   - americana
   - neurodivergent
-  - activism-and-resistence
+  - activism
   - gender-studies
   - arc
 date: 2024-09-07 22:19

@@ -123,4 +123,4 @@ I now understand the I Ching a fraction more than I did before! It’s a great a
 
 ---
 
-**Previously: [[digest/books of august ’24|Books of August ’24]]**
+**Previously: [[private/digest/books of august ’24|Books of August ’24]]**

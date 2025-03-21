@@ -16,7 +16,7 @@ shelves:
   - queer-history
   - queerly-beloved
   - abuse
-  - activism-and-resistence
+  - activism
   - kinky-books
   - m-m
   - gender-bender

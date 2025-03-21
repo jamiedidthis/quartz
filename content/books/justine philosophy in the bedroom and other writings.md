@@ -17,12 +17,12 @@ shelves:
   - kinky-books
   - translation
   - france
-  - enlightenment
   - queerly-beloved
   - losing-my-religion
   - taboo
   - satire
   - censorship
+  - age-of-enlightenment
 date: 2024-09-03 21:44
 lastmod: 2024-09-03 21:44
 ---

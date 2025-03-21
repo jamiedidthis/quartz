@@ -50,7 +50,7 @@ I love her odd little heart. I understand the way her mind works; it’s not unl
 - Poul Anderson — *Ensign Flandry, The Broken Sword, Guardians of Time*
 - Roger Zalazny — *Creatures of Light and Darkness, Nine Princes in Amber, The Guns of Avalon, Sign of the Unicorn, The Dream Master, Isle of the Dead, Doorways in the Sand, Roadmarks, This Immortal*
 - Samuel R. Delany — *Empire Star, Triton, Babel 17, The Einstein Intersection*
-- [[authors/kurt vonnegut|Kurt Vonnegut]] — *God Bless You, Mr. Rosewater, [[books/cats cradle|Cat’s Cradle]], Breakfast of Champions, Welcome to the Monkey House, The Sirens of Titan*
+- [[authors/kurt vonnegut|Kurt Vonnegut]] — *[[books/god bless you mr rosewater|God Bless You, Mr. Rosewater]], [[books/cats cradle|Cat’s Cradle]], Breakfast of Champions, Welcome to the Monkey House, [[books/the sirens of titan|The Sirens of Titan]]*
 - Zenna Henderson — _Pilgrimage_
 - John Wyndham — _The Chrysalids_
 - [[authors/mary renault|Mary Renault]] — *The Bull From the Sea, [[books/the charioteer|The Charioteer]], Purposes of Love, [[books/the last of the wine|The Last of the Wine]], Return to Night, The Persian Boy*
@@ -90,7 +90,7 @@ I love her odd little heart. I understand the way her mind works; it’s not unl
 - W.H. Auden — *Selected Poems*
 - Winston Churchill — _A History of the English-Speaking Peoples_
 - Douglas Adams — _A Hitchhiker’s Guide to the Galaxy_
-- [[authors/charlotte brontë|Charlotte Brontë]] — [[books/jane eyre|Jane Eyre]]
+- [[authors/charlotte brontë|Charlotte Brontë]] — *[[books/jane eyre|Jane Eyre]]*
 - Michael Coney — *Charisma, Hello Summer, Goodbye*
 - _Punch_ (magazine)
 - Thomas Hardy — *Far from the Madding Crowd*

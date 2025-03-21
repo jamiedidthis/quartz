@@ -1,7 +1,9 @@
 ---
 title: Institutional betrayal
 tags:
-  - systems-thinking
+  - checklist
+  - abuse
+  - ideology
 date: 2024-01-13T15:40:00
 lastmod: 2024-01-13T15:40:00
 ---

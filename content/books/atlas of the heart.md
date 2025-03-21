@@ -25,7 +25,7 @@ lastmod: 2023-12-31T14:50:00
 
 **Places we go when things aren’t what they seem**—amusement, bittersweetness, nostalgia, cognitive dissonance, paradox, irony, sarcasm
 
-**Places we go when we’re hurting**—anguish, hopelessness, [[notes/despair is a state of repair]], sadness, grief
+**Places we go when we’re hurting**—anguish, hopelessness, [[notes/despair is a state of repair|despair]], sadness, grief
 
 **Places we go with others**—compassion, pity, empathy, sympathy, boundaries, comparative suffering
 
@@ -40,48 +40,6 @@ lastmod: 2023-12-31T14:50:00
 **Places we go when we feel wronged**—anger, contempt, disgust, dehumanization, hate, self-righteousness
 
 **Places we go to self-assess**—pride, hubris, humility
-
----
-
-### Places we go when things are uncertain or too much 
-Stress, overwhelm, anxiety, worry, avoidance, excitement, dread, fear, vulnerability
-
-### Places we go when we compare
-Comparison, admiration, reverence, envy, jealousy, resentment, schadenfreude, freudenfreude
-
-### Places we go when things don’t go as planned
-Boredom, disappointment, expectations, regret, discouragement, resignation, frustration
-
-### Places we go when it’s beyond us
-Awe, wonder, confusion, curiosity, interest, surprise
-
-### Places we go when things aren’t what they seem
-Amusement, bittersweetness, nostalgia, cognitive dissonance, paradox, irony, sarcasm
-
-### Places we go when we’re hurting
-Anguish, hopelessness, despair, sadness, grief
-
-### Places we go with others
-Compassion, pity, empathy, sympathy, boundaries, comparative suffering
-
-### Places we go when we fall short
-Shame, self-compassion, perfectionism, guilt, humiliation, embarrassment
-
-### Places we go when we search for connection
-Belonging, fitting in, connection, disconnection, insecurity, invisibility, loneliness
-
-### Places we go when the heart is open
-Love, lovelessness, heartbreak, [[the trust checklist|trust]], [[the trust checklist#Self-trust|self-trust]], betrayal, defensiveness, flooding, hurt
-
-### Places we go when life is good
-Joy, happiness, calm, contentment, gratitude, foreboding joy, relief, tranquility
-
-### Places we go when we feel wronged
-Anger, contempt, disgust, dehumanization, hate, self-righteousness
-
-### Places we go to self-assess
-Pride, hubris, humility
-
 
 ---
 
@@ -123,7 +81,7 @@ Pride, hubris, humility
 > “Each person’s grief is as unique as their fingerprint. But what everyone has in common is that no matter how they grieve, they share a need for their grief to be witnessed.
 > That doesn’t mean needing someone to try to lessen it or reframe it for them. The need is for someone to be fully present to the magnitude of their loss without trying to point out the silver lining.” (David Kessler)
 
-> Re: compassion vs. empathy: It’s an important debate that is frustratingly hijacked on occasion by folks who come up with new, arbitrary definitions for emotions that are completely different from how we all use the terms. They change the meaning, then argue that the emotion is “bad” based on their new definitions. For example, someone might say that empathy is taking on all the feelings of another person, then argue that empathy is bad. Unfortunately, this approach is often misleading and self-serving and puts no value on how we use the word. I would argue that a lot of this linguistic shell-gaming is about wanting to be contrarian. There’s nothing more seductive and clickable than a discovery that something we believe to be good is bad: “Empathy is bad for you.” cf. [[Humankind: A Hopeful History]]
+> Re: compassion vs. empathy: It’s an important debate that is frustratingly hijacked on occasion by folks who come up with new, arbitrary definitions for emotions that are completely different from how we all use the terms. They change the meaning, then argue that the emotion is “bad” based on their new definitions. For example, someone might say that empathy is taking on all the feelings of another person, then argue that empathy is bad. Unfortunately, this approach is often misleading and self-serving and puts no value on how we use the word. I would argue that a lot of this linguistic shell-gaming is about wanting to be contrarian. There’s nothing more seductive and clickable than a discovery that something we believe to be good is bad: “Empathy is bad for you.” (cf. *[[books/humankind|Humankind: A Hopeful History]]*?
 
 > Researcher Matthew Kuan Johnson explains that people find experiences of joy difficult to articulate. He hypothesizes that the very nature of joy pushes the boundaries of our ability to communicate about lived experience via spoken language. ==He also suggests that because language can shape lived experience, cultures that have more words to describe the emotion of joy may also experience joy more richly.==
 

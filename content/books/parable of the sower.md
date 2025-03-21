@@ -25,7 +25,7 @@ shelves:
   - afrofuturism
   - africana
   - racial-justice
-  - activism-and-resistence
+  - activism
 date: 2024-01-02 15:47
 lastmod: 2024-01-02 15:47
 ---

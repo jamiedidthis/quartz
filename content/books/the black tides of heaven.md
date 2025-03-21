@@ -24,7 +24,7 @@ shelves:
   - war-is-hell
   - asia
   - imperialism
-  - activism-and-resistence
+  - activism
   - m-m
 date: 2024-03-03 15:40
 lastmod: 2024-03-03 15:40

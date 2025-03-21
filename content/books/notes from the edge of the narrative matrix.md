@@ -11,7 +11,8 @@ order:
 weight: 
 genres:
   - nonfiction
-shelves: 
+  - philosophy
+shelves: []
 date: 2024-11-10 15:58
 lastmod: 2024-11-10 15:58
 ---

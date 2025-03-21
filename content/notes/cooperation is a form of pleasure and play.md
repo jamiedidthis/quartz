@@ -1,5 +1,5 @@
 ---
-title: Cooperation is a form of pleasure and play in itself
+title: Cooperation is a form of pleasure and play
 tags:
   - collaboration
   - pleasure-and-play

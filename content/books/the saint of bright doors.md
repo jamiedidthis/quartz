@@ -19,7 +19,7 @@ shelves:
   - faux-history
   - sri-lanka
   - asia
-  - activism-and-resistence
+  - activism
   - life-and-death
   - myths-and-folklore
   - queerly-beloved

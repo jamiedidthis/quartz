@@ -15,7 +15,8 @@ shelves:
   - political-science
   - russia
   - pleasure-and-play
-  - activism-and-resistence
+  - activism
+  - anarchist
 date: 2024-01-02 15:22
 lastmod: 2024-01-02 15:22
 ---

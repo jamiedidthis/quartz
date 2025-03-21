@@ -35,4 +35,5 @@ Or, per Istavan in *[[books/paladin’s strength|Paladin’s Strength]]*, trust 
 
 ---
 - see also: [[notes/the relationship abuse checklist|the relationship abuse checklist]] — safety and trust are key factors in whether a relationship is abusive or not
-- see also: [[notes/the boundary is a meeting place|the boundary is a meeting place]] — appropriate boundaries aren’t just a limit, but a meeting place
+- see also: [[notes/trust is a very simple thing|trust is a very simple thing]] — patterns of behavior are generally very trustworthy
+- somewhat related: [[notes/the boundary is a meeting place|the boundary is a meeting place]] — appropriate boundaries aren’t just a limit, but a meeting place

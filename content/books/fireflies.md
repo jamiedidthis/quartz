@@ -16,6 +16,7 @@ shelves:
   - india
   - nature-walk
   - illustrated
+  - aphorisms
 date: 2024-12-22 13:53
 lastmod: 2024-12-22 13:53
 ---

@@ -18,7 +18,7 @@ shelves:
   - france
   - political-science
   - england
-  - enlightenment
+  - age-of-enlightenment
 date: 2024-09-22 00:11
 lastmod: 2024-09-22 00:11
 ---

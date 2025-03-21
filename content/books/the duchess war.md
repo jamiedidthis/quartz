@@ -14,7 +14,7 @@ genres:
 shelves:
   - too-many-dukes
   - england
-  - activism-and-resistence
+  - activism
   - feminist-theory
   - victorian
   - london

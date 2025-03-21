@@ -13,7 +13,7 @@ genres:
   - nonfiction
   - sociology
 shelves:
-  - activism-and-resistence
+  - activism
   - mental-health
   - social-justice
   - political-science

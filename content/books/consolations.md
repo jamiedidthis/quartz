@@ -273,7 +273,6 @@ _We are all compost for worlds we cannot yet imagine._
 
 > ==To become deeply silent is not to become still, but to become tidal and seasonal, a coming and going that has its own inimitable, essential character, a story not fully told, like the background of the sea, or the rain falling or the river going on, out of sight, out of our lives.==
 
-
 > Solace is what we must look for when the mind cannot bear the pain, the loss or the suffering that eventually touches every life and every endeavor; when longing does not come to fruition in a form we can recognize, when people we know and love disappear, when hope must take a different form than the one we have shaped for it.
 
 > Solace is the beautiful, imaginative home we make where disappointment can go to be rehabilitated. When life does not in any way add up, we must turn to the part of us that has never wanted a life of simple calculation.

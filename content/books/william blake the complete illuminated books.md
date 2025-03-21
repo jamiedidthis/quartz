@@ -15,7 +15,7 @@ genres:
 shelves:
   - fanfic-positive
   - spiritual-element
-  - activism-and-resistence
+  - activism
 date: 2023-12-29T15:15:00
 lastmod: 2023-12-30T11:38:00
 ---

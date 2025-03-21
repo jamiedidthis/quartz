@@ -14,7 +14,7 @@ genres:
   - history
 shelves:
   - queer-history
-  - activism-and-resistence
+  - activism
 date: 2024-12-20 15:20
 lastmod: 2024-12-20 15:20
 ---

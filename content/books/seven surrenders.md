@@ -36,7 +36,7 @@ shelves:
   - japan
   - mars
   - hopepunk
-  - activism-and-resistence
+  - activism
   - asia
   - god-tier
 date: 2024-01-02 22:59

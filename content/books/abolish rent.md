@@ -14,7 +14,7 @@ genres:
   - nonfiction
   - sociology
 shelves:
-  - activism-and-resistence
+  - activism
   - social-justice
   - race-politics
   - class-politics

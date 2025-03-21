@@ -30,4 +30,4 @@ This argument gets ignored, since cooperation for pleasure, as an end in itself,
 
 - Debunks Richard Dawkins and *The Selfish Gene*, likewise Dennett
 - Jean-Paul Sartre at one point became erotically obsessed with lobsters after taking too much mescaline 🤣
-- [[Physicists are the poets of the scientific world]] (more playful and less hidebound creatures than, say, biologists—partly, no doubt, because they rarely have to contend with religious fundamentalists challenging the laws of physics)
+- [[Physicists are the poets of the scientific world]] (more playful and less hidebound creatures than, say, biologists—partly, no doubt, because they rarely have to contend with religious fundamentalists challenging the laws of physics, lol)

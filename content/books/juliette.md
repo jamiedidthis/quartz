@@ -18,11 +18,11 @@ shelves:
   - translation
   - france
   - losing-my-religion
-  - enlightenment
   - queerly-beloved
   - taboo
   - censorship
   - satire
+  - age-of-enlightenment
 date: 2024-09-03 17:13
 lastmod: 2024-09-03 17:13
 ---

@@ -15,7 +15,7 @@ Now that I’m doing somatic therapy and various kinds of bodywork, these kinesi
 What I’ve experienced in the process feels—for lack of a better word—miraculous. I’ve had real, physiological pain in my body vanish. Had the Christian faith still been my framework, that’s what I would attribute any healing to.
 
 ---
-- see also: [[notes/modern science often repackages medieval categories|modern science often repackages medieval categories]], or for a more positive spin, [[notes/we rediscover and rename old ideas all the time|we rediscover and rename old ideas all the time]]
+- see also: [[notes/modern science often repackages medieval categories|modern science often repackages medieval categories]], or for a more positive spin, [[notes/everything old is new again|everything old is new again]]
 ---
 ## Further reading
 

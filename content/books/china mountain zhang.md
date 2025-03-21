@@ -19,7 +19,7 @@ shelves:
   - alt-history
   - queerly-beloved
   - dystopia-utopia
-  - activism-and-resistence
+  - activism
   - geopolitical
   - americana
   - arctic

@@ -62,4 +62,4 @@ I was lucky to get an ARC, so I can’t add my usual wall of quotes until it’s
 
 ---
 
-**Previously: [[digest/books of june ’24|Books of June ’24]]**
+**Previously: [[private/digest/books of june ’24|Books of June ’24]]**

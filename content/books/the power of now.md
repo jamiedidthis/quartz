@@ -12,7 +12,10 @@ weight:
 genres:
   - nonfiction
   - spirituality
-shelves: 
+shelves:
+  - new-age
+  - enlightenment
 date: 2024-12-30 12:39
 lastmod: 2024-12-30 12:39
 ---
+Serious question: what’s the difference between *The Power of Now* and *Eternal Sunshine of the Spotless Mind*?

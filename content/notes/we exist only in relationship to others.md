@@ -8,7 +8,7 @@ lastmod: 2024-12-21 23:11
 ---
 We cannot exist apart from each other. Everything is relative in the sense that *my* existence is not separate from *yours*.
 
-> We exist only in relationship to others. Our actions can be described only in their context. *My* existing requires *you*, and so forth. We are not separate, we define each other. The external world is as much you as your own body. —[[authors/alan watts|Alan Watts]], *[[books/out of your mind|Out of Your Mind]]
+> We exist only in relationship to others. Our actions can be described only in their context. *My* existing requires *you*, and so forth. We are not separate, we define each other. The external world is as much you as your own body. —[[authors/alan watts|Alan Watts]], *[[books/out of your mind|Out of Your Mind]]*
 
 ---
 - previously: [[notes/the external world is as much you as your own body|the external world is as much you as your own body]]

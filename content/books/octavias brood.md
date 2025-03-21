@@ -16,7 +16,7 @@ shelves:
   - queerly-beloved
   - social-justice
   - paranormal-activity
-  - activism-and-resistence
+  - activism
 date: 2024-01-02 15:42
 lastmod: 2024-01-02 15:42
 ---

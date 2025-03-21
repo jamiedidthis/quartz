@@ -12,7 +12,7 @@ genres:
   - nonfiction
   - sociology
 shelves:
-  - activism-and-resistence
+  - activism
   - pleasure-and-play
 date: 2024-01-28 13:38
 lastmod: 2024-01-28 13:38
