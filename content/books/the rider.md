@@ -4,7 +4,7 @@ subtitle: ""
 authors:
   - Tim Krabbé
 publishers:
-  - Bloomsbury USA
+  - Bloomsbury Publishing
 publishDate: 2003-06-12
 series: 
 order: 

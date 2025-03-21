@@ -4,7 +4,7 @@ subtitle: ""
 authors:
   - Pierre Bayard
 publishers:
-  - Bloomsbury USA
+  - Bloomsbury Publishing
 publishDate: 2010-08-10
 series: 
 order: 

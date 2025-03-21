@@ -20,10 +20,13 @@ shelves:
   - historical-fiction
   - renaissance
   - cover-love
+  - medieval-times
 date: 2024-03-17 17:59
 lastmod: 2024-03-17 17:59
 ---
 Historical (fan)fiction of Katarina Kepler, Johannes Kepler’s mother, famously tried as a witch. It’s fantastic, the character work, the structure, the narrative voice(s), the exuberant black humor that becomes blacker and blacker as it follows the warp of history. An impressive example of what the genre can do, no boring litfic pretentiousness here.
+
+Note: the Keplers make me think of [[authors/susan griffin|Susan Griffin’s]] seminal book *[[books/woman and nature|Woman and Nature]]*, where the timeline of major historical achievements is interspersed with the timeline of infamous witch trials to chilling effect. And also [[authors/ada palmer|Ada Palmer’s]] *[[books/inventing the renaissance|Inventing the Renaissance]]*, which shows that despite all our myths to the contrary, the “medieval” and “modern” overlap to a sobering degree, to the point of often being indistinguishable. 
 
 ## Pull Quotes
 
