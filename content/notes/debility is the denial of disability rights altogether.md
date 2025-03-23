@@ -14,7 +14,7 @@ This leads to cognitive dissonance and egregious hypocrisy, where a state perpet
 
 > Israel is, in fact, a signatory on the UN Convention on the Rights of Persons with Disabilities. The IDF proudly claims to be the world’s largest employer of [[notes/autism|autistic people]], and in August, an ambassador told the UN that Israel is committed to eliminating ableism. But this disability rights frame, which for a long time, has been led and theorized by white disabled people who live in the US and Europe, doesn’t map onto the experiences of racialized groups who are targeted en masse by the state.[^2]
 
-It’s back to that same concept of [[notes/worthy victims|worthy victims]] and [[notes/who is more deserving|who is deserving]]. The [entire essay from Jesse Meadows](https://sluggish.substack.com/p/what-does-disability-justice-mean) is worth a read. 
+It’s back to that same concept of [[private/worthy victims|worthy victims]] and [[notes/who is more deserving|who is deserving]]. The [entire essay from Jesse Meadows](https://sluggish.substack.com/p/what-does-disability-justice-mean) is worth a read. 
 
 > When repression is globalized, our solidarity must be, too.
 

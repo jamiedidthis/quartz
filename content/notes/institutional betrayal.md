@@ -1,9 +1,9 @@
 ---
 title: Institutional betrayal
 tags:
-  - checklist
   - abuse
   - ideology
+  - list
 date: 2024-01-13T15:40:00
 lastmod: 2024-01-13T15:40:00
 ---

@@ -4,6 +4,7 @@ tags:
   - philosophy
   - nature
   - animism
+  - collaboration
 date: 2024-12-20 13:29
 lastmod: 2024-12-20 13:29
 ---

@@ -13,7 +13,7 @@ This happens internally too. If we consist of many parts, there are myriad of me
 
 > There are boundaries within each of us where different parts of us come together, too. [[authors/carl jung|Carl Jung]] talked about transcendent function, which feels related to Bhabha’s hybridity. Transcendent function has to do with understanding and finding value in what can emerge when conflicting parts within us meet and clash. Perhaps when a person is torn between obligation and desire, for instance, something new can emerge, a third thing that braids together what we should do and what we want to do. In making a space for that tension, what once felt like a hard knot may begin to loosen a bit.
 
-> Space needs to be made not only for what we think and what we feel—and what others think and feel—but also for the stuff that arises in the spaces where these different energies conflict. It is in holding this tension that Jung says “a third thing in which opposites can unite” emerges. —[[authors/jessica dore|Jessica Dore]], *[[books/tarot for change|Tarot for Change]]
+> Space needs to be made not only for what we think and what we feel—and what others think and feel—but also for the stuff that arises in the spaces where these different energies conflict. It is in holding this tension that Jung says “a third thing in which opposites can unite” emerges. —[[authors/jessica dore|Jessica Dore]], *[[books/tarot for change|Tarot for Change]]*
 
 ---
 - see also: [[notes/we exist only in relationship to others|we exist only in relationship to others]]

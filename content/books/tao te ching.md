@@ -11,13 +11,15 @@ series:
 weight: 
 genres:
   - nonfiction
-  - religion
+  - philosophy
+  - spirituality
 shelves:
   - translation
   - china
   - spiritual-element
   - canon
   - asia
+  - taoism
 date: 2024-01-02 23:13
 lastmod: 2024-01-02 23:13
 ---

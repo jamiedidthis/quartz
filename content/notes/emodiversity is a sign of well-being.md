@@ -12,7 +12,7 @@ Experiencing a broad range of emotions, aka “emodiversity,” is more signific
 
 > It makes sense that emodiversity would be an indicator of well-being. The more variations of emotion we’re able and willing to feel, the freer we are because we rely less on rigid avoidance strategies to feel safe.
 
-> Imagine trying to look at a rainbow and not wanting to see the color green. You’d have to close your eyes entirely, so you miss out on the rest. —[[authors/jessica dore|Jessica Dore]], *[[books/tarot for change|Tarot for Change]]
+> Imagine trying to look at a rainbow and not wanting to see the color green. You’d have to close your eyes entirely, so you miss out on the rest. —[[authors/jessica dore|Jessica Dore]], *[[books/tarot for change|Tarot for Change]]*
 
 ---
 - see also: if [[notes/diversity provides stability|diversity provides stability]] in an ecosystem, why not internally and emotionally as well?

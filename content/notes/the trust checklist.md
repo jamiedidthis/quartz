@@ -3,7 +3,7 @@ title: The trust checklist
 tags:
   - therapy
   - emotional-intelligence
-  - checklist
+  - list
 date: 2024-01-15T15:02:00
 lastmod: 2024-01-15T15:02:00
 ---
@@ -11,7 +11,7 @@ Trust is more of a cognitive assessment than an emotion. Distrust is when you fe
 
 In *[[books/atlas of the heart|Atlas of the Heart]]*, [[authors/brené brown|Brené Brown]] lists seven specific trustworthy behaviors:
 
-1. **Boundaries**—You respect my boundaries, and when you’re not clear about what’s okay and no okay, you ask. You’re willing to say no.
+1. **Boundaries**—You respect my boundaries, and when you’re not clear about what’s okay and not okay, you ask. You’re willing to say no.
 2. **Reliability**—You do what you say you’ll do. This includes how you don’t overpromise and are able to deliver on commitments.
 3. **Accountability**—You own your mistakes, apologize, and make amends.
 4. **Confidentiality**—You don’t share information or experiences that are not yours to share. *(Note: she calls this “vault,” I renamed because the grammatical inconsistency was bugging me! 😂)*

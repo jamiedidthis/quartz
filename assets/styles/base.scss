@@ -112,6 +112,10 @@ ul {
   }
 }
 
+li:hover::marker {
+  color: var(--secondary);
+}
+
 ol {
   & > li::marker {
     font-family: var(--font-mono);

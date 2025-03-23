@@ -1,9 +1,9 @@
 ---
 title: The relationship abuse checklist
 tags:
-  - checklist
   - abuse
   - relationships
+  - list
 date: 2024-12-21 12:35
 lastmod: 2024-12-21 12:35
 ---
@@ -35,4 +35,4 @@ If you are at all uncomfortable with your own answers to these questions, then s
 ---
 - see also: [[notes/abuse is best recognized by the effect it has on the abused|abuse is best recognized by the effect it has on the abused]], because the closer you are to someone, the harder it is to see when the dynamic is unhealthy
 - paired with the [BITE model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/), this could be such a good barometer for cult-like authoritarian control too
-- see also: [[notes/the trust checklist|the trust checklist]], behaviors that indicate someone is trustworthy
+- see also: [[notes/the trust checklist|the trust checklist]], behaviors that indicate someone is trustworthy, and the concept of [[notes/institutional betrayal|institutional betrayal]]

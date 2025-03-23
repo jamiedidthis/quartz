@@ -17,3 +17,6 @@ This makes me think of “The Uses of Anger,” [[authors/audre lorde|Audre Lord
 And also [[authors/david whyte|David Whyte]], in *[[books/consolations|Consolations]]:*
 
 > Anger is the deepest form of compassion, for another, for the world, for the self, for a life, for the body, for a family and for all our ideals, all vulnerable and all, possibly about to be hurt. Stripped of physical imprisonment and violent reaction, anger is the purest form of care, the internal living flame of anger always illuminates what we belong to, what we wish to protect and what we are willing to hazard ourselves for.
+
+---
+- see also: [[notes/emodiversity is a sign of well-being|emodiversity is a sign of well-being]] — experiencing diverse emotions is key to our health
