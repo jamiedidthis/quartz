@@ -2,6 +2,7 @@
 title: Self-censorship is primarily state censorship
 tags:
   - censorship
+  - power
 date: 2025-01-12 16:30
 lastmod: 2025-01-12 16:30
 ---

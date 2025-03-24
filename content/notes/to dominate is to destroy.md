@@ -3,6 +3,7 @@ title: To dominate is to destroy
 tags:
   - taoism
   - nature
+  - power
 date: 2025-03-22 22:26
 lastmod: 2025-03-22 22:26
 ---

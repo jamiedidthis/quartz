@@ -2,6 +2,7 @@
 title: Pleasure can be therapeutic
 tags:
   - pleasure-and-play
+  - therapy
 date: 2024-01-28 13:36
 lastmod: 2024-01-28 13:36
 ---

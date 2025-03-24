@@ -1,6 +1,7 @@
 ---
 title: True power makes itself as invisible as it can
-tags: 
+tags:
+  - power
 date: 2025-03-22 00:22
 lastmod: 2025-03-22 00:22
 ---

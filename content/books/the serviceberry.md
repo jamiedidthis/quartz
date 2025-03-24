@@ -13,7 +13,12 @@ genres:
   - nonfiction
   - nature
   - economics
-shelves: 
+shelves:
+  - activism
+  - ecology
+  - indigenous
+  - anarchist
+  - nature-walk
 date: 2025-03-21 00:49
 lastmod: 2025-03-21 00:49
 ---

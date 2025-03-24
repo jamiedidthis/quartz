@@ -4,6 +4,7 @@ tags:
   - abuse
   - ideology
   - list
+  - power
 date: 2024-01-13T15:40:00
 lastmod: 2024-01-13T15:40:00
 ---

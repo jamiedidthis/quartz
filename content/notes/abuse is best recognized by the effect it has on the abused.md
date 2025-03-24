@@ -17,3 +17,4 @@ I’m just going to paraphrase and quote this whole bit from *[[books/the domina
 
 ---
 - see also: [[notes/the relationship abuse checklist|the relationship abuse checklist]], one of the best indications I’ve found on whether a relationship is healthy or not
+- see also: [[notes/how to detect manipulation|how to detect manipulation]]

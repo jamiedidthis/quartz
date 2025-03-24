@@ -2,6 +2,7 @@
 title: The three lies of power
 tags:
   - belief-systems
+  - power
 date: 2024-12-24 13:31
 lastmod: 2024-12-24 13:31
 ---

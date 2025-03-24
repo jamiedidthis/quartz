@@ -12,4 +12,4 @@ On the whole radical acceptance front, even confusion—*especially* confusion�
 
 ---
 - previously: [[notes/emodiversity is a sign of well-being|emodiversity is a sign of well-being]] — it’s about experiencing the full range of emotions, not avoiding or limiting the “bad” ones
-- 
+- see also: [[notes/how to detect manipulation|how to detect manipulation]], in case the confusion is benefiting someone else
