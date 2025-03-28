@@ -10,6 +10,8 @@ On the whole radical acceptance front, even confusion—*especially* confusion�
 
 > The idea that confusion could have therapeutic value is powerful because it takes a human condition that’s generally thought to be negative and suggests that it could actually be a kind of crucible. It probes into the possibility that confusion could actually be an ideal time for working on our ancient and atrophied modes of seeing, moving, and knowing. —[[authors/jessica dore|Jessica Dore]], *[[books/tarot for change|Tarot for Change]]*
 
+I would add, it’s also a valuable clue on whether you’re being abused. Confusion is key to [[notes/the three stages of gaslighting|gaslighting and manipulation]], and [[notes/abuse is best recognized by the effect it has on the abused|abuse is best recognized by the effect it has on the abused]].
+
 ---
 - previously: [[notes/emodiversity is a sign of well-being|emodiversity is a sign of well-being]] — it’s about experiencing the full range of emotions, not avoiding or limiting the “bad” ones
 - see also: [[notes/how to detect manipulation|how to detect manipulation]], in case the confusion is benefiting someone else

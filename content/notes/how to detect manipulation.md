@@ -16,3 +16,4 @@ But being stuck is the first step. *Awareness* of being stuck is the first huge 
 - previously: [[notes/getting clear on your core values prevents manipulation|getting clear on your core values prevents manipulation]]
 - see also: [[notes/don’t pledge allegiance to any one ideology|don’t pledge allegiance to any one ideology]], a lot of times that’s just asking for authoritarian control
 - related: [[notes/confusion is a crucible|confusion is a crucible]], pay attention to it
+- see also: [[notes/how to beat a manipulator|how to beat a manipulator]]

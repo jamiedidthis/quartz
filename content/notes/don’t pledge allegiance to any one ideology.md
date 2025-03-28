@@ -11,7 +11,7 @@ Make a patchwork quilt! That’s so much more fun, effective, and reliable than 
 
 Ideology → purity → supremacy happens all the time. Or at best, you get tangled up in labels and abstractions, and the arguments thereof. 
 
-The closest ideologies to my own values are an overlapping hodgepodge of taoism, anarchism, and indigenous animism, with a lil’ sprinkling of socialism, etc. (And indeed, [[notes/individuality is inseparable from community|they keep overlapping in remarkable ways]].) But I am not an *-ist* of any one of those things.
+The closest ideologies to my own values are an overlapping hodgepodge of taoism, anarchism, and indigenous animism, with a lil’ sprinkling of socialism, etc. (And indeed, [[notes/individuality is inseparable from community|they keep overlapping]].) But I am not an *-ist* of any one of those things.
 
 I hold my core beliefs much more firmly, and therefore my ideologies much more loosely than that. Attaching to a label or doctrine is like putting a leash on your neck and asking to be led astray. And if we make a healthy world, it’s not going to come from one ideology neatly replacing another. 
 

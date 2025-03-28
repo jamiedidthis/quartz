@@ -13,4 +13,4 @@ No wonder Ecclesiastes has long been my favorite part of Hebrew scripture (along
 A book within the scriptures casting doubt on the other scriptures is always my jam, but denying retribution theology too—no wonder it resonated inexplicably with younger me. That and the existentialism of course. And *[[seasonal time|to everything a season]]*. 
 
 ---
-- see also: [[notes/behaviorist theory proves retributive justice does not work|behaviorist theory proves retributive justice does not work]]—I too will protest the shit out of retributive justice
+- see also: [[notes/retributive justice does not work|retributive justice does not work]]—I too will protest the shit out of retributive justice

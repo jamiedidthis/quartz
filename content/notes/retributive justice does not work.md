@@ -1,5 +1,5 @@
 ---
-title: Behaviorist theory proves retributive justice does not work
+title: Retributive justice does not work
 tags:
   - belief-systems
 date: 2024-09-21 23:12

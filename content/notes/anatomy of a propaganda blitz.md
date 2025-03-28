@@ -55,7 +55,7 @@ Every one of these things, much less the concatenation of all of them, signals *
 - the “official enemy” does *the one thing* most likely to trigger invasion, bombing, electoral disaster, and so on, at *exactly* the wrong time (i.e. Assad used chemical weapons exactly when chemical weapons inspectors entered the Syrian capital, etc.)
 - calls on the Hollywood trope of idiotic blindly self-destructive Dr Evil villains, so you can think “he’s nuts, he’s really asking for it!”
 - Milosevic, bin Laden, Saddam Hussein, Chávez, Gaddafi, Assad, Corbyn – basically the same Bond villain over and over again
-- examples: the almost daily terror warnings in US and UK ahead of the Iraq war, a “softening up process” that was really a form of psychological terrorism Bush and Blair perpetuated on their own people; atrocity claims peaking in 2013 until Obama chose not to bomb Syria, at which point the daily headlines simply dried up
+- examples: the almost daily terror warnings in US and UK ahead of the Iraq war, a “softening up process” that was really a form of psychological terrorism Bush and Blair perpetuated on their own people; atrocity claims peaking in 2013 until Obama chose not to bomb Syria, at which point the daily headlines simply dried up (cf. [[notes/us exceptionalism is abusive narcissism|us exceptionalism is abusive narcissism]] on how that “tenderizing” terror works)
 
 ## Tragicomic moral dissonance
 - targets are Official Enemies whose actual, alleged, and often invented crimes are dwarfed by the crimes committed by the western governments and their allies
@@ -75,4 +75,5 @@ Or, to put it a lil’ bit more bluntly: 💀
 ---
 - see also: [[notes/mute the narrative soundtrack for global politics|mute the narrative soundtrack for global politics]] to get a much clearer picture of what’s going on in the world
 - see also: [[notes/complexity is sometimes noise|“complexity” is sometimes noise]], a mountain of apologia to make something evil and stupid seem smart and good
+- related: [[notes/the three stages of gaslighting|the three stages of gaslighting]] and [[notes/how to beat a manipulator|how to beat a manipulator]]
 - related: [[notes/tools for thinking about censorship|tools for thinking about censorship]]

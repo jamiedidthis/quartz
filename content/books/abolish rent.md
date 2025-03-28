@@ -24,7 +24,7 @@ shelves:
 date: 2024-10-06 15:45
 lastmod: 2024-10-06 15:45
 ---
-An enthusiastic and persuasive manifesto on housing rights as human rights. It’s encouraging to see such robust organizing among tenants across the country, and the practical template for how to expand it. The authors rightly quote [[authors/ursula k le guin|Ursula Le Guin]]: our housing system is a human power—produced by people, not God or nature. And any human power, she wrote, can be changed by human beings.
+An enthusiastic and persuasive manifesto on housing rights as human rights. It’s encouraging to see such robust organizing among tenants across the country, and the practical template for how to expand it. The authors rightly quote [[authors/ursula k le guin|Ursula Le Guin]]: our housing system is a human power—produced by people, not God or nature. And [[notes/any human power can be changed by human beings|any human power, she said, can be changed by human beings]].
 
 Further recent reading: 
 

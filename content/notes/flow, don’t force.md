@@ -21,7 +21,7 @@ Oops, [[notes/individuality is inseparable from community|once again this is ana
 wúwéi ér wúbùwéi. ( «Dàodéjīng»)
 Do nothing and everything is done.
 
-(Or rather, do nothing and let things take their own course. Perhaps the closest translation is *no unnatural action* instead of no action at all.)
+(Or rather, do nothing and let things take their own course. Perhaps the closest translation is *no unnatural, forceful action* instead of no action at all.)
 
 ---
 
@@ -33,4 +33,5 @@ Do nothing and everything is done.
 - see also: [[notes/noticing the block means you’re ready to do the work|noticing the block means you’re ready to do the work]] — I think this happens large scale and small, individually and collectively (indeed, [[notes/individuality is inseparable from community|the individual is inseparable from the collective]])
 - previously: [[notes/the most hideous ideologies are the ones we believe without realizing it|the most hideous ideologies are the ones we believe without realizing it]] — even forcing the “best” ideas on someone else is tyranny
 - related: [[notes/the three lies of power|the three lies of power]], one of which is that ideas must be spread by force
-- see also: [[notes/to dominate is to destroy|to dominate is to destroy]]
+- see also: [[notes/nature is emergent and adaptive|nature is emergent and adaptive]]
+- see also: [[notes/it happens when it’s time|it happens when it’s time]]

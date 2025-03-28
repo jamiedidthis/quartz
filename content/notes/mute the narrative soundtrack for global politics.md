@@ -2,6 +2,7 @@
 title: Mute the narrative soundtrack for global politics
 tags:
   - narrative
+  - propaganda
 date: 2025-03-21 22:51
 lastmod: 2025-03-21 22:51
 ---
@@ -17,5 +18,7 @@ To help mute that soundtrack, here’s a hot tip:
 
 ---
 - previously: learning the [[notes/anatomy of a propaganda blitz|anatomy of a propaganda blitz]] helps cut through the cacophony
+- see also: [[notes/since it’s all narrative, anything is possible|since it’s all narrative, anything is possible]]
+- related: [[notes/getting clear on your core values prevents manipulation|getting clear on your core values prevents manipulation]]
 
 

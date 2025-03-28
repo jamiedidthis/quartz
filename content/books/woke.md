@@ -10,8 +10,13 @@ series:
 order: 
 weight: 
 genres:
-  - ""
-shelves: 
+  - nonfiction
+  - art
+  - politics
+shelves:
+  - zine
+  - dystopia-utopia
+  - therapeutic
 date: 2024-11-10 16:15
 lastmod: 2024-11-10 16:15
 ---

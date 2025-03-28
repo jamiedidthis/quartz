@@ -17,6 +17,7 @@ shelves:
   - spiritual-element
   - arc
   - americana
+  - zine
 date: 2024-10-06 15:36
 lastmod: 2024-10-06 15:36
 ---

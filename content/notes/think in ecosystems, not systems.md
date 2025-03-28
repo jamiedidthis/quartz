@@ -6,7 +6,7 @@ tags:
 date: 2025-01-10 22:37
 lastmod: 2025-01-10 22:37
 ---
-When we want to change the system, we’re still thinking in terms of *systems.* That only leads to more authoritarianism, even if the despots briefly agree with us. Instead, thinking in *ecosystems* changes both the question and the process entirely.
+When we want to change the system, we’re still thinking in terms of *systems.* That only leads to more authoritarianism, even if the despots briefly agree with us. ([[notes/nice guy fascism is still fascism|Nice guy fascism is still fascism]].) Instead, thinking in *ecosystems* changes both the question and the process entirely.
 
 > The better way to pose this question is to tack a few extra letters onto the front: how should the *eco*system work? As soon as you start thinking in ecosystems, you stop imagining that everyone has to live under one New World Order. You start wondering what mix of organisms might keep the ecosystem healthy, and how they might coexist with one another. 
 > 

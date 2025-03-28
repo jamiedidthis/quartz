@@ -1,5 +1,5 @@
 ---
-title: Life is constantly creating options
+title: Nature is emergent and adaptive
 tags:
   - emergence
   - nature

@@ -35,7 +35,7 @@ The takeaway: 19th century biological essentialism is bunk (duh), and the majori
 * PMS: a western myth and self-fulfilling prophecy? cf: [[notes/disgust is a culture-bound syndrome|disgust is a culture-bound syndrome]]
 * The menstrual distress questionnaire: individuals who had never menstruated were indistinguishable from those who had
 * No focus on the positive behavioral changes and improved cognition, cf. *[[books/the woman in the body|The Woman in the Body]]*
-* [[notes/behaviorist theory proves retributive justice does not work|Behaviorism]]: a school of thought based on the idea that it’s not only appropriate but perfectly acceptable to extrapolate from animal to human behavior
+* [[notes/retributive justice does not work|Behaviorism]]: a school of thought based on the idea that it’s not only appropriate but perfectly acceptable to extrapolate from animal to human behavior
 * Complementarianism linked to evolutionary theory and then used as justification for existing social hierarchies ([[notes/moral dumbfounding is not moral reasoning|moral dumbfounding is not moral reasoning]]?)
 * “Evolutionary psychologists come firmly under the heading of scientists-as-explainers-of-the-status-quo.”
 * “Sex difference” studies reflect a biased perspective, preexisting beliefs, foregone conclusions, and misrepresented findings
