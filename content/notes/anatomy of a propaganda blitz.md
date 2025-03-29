@@ -26,6 +26,7 @@ Every one of these things, much less the concatenation of all of them, signals *
 - durability of the claims is not a chief concern; attention will rapidly move on (often distracted by another blitz)
 - the hype may eventually be exposed as a fraud but it’s too little too late, and attention is intentionally diverted from it
 - Examples: Gulf of Tonkin, the Iraq WMDs, Kuwaiti war crimes, Gaddafi/Benghazi, Syria chemical weapons, Corbyn anti-semitism, Venezuela regime change, Srebrenica massacre, Libya, Iran, Ukraine, Russiagate, literally too many to list 
+- Note: in 2025, watch all of this list unfold in real time with the [atrocity propaganda](https://www.caitlinjohnst.one/p/israel-pushes-new-atrocity-narrative) against targeted enemies (Gaza, Yemen, Iran, on and on)
 
 ## Emotional tone and intensity
 - the tone is always shrill, vehement, and hysterical

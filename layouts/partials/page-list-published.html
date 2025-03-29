@@ -7,7 +7,7 @@
                     <img src="{{ $baseUrl }}books/book-covers/{{if .Params.alttitle }}{{.Params.alttitle | urlize | lower }}{{else}}{{.Params.title | urlize | lower }}{{end}}.jpg" alt="book cover for {{ .Params.title }}">
                 </a>
             </div>
-              <h1><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}" class="internal-link">{{- .Title -}}</a></h1>
+              <h3><a href="{{ .Permalink }}" data-src="{{ .RelPermalink }}" class="internal-link">{{- .Title -}}</a></h3>
                 <div class="author-publisher">
                     <ul class="authors">
                         {{ range .Params.authors }}<li class="authors"><a href="{{ $baseUrl }}authors/{{ . | urlize | lower }}" class="internal-link">{{ . }}</a></li>{{ end }}
