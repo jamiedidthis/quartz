@@ -23,7 +23,7 @@ shelves:
 date: 2024-01-02 23:13
 lastmod: 2024-01-02 23:13
 ---
-In my opinion, the definitive text. The Ursula K. Le Guin translation (and footnotes!) is everything. Nobody listens to language the way Ursula does. If *[[books/kalpa imperial|Kalpa Imperial]]* was an ideal pairing between text and translator, this is even more so.
+The Ursula K. Le Guin translation (and footnotes!) is everything. Nobody listens to language the way Ursula does. If *[[books/kalpa imperial|Kalpa Imperial]]* was an ideal pairing between text and translator, this is even more so.
 
 From her introduction:
 

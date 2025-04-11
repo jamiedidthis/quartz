@@ -7,7 +7,7 @@ tags:
 date: 2024-12-20 13:14
 lastmod: 2024-12-20 13:14
 ---
-In the indigenous worldview, vegetal life is granted agency and even personhood.
+In the indigenous worldview, vegetal life is granted agency and even personhood, and is treated with respect and reverence accordingly.
 
 > Each creature is directly responsible for the well-being of many beings at many times, but not for all beings at all times, and these “overlap[ping] connections” sustain a community united not by its identity to itself, but by its complex, mobile, and interrelated differentiations. —[[authors/mary-jane rubenstein|Mary-Jane Rubenstein]], *[[books/pantheologies|Pantheologies]]*
 

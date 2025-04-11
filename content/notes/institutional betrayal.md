@@ -19,6 +19,10 @@ When a corporation, church, government, organization, program, school, or family
 - Control and fear are management tools
 - A trail of devastation and pain
 
-Huh. That description fits a lot of religious trauma, eh?
+Huh. That description fits a lot of religious trauma, eh? Not to mention basically our entire mainstream worldview.
 
-As [[authors/brené brown|Brené Brown]] says (*[[books/atlas of the heart|Atlas of the Heart]]*), the only way back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.
+As [[authors/brené brown|Brené Brown]] says (*[[books/atlas of the heart|Atlas of the Heart]]*), the only way an institution can come back from that kind of betrayal is accountability, amends, and action, which have to acknowledge the pain and trauma caused without rationalizing or making excuses.
+
+---
+- see also: [[notes/power is both structural and ideological|power is both structural and ideological]]
+- see also: [[notes/transparency should be directly proportionate to power|transparency should be directly proportionate to power]]

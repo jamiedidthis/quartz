@@ -23,6 +23,7 @@ Every one of these things, much less the concatenation of all of them, signals *
 ---
 ## ​Dramatic new evidence
 - the basic theme: *this changes everything!*
+- facts and evidence don’t matter — [[notes/power doesn’t need facts or evidence, just narrative and ideology|power doesn’t need facts or evidence, just narrative and ideology]]
 - durability of the claims is not a chief concern; attention will rapidly move on (often distracted by another blitz)
 - the hype may eventually be exposed as a fraud but it’s too little too late, and attention is intentionally diverted from it
 - Examples: Gulf of Tonkin, the Iraq WMDs, Kuwaiti war crimes, Gaddafi/Benghazi, Syria chemical weapons, Corbyn anti-semitism, Venezuela regime change, Srebrenica massacre, Libya, Iran, Ukraine, Russiagate, literally too many to list 
